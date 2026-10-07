@@ -1,0 +1,77 @@
+# Settings for Dynamic Awesome AI Agent Harnesses Generator
+
+title: "Awesome Open Source AI Agent Harnesses"
+description: "A dynamically curated list of open source AI agent testbeds, evaluation harnesses, sandboxed runtimes, and benchmarking frameworks, automatically updated and grouped by GitHub topics."
+
+github:
+  # Search queries executed against the GitHub Search API
+  # Each query searches repositories with relevant topics or keywords
+  search_queries:
+    - 'topic:agent-harness'
+    - 'topic:eval-harness'
+    - 'topic:evaluation-harness'
+    - 'topic:swe-bench'
+    - 'topic:agent-benchmark'
+    - 'topic:agent-evaluation'
+    - 'topic:agent-sandbox'
+    - 'topic:browser-use'
+    - 'topic:webarena'
+    - '"agent harness" in:name,description'
+    - '"eval harness" in:name,description'
+    - '"agent benchmark" in:name,description'
+
+  # Query limits per run to respect GitHub API rate limits
+  max_pages_per_query: 2
+  per_page: 30
+
+filters:
+  # Minimum star count to ensure project maturity and quality
+  min_stars: 10
+
+  # Enforce presence of an open-source license recognized by GitHub SPDX
+  require_license: true
+
+  # Valid OSI-approved or standard open-source SPDX license keys (empty list = allow any non-empty SPDX)
+  allowed_licenses:
+    - "MIT"
+    - "Apache-2.0"
+    - "BSD-2-Clause"
+    - "BSD-3-Clause"
+    - "GPL-2.0"
+    - "GPL-3.0"
+    - "AGPL-3.0"
+    - "LGPL-2.1"
+    - "LGPL-3.0"
+    - "MPL-2.0"
+    - "CC-BY-4.0"
+    - "CC-BY-SA-4.0"
+    - "Unlicense"
+    - "ISC"
+    - "0BSD"
+
+  # Whether to include archived repositories
+  include_archived: false
+
+  # Whether to include forks
+  include_forks: false
+
+  # Repositories to explicitly exclude (e.g., meta lists, tutorials, or spam)
+  exclude_repos:
+    - "sindresorhus/awesome"
+    - "vinta/awesome-python"
+
+# Seed repositories guaranteed to be included and updated
+seed_repos:
+  - "princeton-nlp/SWE-bench"
+  - "EleutherAI/lm-evaluation-harness"
+  - "SWE-agent/SWE-agent"
+  - "openai/evals"
+  - "browser-use/browser-use"
+  - "THUDM/AgentBench"
+  - "web-arena-x/webarena"
+  - "OSU-NLP-Group/Mind2Web"
+  - "All-Hands-AI/OpenHands"
+  - "Aider-AI/aider"
+  - "KillianLucas/open-interpreter"
+  - "AgentOps-AI/agentops"
+  - "thu-coai/Safety-Bench"

@@ -1,0 +1,97 @@
+# Topic Taxonomy and Grouping Definitions
+
+# Curated categories based on GitHub topic tags
+categories:
+  - id: "swe-coding"
+    name: "Software Engineering & Coding Harnesses"
+    emoji: "💻"
+    description: "Harnesses and testbeds for evaluating and executing autonomous coding agents against real-world repositories, issues, and pull requests."
+    topics:
+      - "swe-bench"
+      - "swe-agent"
+      - "coding-agent"
+      - "code-generation"
+      - "software-engineering"
+      - "coding-benchmark"
+      - "repo-bench"
+      - "code-eval"
+
+  - id: "evaluation-benchmarks"
+    name: "Evaluation, Leaderboards & General Benchmarks"
+    emoji: "📊"
+    description: "Harnesses designed to evaluate LLMs and agent capabilities across diverse benchmarks, tasks, and standardized leaderboards."
+    topics:
+      - "eval-harness"
+      - "evaluation-harness"
+      - "lm-eval"
+      - "benchmark"
+      - "benchmarks"
+      - "leaderboard"
+      - "agent-eval"
+      - "agent-benchmark"
+      - "agent-evaluation"
+      - "agentbench"
+
+  - id: "web-browser-os"
+    name: "Web, Browser & OS Agent Environments"
+    emoji: "🌐"
+    description: "Sandbox environments, browser harnesses, and multi-modal testbeds for web navigation, DOM interaction, and operating system automation."
+    topics:
+      - "browser-use"
+      - "web-agent"
+      - "webarena"
+      - "mind2web"
+      - "browser-automation"
+      - "os-world"
+      - "web-bench"
+      - "gui-agent"
+
+  - id: "multi-agent-orchestration"
+    name: "Multi-Agent & Swarm Harnesses"
+    emoji: "🐝"
+    description: "Harnesses and testbeds designed for multi-agent collaboration, swarms, role-playing, and distributed agent execution."
+    topics:
+      - "multi-agent"
+      - "multiagent"
+      - "swarm"
+      - "swarms"
+      - "agent-orchestration"
+      - "autogen"
+      - "crewai"
+      - "consensus"
+
+  - id: "safety-security"
+    name: "Safety, Security & Red-Teaming Harnesses"
+    emoji: "🛡️"
+    description: "Evaluation harnesses and testbeds for agent jailbreaking, prompt injection, security audits, and behavioral safety alignment."
+    topics:
+      - "red-teaming"
+      - "red-team"
+      - "ai-safety"
+      - "safety-bench"
+      - "security-benchmarks"
+      - "jailbreak"
+      - "alignment"
+      - "adversarial-attacks"
+
+  - id: "runtimes-sandboxes"
+    name: "Execution Sandboxes, Runtimes & Tooling"
+    emoji: "📦"
+    description: "Secure execution sandboxes, containerized runtimes, local code execution environments, and Model Context Protocol (MCP) harnesses."
+    topics:
+      - "agent-sandbox"
+      - "agent-runtime"
+      - "agent-runner"
+      - "docker-harness"
+      - "code-interpreter"
+      - "mcp"
+      - "mcp-server"
+      - "tool-use"
+      - "function-calling"
+
+# Fallback category for discovered harnesses whose topics don't match above categories
+fallback_category:
+  id: "emerging-harnesses"
+  name: "Emerging & General Agent Harnesses"
+  emoji: "🚀"
+  description: "Discovered open source agent harnesses and experimental frameworks with emerging topic tags."

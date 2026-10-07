@@ -1,0 +1,70 @@
+name: Update Awesome Agent Harnesses
+
+on:
+  # Run automatically every Monday at 03:00 UTC
+  schedule:
+    - cron: '0 3 * * 1'
+
+  # Allow manual trigger from the GitHub Actions UI
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Run generator in dry-run mode (do not commit files)'
+        required: false
+        default: false
+        type: boolean
+
+  # Re-render README when configuration or templates are modified
+  push:
+    branches:
+      - main
+    paths:
+      - 'config/**'
+      - 'templates/**'
+      - 'scripts/**'
+      - '.github/workflows/update-awesome-list.yml'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Run Dynamic Harnesses Generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          FLAGS=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            FLAGS="--dry-run"
+          fi
+          python scripts/generate_list.py $FLAGS
+
+      - name: Commit and Push Changes
+        if: github.event.inputs.dry_run != 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(auto): update awesome agent harnesses list [skip ci]"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          file_pattern: "README.md data/harnesses.json"
