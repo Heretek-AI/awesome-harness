@@ -9,9 +9,9 @@
 # Awesome Open Source AI Agent Harnesses
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Total Harnesses](https://img.shields.io/badge/Harnesses-333-blue.svg)](#contents)
+[![Total Harnesses](https://img.shields.io/badge/Harnesses-354-blue.svg)](#contents)
 [![Open Source](https://img.shields.io/badge/Open%20Source-100%25-brightgreen.svg)](#license-requirements)
-[![Automated Sync](https://img.shields.io/badge/Auto--Updated-2026--10--12-orange.svg)](#how-it-works)
+[![Automated Sync](https://img.shields.io/badge/Auto--Updated-2026--10--19-orange.svg)](#how-it-works)
 
 <p align="center">
   <b>A dynamically curated list of open source AI agent testbeds, evaluation harnesses, sandboxed runtimes, and benchmarking frameworks, automatically updated and grouped by GitHub topics.</b>
@@ -36,13 +36,13 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 ## Contents
 
 - [Categories](#categories)
-  - [💻 Software Engineering & Coding Harnesses (46)](#swe-coding)
-  - [📊 Evaluation, Leaderboards & General Benchmarks (77)](#evaluation-benchmarks)
-  - [🌐 Web, Browser & OS Agent Environments (42)](#web-browser-os)
-  - [🐝 Multi-Agent & Swarm Harnesses (20)](#multi-agent-orchestration)
+  - [💻 Software Engineering & Coding Harnesses (50)](#swe-coding)
+  - [📊 Evaluation, Leaderboards & General Benchmarks (83)](#evaluation-benchmarks)
+  - [🌐 Web, Browser & OS Agent Environments (44)](#web-browser-os)
+  - [🐝 Multi-Agent & Swarm Harnesses (22)](#multi-agent-orchestration)
   - [🛡️ Safety, Security & Red-Teaming Harnesses (3)](#safety-security)
-  - [📦 Execution Sandboxes, Runtimes & Tooling (50)](#runtimes-sandboxes)
-  - [🚀 Emerging & General Agent Harnesses (95)](#emerging-harnesses)
+  - [📦 Execution Sandboxes, Runtimes & Tooling (52)](#runtimes-sandboxes)
+  - [🚀 Emerging & General Agent Harnesses (100)](#emerging-harnesses)
 - [Topic Cloud](#topic-cloud)
 - [How It Works](#how-it-works)
 - [Contributing](#contributing)
@@ -58,50 +58,54 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 | Repository | Stars | License | Language | Description | Key Topics |
 | :--- | :---: | :---: | :---: | :--- | :--- |
 | [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | `★ 68.6k` | `Apache-2.0` | `Rust` | A coding agent for open models like Kimi K3 and GLM 5.3 | `acp` `coding-agent` `deepseek` `kimi`  |
-| [**jcode**](https://github.com/1jehuang/jcode) | `★ 20.5k` | `MIT` | `Rust` | High performance coding agent harness written in rust | `ai-agent` `ai-coding-agent` `claude` `cli`  |
-| [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | `★ 6.7k` | `LGPL-3.0` | `TypeScript` | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins | `ai-agent` `coding-agent` `desktop-app` `electron`  |
+| [**jcode**](https://github.com/1jehuang/jcode) | `★ 21.0k` | `MIT` | `Rust` | High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows | `ai-agent` `ai-coding-agent` `claude` `cli`  |
+| [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | `★ 7.0k` | `LGPL-3.0` | `TypeScript` | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins | `ai-agent` `coding-agent` `desktop-app` `electron`  |
 | [**SWE-bench**](https://github.com/SWE-bench/SWE-bench) | `★ 6.0k` | `MIT` | `Python` | SWE-bench: Can Language Models Resolve Real-world Github Issues? | `benchmark` `language-model` `software-engineering`  |
-| [**harnessrouter**](https://github.com/HarnessRouter/harnessrouter) | `★ 3.0k` | `Apache-2.0` | `Python` | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, a... | `agent-api` `agent-framework` `agent-harness` `ai-agents`  |
-| [**openlit**](https://github.com/openlit/openlit) | `★ 2.8k` | `Apache-2.0` | `TypeScript` | OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL. | `agent-harness` `agent-harness-engineering` `ai-engineering` `ai-observability`  |
+| [**harnessrouter**](https://github.com/HarnessRouter/harnessrouter) | `★ 3.1k` | `Apache-2.0` | `Python` | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, a... | `agent-api` `agent-framework` `agent-harness` `ai-agents`  |
+| [**openlit**](https://github.com/openlit/openlit) | `★ 2.9k` | `Apache-2.0` | `TypeScript` | OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL. | `agent-harness` `agent-harness-engineering` `ai-engineering` `ai-observability`  |
 | [**Tianshu-harness**](https://github.com/huiliyi37/Tianshu-harness) | `★ 1.1k` | `Apache-2.0` | `TypeScript` | 天枢harness是一个的终端编程智能体，它要回答的核心问题是：模型何以稳定地交付——目标不漂移、完成有证据、验证有闭环，不说"应该修好了"。为此它在模型与真实世界之间建立一层认知执行环境（CVM），把目标、状态、证据、资源、权限与终止条件从对话历史中外部化，由运行时持续管理。同时对deepseek v4极度优化。 | `agent-harness` `ai-agent` `cli` `coding-agent`  |
-| [**dscode**](https://github.com/qiz029/dscode) | `★ 1.0k` | `MIT` | `JavaScript` | A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry | `agentic` `ai-agent` `cli` `code-review`  |
-| [**Repo2RLEnv**](https://github.com/huggingface/Repo2RLEnv) | `★ 717` | `Apache-2.0` | `Python` | Turn any repository into verifiable RL environments for coding agents - Harbor tasks you can train on, evaluate and share on the Hugging Face Hub | `coding-agents` `datasets` `harbor` `huggingface`  |
-| [**mu**](https://github.com/qybaihe/mu) | `★ 497` | `MIT` | `TypeScript` | mu (μ): a coding agent that thinks before it acts. A small, fast judge makes the routine calls, the big model does the work. Built on pi and AionUi. | `agent-harness` `ai-agent` `ai-coding` `aionui`  |
-| [**harness-remote**](https://github.com/giuliastro/harness-remote) | `★ 406` | `Apache-2.0` | `JavaScript` | Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines. | `acp` `agent-harness` `agent-orchestration` `ai-agents`  |
-| [**CodeAF**](https://github.com/Agent-Field/CodeAF) | `★ 394` | `Apache-2.0` | `Go` | Open-Source Software factory for Open Models | `agent-fleet` `agent-harness` `agentfield` `agentic-coding`  |
+| [**cuga-agent**](https://github.com/cuga-project/cuga-agent) | `★ 1.0k` | `Apache-2.0` | `Python` | CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable a... | `coding-agent` `computer-use` `enterprise` `generalist-agent`  |
+| [**dscode**](https://github.com/qiz029/dscode) | `★ 998` | `MIT` | `JavaScript` | A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry | `agentic` `ai-agent` `cli` `code-review`  |
+| [**Repo2RLEnv**](https://github.com/huggingface/Repo2RLEnv) | `★ 727` | `Apache-2.0` | `Python` | Turn any repository into verifiable RL environments for coding agents - Harbor tasks you can train on, evaluate and share on the Hugging Face Hub | `coding-agents` `datasets` `harbor` `huggingface`  |
+| [**mu**](https://github.com/qybaihe/mu) | `★ 525` | `MIT` | `TypeScript` | mu (μ): a coding agent that thinks before it acts. A small, fast judge makes the routine calls, the big model does the work. Built on pi and AionUi. | `agent-harness` `ai-agent` `ai-coding` `aionui`  |
+| [**CodeAF**](https://github.com/Agent-Field/CodeAF) | `★ 475` | `Apache-2.0` | `Go` | Open-Source Software factory for Open Models | `agent-fleet` `agent-harness` `agentfield` `agentic-coding`  |
+| [**harness-remote**](https://github.com/giuliastro/harness-remote) | `★ 416` | `Apache-2.0` | `JavaScript` | Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines. | `acp` `agent-harness` `agent-orchestration` `ai-agents`  |
+| [**zot**](https://github.com/patriceckhart/zot) | `★ 350` | `MIT` | `Go` | Yet another coding agent harness, lightweight and written in go. | `agent-framework` `agent-harness` `ai-agent` `cli`  |
 | [**no_human**](https://github.com/no-human-ai/no_human) | `★ 326` | `MIT` | `Python` | From ticket to reviewed pull request. Free and open-source, on your machine. | `agent-harness` `agent-orchestration` `agentic-ai` `ai-agent`  |
 | [**pi-bluebook**](https://github.com/xiaomoBoy/pi-bluebook) | `★ 313` | `MIT` | `Markdown` | Pi Coding Agent 中文学习蓝皮书：从安装与第一个可验收任务开始，逐步掌握 Session、Context、Skill、Extension、Subagent 与长期 Agent 工作流。 | `agent-harness` `agent-skills` `ai-agent` `chinese`  |
-| [**SE-Agent**](https://github.com/JARVIS-Xs/SE-Agent) | `★ 288` | `MIT` | `Python` | SE-Agent is a self-evolution framework for LLM Code agents. It enables trajectory-level evolution to exchange information across reasoning paths via Revision... | `claude-code` `code-agent` `code-fix` `mcts`  |
+| [**SE-Agent**](https://github.com/JARVIS-Xs/SE-Agent) | `★ 289` | `MIT` | `Python` | SE-Agent is a self-evolution framework for LLM Code agents. It enables trajectory-level evolution to exchange information across reasoning paths via Revision... | `claude-code` `code-agent` `code-fix` `mcts`  |
 | [**learn-agent**](https://github.com/7-e1even/learn-agent) | `★ 282` | `MIT` | `JavaScript` | 学习Agent开发的笔记，尝试让Agent从可用到可靠 | `agent-harness` `agent-loop` `ai-agent` `aider`  |
-| [**RepoLaunch**](https://github.com/microsoft/RepoLaunch) | `★ 211` | `MIT` | `Python` | [NeurIPS 2026 Main] Automate the build, execution and test of software repositories across programming languages and operating systems. | `agentic-rl` `build-tool` `coding-agent` `swe-bench`  |
-| [**crux**](https://github.com/alanhuangyoo/crux) | `★ 187` | `MIT` | `TypeScript` | Taking the pi coding agent to Claude Code-level performance: 0.539 → 0.773 pass@1 on Terminal-Bench 2.1 with the same self-hosted 27B model, by re-engineerin... | `agent-evaluation` `ai-agent` `coding-agent` `context-engineering`  |
+| [**minimal**](https://github.com/gominimal/minimal) | `★ 216` | `Apache-2.0` | `Rust` | Run your agent in a Minimal box. Ship and run software with isolation on your own computer. | `agent-isolation` `agent-sandbox` `ai-agents` `ai-security`  |
+| [**RepoLaunch**](https://github.com/microsoft/RepoLaunch) | `★ 212` | `MIT` | `Python` | [NeurIPS 2026 Main] Automate the build, execution and test of software repositories across programming languages and operating systems. | `agentic-rl` `build-tool` `coding-agent` `swe-bench`  |
+| [**crux**](https://github.com/alanhuangyoo/crux) | `★ 186` | `MIT` | `TypeScript` | Taking the pi coding agent to Claude Code-level performance: 0.539 → 0.773 pass@1 on Terminal-Bench 2.1 with the same self-hosted 27B model, by re-engineerin... | `agent-evaluation` `ai-agent` `coding-agent` `context-engineering`  |
 | [**DM-Code-Agent**](https://github.com/hwfengcs/DM-Code-Agent) | `★ 154` | `MIT` | `Python` | Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by the official harness -- every number ... | `agent-evaluation` `agent-skills` `code-agent` `llm-agent`  |
 | [**coder_eval**](https://github.com/UiPath/coder_eval) | `★ 151` | `Apache-2.0` | `Python` | Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, A/B experiments, CI... | `agent-evaluation` `agent-skills` `agent-testing` `anthropic`  |
-| [**minimal**](https://github.com/gominimal/minimal) | `★ 146` | `Apache-2.0` | `Rust` | Run your agent in a Minimal box. Ship and run software with isolation on your own computer. | `agent-isolation` `agent-sandbox` `ai-agents` `ai-security`  |
+| [**AutoCua**](https://github.com/ComputerUseAgent/AutoCua) | `★ 111` | `MIT` | `HTML` | Automatic computer use agent for end-to-end automation workflows on macOS, Windows, Linux, iOS and the browser. | `browser-use` `browser-use-agent` `code-generation` `codex`  |
 | [**Flowness**](https://github.com/Towow-ai/Flowness) | `★ 107` | `Apache-2.0` | `Python` | A work-centered runtime for agentic software engineering. Work persists; agents, context, and graphs assemble around it. | `agent-evaluation` `agent-governance` `agent-orchestration` `agent-runtime`  |
-| [**godmode**](https://github.com/thiientv/godmode) | `★ 96` | `MIT` | `Python` | Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals. | `agent-evaluation` `agent-skills` `ai-agents` `ai-coding`  |
-| [**benchmark-harnesses**](https://github.com/strands-labs/benchmark-harnesses) | `★ 64` | `Apache-2.0` | `Python` | Strands-based agents and harnesses for agentic benchmarks. | `agentic` `agentic-ai` `benchmarks` `genai`  |
-| [**retro-harness**](https://github.com/wbopan/retro-harness) | `★ 60` | `MIT` | `Python` | RHO: Evolving Agents in the Dark — Retrospective Harness Optimization via Self-Preference. Improving LLM agents from unlabeled past trajectories (arXiv:2606.... | `agent-optimization` `llm-agents` `prompt-optimization` `research`  |
-| [**agentic-loop-engineering-course**](https://github.com/FareedKhan-dev/agentic-loop-engineering-course) | `★ 58` | `MIT` | `Jupyter Notebook` | An 18 notebook course that isolates and measures each component of agentic loop engineering on real, industry standard software datasets. | `agent-orchestration` `agentic-ai` `ai-agents` `code-generation`  |
-| [**clawker**](https://github.com/schmitthub/clawker) | `★ 57` | `MIT` | `Go` | AI coding agent sandbox platform | `agent-sandbox` `agentic-ai` `agentic-coding` `ai-agent`  |
-| [**kotlin-swe-bench**](https://github.com/Kotlin/kotlin-swe-bench) | `★ 54` | `Apache-2.0` | `Python` | The official Kotlin benchmark by JetBrains | `agent-evaluation` `ai-agents` `kotlin` `swe-bench`  |
+| [**godmode**](https://github.com/thiientv/godmode) | `★ 99` | `MIT` | `Python` | Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals. | `agent-evaluation` `agent-skills` `ai-agents` `ai-coding`  |
+| [**eido**](https://github.com/tony3liu/eido) | `★ 93` | `GPL-3.0` | `Rust` | AI coding agent workspace for macOS, built on Zed and pi. Native code editing and review, browser use, computer use, and global agent access controls. | `ai-assistant` `browser-use` `code-editor` `code-review`  |
+| [**benchmark-harnesses**](https://github.com/strands-labs/benchmark-harnesses) | `★ 65` | `Apache-2.0` | `Python` | Strands-based agents and harnesses for agentic benchmarks. | `agentic` `agentic-ai` `benchmarks` `genai`  |
+| [**retro-harness**](https://github.com/wbopan/retro-harness) | `★ 62` | `MIT` | `Python` | RHO: Evolving Agents in the Dark — Retrospective Harness Optimization via Self-Preference. Improving LLM agents from unlabeled past trajectories (arXiv:2606.... | `agent-optimization` `llm-agents` `prompt-optimization` `research`  |
+| [**agentic-loop-engineering-course**](https://github.com/FareedKhan-dev/agentic-loop-engineering-course) | `★ 59` | `MIT` | `Jupyter Notebook` | An 18 notebook course that isolates and measures each component of agentic loop engineering on real, industry standard software datasets. | `agent-orchestration` `agentic-ai` `ai-agents` `code-generation`  |
+| [**clawker**](https://github.com/schmitthub/clawker) | `★ 58` | `MIT` | `Go` | AI coding agent sandbox platform | `agent-sandbox` `agentic-ai` `agentic-coding` `ai-agent`  |
+| [**kotlin-swe-bench**](https://github.com/Kotlin/kotlin-swe-bench) | `★ 55` | `Apache-2.0` | `Python` | The official Kotlin benchmark by JetBrains | `agent-evaluation` `ai-agents` `kotlin` `swe-bench`  |
 | [**Xenon**](https://github.com/xianyu-sheng/Xenon) | `★ 53` | `MIT` | `Python` | Verifiable AI coding agent harness / 可验证的 AI 编码代理：evidence hash-chain · hollow-answer gate · manual verification checklist · 6 engines + MCP · multi-model · ... | `agent-framework` `agent-harness` `ai-coding-assistant` `cli`  |
 | [**insights**](https://github.com/logic-star-ai/insights) | `★ 51` | `MIT` | `TypeScript` | We track and analyze the activity and performance of autonomous code agents in the wild | `swe-agent` `swe-bench`  |
-| [**why-was-fable-banned**](https://github.com/SihyeonJeon/why-was-fable-banned) | `★ 46` | `MIT` | `Python` | Fable-style spec + evidence gate for Claude Code + Codex. Makes Opus/Codex work under Fable-like discipline: blocks every edit until a deterministic spec pas... | `agent-harness` `ai-agent-guardrails` `ai-coding` `claude-code`  |
+| [**why-was-fable-banned**](https://github.com/SihyeonJeon/why-was-fable-banned) | `★ 47` | `MIT` | `Python` | Fable-style spec + evidence gate for Claude Code + Codex. Makes Opus/Codex work under Fable-like discipline: blocks every edit until a deterministic spec pas... | `agent-harness` `ai-agent-guardrails` `ai-coding` `claude-code`  |
 | [**agro**](https://github.com/mifunedev/agro) | `★ 41` | `Apache-2.0` | `TypeScript` | 🏗️ AGRO — Agent Governance Runtime Orchestrator. A portable home for autonomous coding agents. | `agent-sandbox` `ai-agents` `ai-coding` `claude`  |
 | [**NanoHarness**](https://github.com/semi-hollow/NanoHarness) | `★ 40` | `MIT` | `Python` | Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, and SWE-bench-shaped evidence. | `agent-evaluation` `agent-harness` `coding-agent` `llm-agent`  |
 | [**AgentPatchCheck**](https://github.com/aravelo7/AgentPatchCheck) | `★ 38` | `Apache-2.0` | `TypeScript` | Coding Agent Runtime & Evaluation Harness for controlled repository-level software repair | `agent-runtime` `benchmarking` `coding-agent` `evaluation-harness`  |
 | [**simple-long-horizon-agent**](https://github.com/simple-agent-lab/simple-long-horizon-agent) | `★ 34` | `Apache-2.0` | `Python` | Simple Long Horizon Agent - A simple yet effective AI agent for learning, experimentation, and long horizon work. | `agent-harness` `harness` `harness-engineering` `long-horizon`  |
-| [**arbos**](https://github.com/unarbos/arbos) | `★ 30` | `MIT` | `Zig` | Arbos is a coding agent for one project. Talk to Main, watch workers, keep the work in one place. | `agent-coordinator` `ai-agents` `coding-agent` `cursor`  |
-| [**mini-ork**](https://github.com/SourceShift/mini-ork) | `★ 30` | `Apache-2.0` | `Python` | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attacks the patch with generated invariants... | `agent-framework` `agentic-ai` `ai-agents` `ai-code-review`  |
-| [**repoagentbench**](https://github.com/HumphreySun98/repoagentbench) | `★ 28` | `MIT` | `Python` | SWE-bench for your codebase — mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: claude-code, aider (Opus 4.7 / GPT-5.5 /... | `agent-evals` `ai-agents` `aider` `benchmark`  |
+| [**mini-ork**](https://github.com/SourceShift/mini-ork) | `★ 32` | `Apache-2.0` | `Python` | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attacks the patch with generated invariants... | `agent-framework` `agentic-ai` `ai-agents` `ai-code-review`  |
+| [**repoagentbench**](https://github.com/HumphreySun98/repoagentbench) | `★ 27` | `MIT` | `Python` | SWE-bench for your codebase — mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: claude-code, aider (Opus 4.7 / GPT-5.5 /... | `agent-evals` `ai-agents` `aider` `benchmark`  |
 | [**squeez**](https://github.com/KRLabsOrg/squeez) | `★ 24` | `Apache-2.0` | `Python` | Squeeze verbose LLM agent tool output down to only the relevant lines | `coding-agent` `context-compression` `lora` `pytorch`  |
 | [**coding-agent-kernel**](https://github.com/Ev3rGan/coding-agent-kernel) | `★ 23` | `Apache-2.0` | `Python` | Independent Python coding-agent kernel with observable runs, tools, sessions, permissions, DeepSeek, and SWE-bench. | `agent-kernel` `coding-agent` `deepseek` `llm-agents`  |
 | [**ai-workflow-benchmark**](https://github.com/xmpuspus/ai-workflow-benchmark) | `★ 14` | `MIT` | `Python` | Benchmark harness measuring AI coding tool+workflow performance, not just model capability. 100 tasks, sigmoid scoring, 12 capability dimensions, gap analysis. | `ai-agents` `ai-coding` `benchmark` `claude-code`  |
-| [**awesome-ai-coding-tools**](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools) | `★ 12` | `MIT` | `Multi` | Curated catalog of AI coding assistants, terminal agents, local LLMs, and automated testing tools | `ai-agents` `aider` `awesome` `awesome-list`  |
+| [**deepseek-v4.1-flash-a100-turbo**](https://github.com/Tokha233/deepseek-v4.1-flash-a100-turbo) | `★ 14` | `Apache-2.0` | `Python` | DeepSeek-V4.1-Flash inference on NVIDIA Ampere with vLLM, SM80 patches, reproducible throughput and coding-agent benchmarks. Tested on 8x A800 80GB. | `a100` `a800` `deepseek` `deepseek-v4`  |
+| [**Agent-Sandbox**](https://github.com/scitix/Agent-Sandbox) | `★ 12` | `Apache-2.0` | `TypeScript` | Fast, Multi-Cloud Sandbox Engine for AI Agents | `agent-sandbox` `agentic-rl` `e2b` `e2b-compatible`  |
 | [**mcpbr**](https://github.com/greynewell/mcpbr) | `★ 11` | `MIT` | `Python` | Benchmark your MCP server. | `benchmarking` `llm-evaluation` `mcp` `ml-evaluation`  |
 | [**agents**](https://github.com/benchflow-ai/agents) | `★ 11` | `Apache-2.0` | `Python` | Minimal coding agents, easy to play with (opencode TUI) and easy to benchmark (ACP on BenchFlow) — built around mini-swe-agent | `acp` `ai-agents` `coding-agent` `llm-evaluation`  |
-| [**Agent-Sandbox**](https://github.com/scitix/Agent-Sandbox) | `★ 11` | `Apache-2.0` | `TypeScript` | Fast, Multi-Cloud Sandbox Engine for AI Agents | `agent-sandbox` `agentic-rl` `e2b` `e2b-compatible`  |
+| [**Parsimony**](https://github.com/La5u/Parsimony) | `★ 11` | `MIT` | `Python` | Measures how much code AI coding agents add, from patches benchmarks already publish | `ai-agents` `benchmark` `code-complexity` `code-quality`  |
 | [**harness-bench**](https://github.com/TheLime1/harness-bench) | `★ 10` | `MIT` | `TypeScript` | Benchmark leaderboard for AI coding harnesses by model. | `ai-agents` `benchmark` `coding-agent` `leaderboard`  |
 
 
@@ -111,74 +115,79 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 
 | Repository | Stars | License | Language | Description | Key Topics |
 | :--- | :---: | :---: | :---: | :--- | :--- |
-| [**iFixAi**](https://github.com/ifixai-ai/iFixAi) | `★ 23.9k` | `Apache-2.0` | `Python` | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is ... | `agent-evaluation` `ai-alignment` `ai-evaluation` `ai-governance`  |
+| [**iFixAi**](https://github.com/ifixai-ai/iFixAi) | `★ 29.7k` | `Apache-2.0` | `Python` | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is ... | `agent-evaluation` `ai-alignment` `ai-evaluation` `ai-governance`  |
 | [**giskard-oss**](https://github.com/Giskard-AI/giskard-oss) | `★ 5.9k` | `Apache-2.0` | `Python` | 🐢 Open-Source Evaluation & Testing library for LLM Agents | `agent-evaluation` `ai-red-team` `ai-security` `ai-testing`  |
 | [**coze-loop**](https://github.com/coze-dev/coze-loop) | `★ 5.8k` | `Apache-2.0` | `Go` | Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities fro... | `agent-evaluation` `agent-observability` `agentops` `coze`  |
 | [**trulens**](https://github.com/truera/trulens) | `★ 3.6k` | `MIT` | `Python` | Evaluation and Tracking for LLM Experiments and AI Agents | `agent-evaluation` `agentops` `ai-agents` `ai-monitoring`  |
-| [**future-agi**](https://github.com/future-agi/future-agi) | `★ 2.1k` | `Apache-2.0` | `Python` | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway ·... | `agent-evaluation` `ai-agents` `ai-evals` `ai-gateway`  |
+| [**future-agi**](https://github.com/future-agi/future-agi) | `★ 2.2k` | `Apache-2.0` | `Python` | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway ·... | `agent-evaluation` `ai-agents` `ai-evals` `ai-gateway`  |
 | [**any-agent**](https://github.com/mozilla-ai/any-agent) | `★ 1.2k` | `Apache-2.0` | `Python` | A single interface to use and evaluate different agent frameworks | `a2a` `agent-evaluation` `mcp`  |
-| [**TheAgentCompany**](https://github.com/TheAgentCompany/TheAgentCompany) | `★ 794` | `MIT` | `Python` | An agent benchmark with tasks in a simulated software company. | `ai-benchmark` `ai-research` `benchmark`  |
-| [**pandaprobe**](https://github.com/chirpz-ai/pandaprobe) | `★ 789` | `Apache-2.0` | `Python` | open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude Agent SDK, ... | `agent-engineering` `agent-evaluation` `agent-observability` `agentic-ai`  |
-| [**SkillEvaluator**](https://github.com/NVIDIA/SkillEvaluator) | `★ 561` | `Apache-2.0` | `Python` | Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent e... | `agent-evaluation` `agent-security` `agent-skills` `agentic-ai`  |
+| [**Tracely-ai**](https://github.com/jwuthri-cloud/Tracely-ai) | `★ 1.1k` | `MIT` | `Python` | Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-h... | `agent-evaluation` `ai-agents` `ai-testing` `ci-cd`  |
+| [**TheAgentCompany**](https://github.com/TheAgentCompany/TheAgentCompany) | `★ 798` | `MIT` | `Python` | An agent benchmark with tasks in a simulated software company. | `ai-benchmark` `ai-research` `benchmark`  |
+| [**pandaprobe**](https://github.com/chirpz-ai/pandaprobe) | `★ 791` | `Apache-2.0` | `Python` | open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude Agent SDK, ... | `agent-engineering` `agent-evaluation` `agent-observability` `agentic-ai`  |
+| [**SkillEvaluator**](https://github.com/NVIDIA/SkillEvaluator) | `★ 576` | `Apache-2.0` | `Python` | Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent e... | `agent-evaluation` `agent-security` `agent-skills` `agentic-ai`  |
 | [**AdaRubrics**](https://github.com/alphadl/AdaRubrics) | `★ 365` | `Apache-2.0` | `Python` | AdaRubric: Adaptive Dynamic Rubric Evaluator for Agent Trajectories | `agent-evaluation` `llm-evaluation` `reward-model` `rlhf`  |
-| [**benchmark-radar**](https://github.com/ktwu01/benchmark-radar) | `★ 292` | `MIT` | `Python` | Track 20,710+ AI benchmark, eval, dataset, and data-quality records from 39 public sources, with linked evidence and daily updates. | `agent-bench` `agent-benchmark` `agent-benchmarking` `agent-benchmarks`  |
-| [**agentenv-framework**](https://github.com/scaleapi/agentenv-framework) | `★ 242` | `Apache-2.0` | `Python` | Creating realistic RL environments requires collaboration between researchers, engineers, and domain experts across many dimensions: artifacts, environments ... | `a2a` `agent-evaluation` `agentic-ai` `ai-agents`  |
+| [**agentenv-framework**](https://github.com/scaleapi/agentenv-framework) | `★ 327` | `Apache-2.0` | `Python` | Creating realistic RL environments requires collaboration between researchers, engineers, and domain experts across many dimensions: artifacts, environments ... | `a2a` `agent-evaluation` `agentic-ai` `ai-agents`  |
+| [**benchmark-radar**](https://github.com/ktwu01/benchmark-radar) | `★ 296` | `MIT` | `Python` | Track 33,707+ AI benchmark, eval, dataset, and data-quality records from 40 public sources, with linked evidence and daily updates. | `agent-bench` `agent-benchmark` `agent-benchmarking` `agent-benchmarks`  |
+| [**mirobody-eval**](https://github.com/thetahealth/mirobody-eval) | `★ 265` | `MIT` | `Python` | An evaluation harness for medical/health AI agents — reproduce and cover multiple benchmarks under one scoring discipline | `agent-evals` `benchmark-reproducibility` `evaluation-framework` `evaluation-harness`  |
 | [**agent-leaderboard**](https://github.com/rungalileo/agent-leaderboard) | `★ 226` | `MIT` | `Jupyter Notebook` | Ranking LLMs on agentic tasks | `agent-evaluation` `ai-agents` `ai-benchmark` `ai-evaluation`  |
-| [**AgentMeasure**](https://github.com/roy-tong/AgentMeasure) | `★ 218` | `MIT` | `Python` | Independent verification of AI support bills: applicable terms, invoice and business records, with reviewable findings. Open-source conformance for agent tel... | `agent-commerce` `agent-economy` `agent-evaluation` `agent-observability`  |
-| [**mirobody-eval**](https://github.com/thetahealth/mirobody-eval) | `★ 216` | `MIT` | `Python` | An evaluation harness for medical/health AI agents — reproduce and cover multiple benchmarks under one scoring discipline | `agent-evals` `benchmark-reproducibility` `evaluation-framework` `evaluation-harness`  |
-| [**ai-agents-tutorial**](https://github.com/amitshekhariitbhu/ai-agents-tutorial) | `★ 191` | `Apache-2.0` | `Multi` | Learn AI Agents step by step, from scratch - from function calling to agent loops to multi-agent systems, orchestration, and evaluation. | `agent-evaluation` `agent-loop` `agent-orchestration` `ai-agent`  |
-| [**Awesome-AI4AI**](https://github.com/KaiWU5/Awesome-AI4AI) | `★ 179` | `MIT` | `Python` | AI4AI Survey: can AI reliably improve AI? 223 papers on long-horizon agents, benchmarks, harness design, and recursive self-improvement · updated weekly | `agent-benchmarks` `agent-harness` `agi` `ai-agents`  |
+| [**AgentMeasure**](https://github.com/roy-tong/AgentMeasure) | `★ 218` | `MIT` | `Python` | Inspect Codex / Claude logs, verify metering samples and re-count supported billing exports. Free local tools; bounded $10 diagnosis and $20 QA. | `agent-commerce` `agent-economy` `agent-evaluation` `agent-observability`  |
+| [**Harness-RSI**](https://github.com/zgcagi/Harness-RSI) | `★ 212` | `CC-BY-4.0` | `TeX` | Harness self-evolution: update targets, theory, evaluation, and reported evidence. Bilingual reading list and project website. | `agent-evaluation` `agent-harness` `agent-memory` `agent-skills`  |
+| [**ai-agents-tutorial**](https://github.com/amitshekhariitbhu/ai-agents-tutorial) | `★ 192` | `Apache-2.0` | `Multi` | Learn AI Agents step by step, from scratch - from function calling to agent loops to multi-agent systems, orchestration, and evaluation. | `agent-evaluation` `agent-loop` `agent-orchestration` `ai-agent`  |
+| [**Awesome-AI4AI**](https://github.com/KaiWU5/Awesome-AI4AI) | `★ 181` | `MIT` | `Python` | Updated weekly — until humanity achieves AI4AI. AI4AI Survey: can AI reliably improve AI? 223 papers on long-horizon agents, benchmarks, harness design, and ... | `agent-benchmarks` `agent-harness` `agi` `ai-agents`  |
 | [**LLM-Agent-Benchmark-List**](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) | `★ 172` | `Apache-2.0` | `Multi` | A banchmark list for evaluation of large language models. | `benchmark` `survey`  |
-| [**eval-view**](https://github.com/hidai25/eval-view) | `★ 137` | `Apache-2.0` | `Python` | Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic. | `agent-benchmark` `agent-evaluation` `agentic-ai` `ai-agents`  |
-| [**every_eval_ever**](https://github.com/evaleval/every_eval_ever) | `★ 136` | `MIT` | `Python` | Every Eval Ever is a shared schema and crowdsourced eval database. It defines a standardized metadata format for storing AI evaluation results — from leaderb... | `agent-evaluation` `ai-evaluation` `evaluations` `infra`  |
-| [**model-serving-minefield**](https://github.com/Blackwellboy/model-serving-minefield) | `★ 135` | `MIT` | `Python` | Community registry of LLM serving-path traps that produce confidently wrong measurements: templates, tool parsers, reasoning fields, quant kernel paths, CUDA... | `benchmarking` `chat-template` `cuda` `debugging`  |
-| [**hermes-skilleval**](https://github.com/Raidriar7170/hermes-skilleval) | `★ 125` | `MIT` | `Python` | Verification-gated skill routing and self-improvement harness for Hermes-style agent skills | `agent-evaluation` `benchmark` `ci` `llm-agents`  |
-| [**AgentKernelArena**](https://github.com/AMD-AGI/AgentKernelArena) | `★ 121` | `Apache-2.0` | `Python` | AgentKernelArena provides an end-to-end siloed-benchmarking environment where different LLM-powered agents—such as Cursor Agent, Claude Code, Codex, SWE-agen... | `agent-evaluation` `gpu-kernels` `llamas`  |
+| [**model-serving-minefield**](https://github.com/Blackwellboy/model-serving-minefield) | `★ 140` | `MIT` | `Python` | Community registry of LLM serving-path traps that produce confidently wrong measurements: templates, tool parsers, reasoning fields, quant kernel paths, CUDA... | `benchmarking` `chat-template` `cuda` `debugging`  |
+| [**eval-view**](https://github.com/hidai25/eval-view) | `★ 139` | `Apache-2.0` | `Python` | Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic. | `agent-benchmark` `agent-evaluation` `agentic-ai` `ai-agents`  |
+| [**every_eval_ever**](https://github.com/evaleval/every_eval_ever) | `★ 137` | `MIT` | `Python` | Every Eval Ever is a shared schema and crowdsourced eval database. It defines a standardized metadata format for storing AI evaluation results — from leaderb... | `agent-evaluation` `ai-evaluation` `evaluations` `infra`  |
+| [**AgentKernelArena**](https://github.com/AMD-AGI/AgentKernelArena) | `★ 122` | `Apache-2.0` | `Python` | AgentKernelArena is a platform for evaluating and training AI agents for GPU kernel optimization, combining realistic tasks, correctness validation, and perf... | `agent-evaluation` `gpu-kernels` `llamas`  |
 | [**claimpilot-harness**](https://github.com/samarailly51-pixel/claimpilot-harness) | `★ 117` | `MIT` | `Python` | Crash-test insurance claim AI agents before production. | `agent-evaluation` `ai-agents` `insurance` `llm-evals`  |
+| [**fde-gym**](https://github.com/deeplethe/fde-gym) | `★ 109` | `Apache-2.0` | `TypeScript` | The online judge for the LLM era. Every case is a real customer delivery: you work it with a coding agent, and your system is judged once it is live. | `agent-evaluation` `ai-agents` `benchmark` `coding-agent`  |
 | [**jev-curate**](https://github.com/AkashPriyadarshii/jev-curate) | `★ 104` | `MIT` | `Rust` | High-throughput synthetic and pretraining dataset sifter for TypeSafe Jev. Rust streaming core, Parquet and JSONL I/O, typed Choice/Score/Noul judgments, spe... | `arrow` `cli` `data-cleaning` `data-engineering`  |
 | [**heurigym**](https://github.com/cornell-zhang/heurigym) | `★ 97` | `Apache-2.0` | `Python` | Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization (ICLR'26) | `benchmark` `chatgpt` `optimization`  |
 | [**forsy-trace-skill**](https://github.com/ray-r-ren/forsy-trace-skill) | `★ 96` | `MIT` | `Python` | Open skill for capturing AI agent work as structured traces. | `agent-evaluation` `agent-traces` `agent-workflows` `ai-agents`  |
 | [**checkup**](https://github.com/agentvitals/checkup) | `★ 95` | `AGPL-3.0` | `Shell` | AgentVitals Checkup (/checkup) — an AI agent skill that gives your agent a professional health checkup: dual-axis Stability + Welfare scoring, a personality-... | `agent-benchmark` `agent-health` `agent-skill` `agentvitals`  |
-| [**fde-gym**](https://github.com/deeplethe/fde-gym) | `★ 92` | `Apache-2.0` | `TypeScript` | The online judge for the LLM era. Every case is a real customer delivery: you work it with a coding agent, and your system is judged once it is live. | `agent-evaluation` `ai-agents` `benchmark` `coding-agent`  |
-| [**awesome-llm-agent-papers**](https://github.com/js-lee-AI/awesome-llm-agent-papers) | `★ 88` | `MIT` | `Python` | A curated, continuously updated reading list of 500+ papers on LLM agents: planning, memory, tool use, multi-agent, evaluation & safety. Companion to the sur... | `agent-benchmark` `agent-survey` `ai-agents` `ai-safety`  |
+| [**awesome-llm-agent-papers**](https://github.com/js-lee-AI/awesome-llm-agent-papers) | `★ 90` | `MIT` | `Python` | A curated, continuously updated reading list of 500+ papers on LLM agents: planning, memory, tool use, multi-agent, evaluation & safety. Companion to the sur... | `agent-benchmark` `agent-survey` `ai-agents` `ai-safety`  |
 | [**AgentCheck**](https://github.com/WaseemGhanem98/AgentCheck) | `★ 79` | `Apache-2.0` | `Python` | Behavioral testing for AI agents. | `agent-evaluation` `ai-agents` `ai-safety` `developer-tools`  |
+| [**reforge-ai-evals**](https://github.com/Calibre-Labs/reforge-ai-evals) | `★ 76` | `MIT` | `HTML` | Open-source AI evals toolkit: skills that guide AI coding agents to write eval rubrics, eval datasets (User Input Grid), trace codes, code evaluators and LLM... | `agent-evaluation` `agent-skills` `ai-evals` `ai-product-management`  |
+| [**on-panda**](https://github.com/on-panda/on-panda) | `★ 63` | `MIT` | `JavaScript` | 🐼 Steer your LLMs and agents at the token level: A web tool for token visualization & control, model inspection, and LLM & agent trajectory annotation. | `agent-evaluation` `agent-trajectory` `agent-trajectory-annotation` `agent-trajectory-annotation-tool`  |
+| [**HarnessBench**](https://github.com/reacher-z/HarnessBench) | `★ 62` | `Apache-2.0` | `Python` | Benchmark for comparing agent harnesses on everyday online tasks — fixes the base model, varies the harness. Sister project of ClawBench, same scoring pipeline. | `agent-evaluation` `agent-harness` `agentic-ai` `ai-agents`  |
 | [**ai-agents-reality-check**](https://github.com/Cre4T3Tiv3/ai-agents-reality-check) | `★ 61` | `Apache-2.0` | `Python` | Benchmarking the gap between AI agent hype and architecture. Three agent archetypes, 73-point performance spread, stress testing, network resilience, and ens... | `agent-architecture` `agent-benchmark` `agent-evaluation` `agent-performance`  |
-| [**HarnessBench**](https://github.com/reacher-z/HarnessBench) | `★ 60` | `Apache-2.0` | `Python` | Benchmark for comparing agent harnesses on everyday online tasks — fixes the base model, varies the harness. Sister project of ClawBench, same scoring pipeline. | `agent-evaluation` `agent-harness` `agentic-ai` `ai-agents`  |
+| [**mirobody-env**](https://github.com/thetahealth/mirobody-env) | `★ 61` | `MIT` | `Python` | HAEnv — synthetic longitudinal patients with code-derived gold, for evaluating health agents over time | `agent-evals` `benchmark` `clinical-decision-support` `evaluation-harness`  |
 | [**dokimos**](https://github.com/dokimos-dev/dokimos) | `★ 60` | `MIT` | `Java` | LLM and agent evaluation for Java & Kotlin. Runs in JUnit and CI. Spring AI, LangChain4j, Koog, Embabel, and any LLM client. | `agent-evaluation` `agentic-ai` `embabel` `evaluation`  |
-| [**on-panda**](https://github.com/on-panda/on-panda) | `★ 60` | `MIT` | `JavaScript` | 🐼 Steer your LLMs and agents at the token level: A web app for token visualization & control, model inspection, data annotation, and more. | `agent-evaluation` `agent-trace-toolkit` `agent-trajectory` `agent-trajectory-annotation`  |
 | [**cloudbox**](https://github.com/acoyfellow/cloudbox) | `★ 56` | `MIT` | `TypeScript` | Durable Cloudflare computers for agents: run repos, steer live workspaces, verify results, and return receipts. | `agent-computer` `agent-evaluation` `ai-agents` `cloudflare`  |
+| [**isnad**](https://github.com/alizahidraja/isnad) | `★ 52` | `Apache-2.0` | `Python` | Grade every agent, scraper and model in a claim's chain — provenance, trust scoring and audit evidence for LLM pipelines | `agent-evaluation` `agent-observability` `ai-agents` `ai-governance`  |
 | [**laya-jev-GraphRAG**](https://github.com/bodepudimuneendra-netizen/laya-jev-GraphRAG) | `★ 51` | `Apache-2.0` | `Python` | A database-agnostic Agentic GraphRAG framework using swappable System One models (local Laya / cloud Jev). A plug-and-play intelligence layer featuring a com... | `astar-algorithm` `eval-harness` `fine-tuning` `graphdatabase`  |
-| [**isnad**](https://github.com/alizahidraja/isnad) | `★ 51` | `Apache-2.0` | `Python` | Grade every agent, scraper and model in a claim's chain — provenance, trust scoring and audit evidence for LLM pipelines | `agent-evaluation` `agent-observability` `ai-agents` `ai-governance`  |
-| [**tianji-ai-agent**](https://github.com/however-yir/tianji-ai-agent) | `★ 48` | `MIT` | `Java` | Production-oriented multi-agent course advisor with deterministic action governance, offline regression evaluation, SSE contracts and observable tool execution. | `agent-evaluation` `java` `multi-agent` `rag`  |
-| [**benchjack**](https://github.com/benchjack/benchjack) | `★ 48` | `Apache-2.0` | `Python` | AI agent benchmark hackability scanner — find evaluation vulnerabilities before they undermine your results | `ai-agents` `ai-security` `benchmark` `evaluation`  |
+| [**benchjack**](https://github.com/benchjack/benchjack) | `★ 49` | `Apache-2.0` | `Python` | AI agent benchmark hackability scanner — find evaluation vulnerabilities before they undermine your results | `ai-agents` `ai-security` `benchmark` `evaluation`  |
+| [**tianji-ai-agent**](https://github.com/however-yir/tianji-ai-agent) | `★ 47` | `MIT` | `Java` | Production-oriented multi-agent course advisor with deterministic action governance, offline regression evaluation, SSE contracts and observable tool execution. | `agent-evaluation` `java` `multi-agent` `rag`  |
 | [**ai-agent-eval-harness**](https://github.com/najeed/ai-agent-eval-harness) | `★ 44` | `Apache-2.0` | `Python` | The open-source MultiAgentOps evaluation and verification harness for any industry business workflow. | `agent-assurance` `agent-observability` `agent-testing` `agent-verification`  |
 | [**A2E**](https://github.com/datamllab/A2E) | `★ 43` | `MIT` | `Python` | No description provided. | `agent-audit` `agent-evaluation` `agent-observability` `agentic-ai`  |
+| [**AgentSWE**](https://github.com/VectorSpaceLab/AgentSWE) | `★ 41` | `Apache-2.0` | `Python` | Can coding agents build the agent you actually want? A benchmark of 25 agent software engineering tasks across creation, editing and optimization. | `agent-evaluation` `benchmark` `coding-agents` `llm-agents`  |
 | [**agentune**](https://github.com/SparkBeyond/agentune) | `★ 40` | `Apache-2.0` | `Python` | Tune your AI Agent to best meet its KPI with a cyclic process of analyze, improve and simulate | `agent-evaluation` `agent-optimization` `agent-simulator` `ai-agents`  |
-| [**DataSpace**](https://github.com/HKUSTDial/DataSpace) | `★ 34` | `MIT` | `Python` | Benchmarking data agents for verifiable analytics over heterogeneous workspaces. | `agent-evaluation` `ai-agents` `benchmark` `data-agents`  |
-| [**money-agent**](https://github.com/ImmortalDemonGod/money-agent) | `★ 34` | `MIT` | `Python` | Overnight experiment: can an AI agent make money, and can you trust what it reports? The agent produces claims; a separate verifier it cannot invoke produces... | `agent-evaluation` `agentic-ai` `ai-agent` `ai-agents`  |
-| [**self-bench**](https://github.com/mupt-ai/self-bench) | `★ 31` | `MIT` | `TypeScript` | Benchmark coding agents and models on your own repository with private Harbor-formatted evals built from its merged pull requests. | `agent-evaluation` `ai-agents` `benchmark` `coding-agents`  |
-| [**done-is-a-claim**](https://github.com/Grit-77/done-is-a-claim) | `★ 31` | `Apache-2.0` | `Python` | Your coding agent says done. Show the receipt. Evidence-first workflows, practical skills, and plugins for Claude Code and Codex. | `agent-evaluation` `agent-reliability` `agent-skills` `agents-md`  |
+| [**money-agent**](https://github.com/ImmortalDemonGod/money-agent) | `★ 36` | `MIT` | `Python` | Overnight experiment: can an AI agent make money, and can you trust what it reports? The agent produces claims; a separate verifier it cannot invoke produces... | `agent-evaluation` `agentic-ai` `ai-agent` `ai-agents`  |
+| [**DataSpace**](https://github.com/HKUSTDial/DataSpace) | `★ 35` | `MIT` | `Python` | Benchmarking data agents for verifiable analytics over heterogeneous workspaces. | `agent-evaluation` `ai-agents` `benchmark` `data-agents`  |
+| [**done-is-a-claim**](https://github.com/Grit-77/done-is-a-claim) | `★ 33` | `Apache-2.0` | `Python` | Your coding agent says done. Show the receipt. Evidence-first workflows, practical skills, and plugins for Claude Code and Codex. | `agent-evaluation` `agent-reliability` `agent-skills` `agents-md`  |
+| [**self-bench**](https://github.com/mupt-ai/self-bench) | `★ 32` | `MIT` | `TypeScript` | Benchmark coding agents and models on your own repository with private Harbor-formatted evals built from its merged pull requests. | `agent-evaluation` `ai-agents` `benchmark` `coding-agents`  |
+| [**hermes-skilleval**](https://github.com/Raidriar7170/hermes-skilleval) | `★ 29` | `MIT` | `Python` | Verification-gated skill routing and self-improvement harness for Hermes-style agent skills | `agent-evaluation` `benchmark` `ci` `llm-agents`  |
+| [**TwinRouterBench**](https://github.com/CommonstackAI/TwinRouterBench) | `★ 28` | `Apache-2.0` | `Python` | Per-step LLM routing benchmark with 970 static labels, live SWE-bench evaluation, an open data pipeline, and a public leaderboard. | `agentic-ai` `benchmark` `cost-optimization` `leaderboard`  |
 | [**self-care**](https://github.com/Not-Diamond/self-care) | `★ 28` | `MIT` | `JavaScript` | Agent trace analysis and context remediation plugin for Claude Code. Detects quality issues in your AI agent traces — goal drift, hallucinations, missed acti... | `agent-evaluation` `ai-agents` `claude-code` `observability`  |
-| [**TwinRouterBench**](https://github.com/CommonstackAI/TwinRouterBench) | `★ 27` | `Apache-2.0` | `Python` | Per-step LLM routing benchmark with 970 static labels, live SWE-bench evaluation, an open data pipeline, and a public leaderboard. | `agentic-ai` `benchmark` `cost-optimization` `leaderboard`  |
 | [**jeju**](https://github.com/cosmtrek/jeju) | `★ 27` | `MIT` | `Go` | Declarative, local-first runtime for bounded AI agents — define an agent in one manifest, run it headless, and audit every effect. | `agent-evaluation` `agent-harness` `ai-agents` `evolution`  |
+| [**Agentic_Evals**](https://github.com/abhineer/Agentic_Evals) | `★ 27` | `MIT` | `Jupyter Notebook` | Practical evaluation techniques, benchmarks, and examples for production AI agents: RAG, tool use, planning, memory, safety, reliability, and cost. | `agent-evaluation` `agentic-ai` `ai-agents` `benchmark`  |
 | [**agentshield-benchmark**](https://github.com/doronp/agentshield-benchmark) | `★ 27` | `Apache-2.0` | `TypeScript` | Open benchmark for AI agent security tools — prompt injection, data exfiltration, tool abuse, provenance | `agent-security` `ai-security` `benchmark` `guardrails`  |
-| [**Agentic_Evals**](https://github.com/abhineer/Agentic_Evals) | `★ 26` | `MIT` | `Jupyter Notebook` | Practical evaluation techniques, benchmarks, and examples for production AI agents: RAG, tool use, planning, memory, safety, reliability, and cost. | `agent-evaluation` `agentic-ai` `ai-agents` `benchmark`  |
 | [**foundry-cicd**](https://github.com/leestott/foundry-cicd) | `★ 25` | `MIT` | `Multi` | Enterprise-ready CI/CD reference for Microsoft Foundry AI agents, with parallel GitHub Actions and Azure DevOps pipelines, evaluation-driven quality gates, a... | `agent-evaluation` `ai-agents` `azure` `azure-devops`  |
 | [**langeval**](https://github.com/solana8800/langeval) | `★ 24` | `Apache-2.0` | `TypeScript` | Evaluation Infrastructure for AI Agents | `agent-evaluation` `ai-evals` `ai-evaluation`  |
 | [**calibrate**](https://github.com/ARTPARK-SAHAI-ORG/calibrate) | `★ 23` | `CC-BY-SA-4.0` | `JavaScript` | Core engine behind Calibrate, a framework for evaluating AI agents: speech-to-text, text-to-speech, LLM evaluation, end-to-end simulations | `agent-evaluation` `agent-evaluation-tools` `ai-agent-evaluation` `ai-agents`  |
 | [**oh-my-knowledge**](https://github.com/lizhiyao/oh-my-knowledge) | `★ 23` | `MIT` | `TypeScript` | OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude Code, and DeepSeek Harness support. | `agent-evaluation` `benchmark` `bootstrap-ci` `claude`  |
 | [**amber**](https://github.com/getaskclaw/amber) | `★ 22` | `Apache-2.0` | `Python` | AMBER (sealed-in-amber historical replay evaluation): real-event replay, physical sealing, pre-registered scoring — method spec; cases private, results public | `agent-evaluation` `ai-agents` `benchmark` `benchmarking`  |
 | [**ctf-agent-benchmark**](https://github.com/FishCodeTech/ctf-agent-benchmark) | `★ 22` | `GPL-3.0` | `Python` | Benchmarking platform for evaluating AI agents on CTF-style tasks and tool-use workflows. | `ai-agent` `benchmark` `ctf` `evaluation`  |
-| [**basically-agent-evals**](https://github.com/TejasQ/basically-agent-evals) | `★ 20` | `MIT` | `TypeScript` | Your Evals Are Lying To You: a hands-on TypeScript curriculum for LLM evals, from a five-line assertion to a live diagnostic console. By Tejas Kumar. | `ai-agents` `eval-harness` `evals` `llm-evaluation`  |
+| [**basically-agent-evals**](https://github.com/TejasQ/basically-agent-evals) | `★ 21` | `MIT` | `TypeScript` | Your Evals Are Lying To You: a hands-on TypeScript curriculum for LLM evals, from a five-line assertion to a live diagnostic console. By Tejas Kumar. | `ai-agents` `eval-harness` `evals` `llm-evaluation`  |
 | [**ATLAS**](https://github.com/multi-agent-systems-failure-taxonomy/ATLAS) | `★ 20` | `Apache-2.0` | `Python` | No description provided. | `agent-evaluation` `agent-observability` `claude-code` `codex`  |
 | [**agentrial**](https://github.com/alepot55/agentrial) | `★ 20` | `MIT` | `Python` | Statistical evaluation framework for AI agents | `agent-evaluation` `ai-agents` `ai-testing` `ci-cd`  |
+| [**browseruse-agent-bench**](https://github.com/lexmount/browseruse-agent-bench) | `★ 20` | `Apache-2.0` | `Python` | Real-world browser-agent benchmark: 210 tasks across 107 websites, multi-agent/multi-browser evaluation, reproducible leaderboard and result submissions. | `agent-evaluation` `ai-agents` `benchmark` `browser-agent`  |
 | [**guard-eval-harness**](https://github.com/Virtue-Research/guard-eval-harness) | `★ 19` | `MIT` | `Python` | One command to benchmark AI guardrails and coding agents across safety, security, jailbreak, prompt-injection, and secure-code tasks. | `ai-safety` `benchmark` `cli` `eval-harness`  |
-| [**browseruse-agent-bench**](https://github.com/lexmount/browseruse-agent-bench) | `★ 19` | `Apache-2.0` | `Python` | Real-world browser-agent benchmark: 210 tasks across 107 websites, multi-agent/multi-browser evaluation, reproducible leaderboard and result submissions. | `agent-evaluation` `ai-agents` `benchmark` `browser-agent`  |
+| [**eval-genius**](https://github.com/alexgreensh/eval-genius) | `★ 19` | `Apache-2.0` | `Python` | Teach your agent to work with evals: WHEN you actually need an eval or benchmark, HOW to build one that holds up, and how to read what it tells you. Determin... | `agent-skill` `ai-agents` `benchmark-framework` `benchmarks`  |
+| [**tau-trait**](https://github.com/collinear-ai/tau-trait) | `★ 19` | `MIT` | `Python` | TraitBasis applied to TauBench | `agent-benchmark` `rl-envs` `rl-training`  |
 | [**swe-serve**](https://github.com/NVIDIA/swe-serve) | `★ 19` | `Apache-2.0` | `Python` | SWE-Serve: an agentic benchmark of 53 production inference-engineering tasks derived from merged SGLang pull requests, run with Harbor. | `benchmark` `evaluation` `llm-agents` `llm-inference`  |
 | [**ratchet**](https://github.com/joctaTorres/ratchet) | `★ 18` | `MIT` | `TypeScript` | BYOA Agent orchestration that ensures alignment end-to-end – with built-in eval system. | `agent-orchestration` `agent-workflow` `ai-sdlc` `bdd`  |
-| [**tau-trait**](https://github.com/collinear-ai/tau-trait) | `★ 18` | `MIT` | `Python` | TraitBasis applied to TauBench | `agent-benchmark` `rl-envs` `rl-training`  |
 | [**tiny_qa_benchmark_pp**](https://github.com/vincentkoc/tiny_qa_benchmark_pp) | `★ 18` | `Apache-2.0` | `Python` | Tiny QA Benchmark++ a micro-benchmark suite (52-item gold + on-demand multilingual synthetic packs), generator CLI, and CI-ready eval harness for ultra-fast ... | `benchmark` `dataset` `evaluation` `hacktoberfest`  |
-| [**eval-genius**](https://github.com/alexgreensh/eval-genius) | `★ 17` | `Apache-2.0` | `Python` | Teach your agent to work with evals: WHEN you actually need an eval or benchmark, HOW to build one that holds up, and how to read what it tells you. Determin... | `agent-skill` `ai-agents` `benchmark-framework` `benchmarks`  |
 | [**BABY**](https://github.com/wenhuahuo/BABY) | `★ 17` | `MIT` | `TypeScript` | BABY - Build Agent Benchmarks for Yourself | `agent-benchmark` `agent-workflows`  |
 | [**baba-is-harbor**](https://github.com/stared/baba-is-harbor) | `★ 15` | `Apache-2.0` | `Python` | Baba Is Harbor - AI agent benchmark on Baba is You | `ai-agents` `baba-is-you` `benchmark` `game`  |
 | [**tycoon-learning-environment**](https://github.com/vrtnis/tycoon-learning-environment) | `★ 15` | `MIT` | `Python` | A JAX transport-economy learning environment for route planning, cargo flow, financing, and replayable agent benchmarks. | `benchmark` `economy` `jax` `logistics`  |
@@ -187,6 +196,7 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 | [**aobench**](https://github.com/MSKazemi/aobench) | `★ 11` | `Apache-2.0` | `Python` | Role-aware, permission-enforced benchmark for LLM agents that operate HPC systems — SLURM, telemetry, RBAC, docs, facility. A policy violation hard-fails the... | `agent-benchmark` `agent-evaluation` `ai-agents` `ai-safety`  |
 | [**dojo.md**](https://github.com/edholofy/dojo.md) | `★ 11` | `MIT` | `TypeScript` | University for AI agents. 92 courses, 4400+ scenarios, any model via OpenRouter. Auto-training loops generate per-model SKILL.md documents. Works with Claude... | `agent-benchmark` `agent-skills` `ai-agents` `ai-testing`  |
 | [**memory_and_context_eval_harness**](https://github.com/maximem-ai/memory_and_context_eval_harness) | `★ 11` | `MIT` | `Python` | Open evaluation harness for AI agent memory systems. Runs LoCoMo and LongMemEval against Synap, Mem0, Zep and Supermemory with pluggable provider adapters. | `agent-memory` `ai-agents` `benchmark` `evaluation`  |
+| [**joblander**](https://github.com/Shuailong/joblander) | `★ 11` | `Apache-2.0` | `Python` | Multi-agent engine for running a job search — guardrails, human approval gates, and an eval harness. Built while laid off; open-sourced after the offer. | `agent-evaluation` `ai-agents` `fastapi` `human-in-the-loop`  |
 | [**halu-core**](https://github.com/itsjawreal/halu-core) | `★ 10` | `MIT` | `Python` | Scores whether an autonomous AI agent actually did the work or just hallucinated its report, by checking every claim against recorded API calls. The core eng... | `agent-benchmark` `agent-evaluation` `ai-agents` `ai-evaluation`  |
 
 
@@ -196,48 +206,50 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 
 | Repository | Stars | License | Language | Description | Key Topics |
 | :--- | :---: | :---: | :---: | :--- | :--- |
-| [**browser-use**](https://github.com/browser-use/browser-use) | `★ 117.7k` | `MIT` | `Python` | Agents that use the browser. | `ai-agents` `ai-tools` `browser-automation` `browser-use`  |
-| [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) | `★ 39.2k` | `Apache-2.0` | `TypeScript` | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | `agent-tars` `browser-use` `computer-use` `cowork`  |
-| [**OpenCLI**](https://github.com/jackwener/OpenCLI) | `★ 30.1k` | `Apache-2.0` | `JavaScript` | Make Any Website into CLI & Use your logged-in browser by AI agent. | `ai-agent` `ai-agents` `ai-tools` `browser-automation`  |
-| [**browser-harness**](https://github.com/browser-use/browser-harness) | `★ 18.4k` | `MIT` | `Python` | Browser Harness \| Self-healing harness that enables LLMs to complete any task. | `ai-agent` `browser-agent` `browser-automation` `browser-use`  |
-| [**midscene**](https://github.com/web-infra-dev/midscene) | `★ 15.2k` | `MIT` | `TypeScript` | See interfaces like a human. E2E testing in natural language. | `browser-use` `computer-use` `e2e-testing` `gpt-operator`  |
-| [**nanobrowser**](https://github.com/nanobrowser/nanobrowser) | `★ 14.1k` | `Apache-2.0` | `TypeScript` | Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. | `ai-agents` `ai-tools` `automation` `browser`  |
+| [**browser-use**](https://github.com/browser-use/browser-use) | `★ 118.5k` | `MIT` | `Python` | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | `ai-agents` `ai-tools` `browser-agent` `browser-automation`  |
+| [**UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) | `★ 39.3k` | `Apache-2.0` | `TypeScript` | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | `agent-tars` `browser-use` `computer-use` `cowork`  |
+| [**OpenCLI**](https://github.com/jackwener/OpenCLI) | `★ 30.4k` | `Apache-2.0` | `JavaScript` | Make Any Website into CLI & Use your logged-in browser by AI agent. | `ai-agent` `ai-agents` `ai-tools` `browser-automation`  |
+| [**browser-harness**](https://github.com/browser-use/browser-harness) | `★ 18.5k` | `MIT` | `Python` | Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT. | `ai-agent` `browser-agent` `browser-automation` `browser-use`  |
+| [**midscene**](https://github.com/web-infra-dev/midscene) | `★ 15.3k` | `MIT` | `TypeScript` | See interfaces like a human. E2E testing in natural language. | `browser-use` `computer-use` `e2e-testing` `gpt-operator`  |
+| [**nanobrowser**](https://github.com/nanobrowser/nanobrowser) | `★ 14.1k` | `Apache-2.0` | `TypeScript` | Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks. | `ai-agents` `ai-tools` `automation` `browser`  |
 | [**magentic-ui**](https://github.com/microsoft/magentic-ui) | `★ 10.1k` | `MIT` | `Python` | MagenticLite is an experimental agent that works across the browser and local file system | `ai-ux` `autogen` `browser-use` `computer-use-agent`  |
-| [**BrowserSkill**](https://github.com/Tencent/BrowserSkill) | `★ 8.7k` | `MIT` | `TypeScript` | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. | `browser-use` `dsh-plugin`  |
+| [**BrowserSkill**](https://github.com/Tencent/BrowserSkill) | `★ 9.2k` | `MIT` | `TypeScript` | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. | `browser-use` `dsh-plugin`  |
 | [**fara**](https://github.com/microsoft/fara) | `★ 6.2k` | `MIT` | `Python` | Fara1.5 – A family of frontier computer use agent models | `browser-use` `computer-use` `computer-use-agent` `cua`  |
 | [**mobile-use**](https://github.com/minitap-ai/mobile-use) | `★ 3.3k` | `Apache-2.0` | `Python` | AI agents can now use real Android and iOS apps, just like a human. | `browser-use` `langchain` `langgraph` `langgraph-python`  |
 | [**TuriX-CUA**](https://github.com/TurixAI/TuriX-CUA) | `★ 3.2k` | `MIT` | `Python` | This is the official website for TuriX Computer-use-Agent | `ai-agents` `browser-use` `computer-automation` `computer-use`  |
 | [**webcmd**](https://github.com/agentrhq/webcmd) | `★ 2.7k` | `Apache-2.0` | `TypeScript` | Self-learning agent browser | `ai-agents` `browser-automation` `browser-use` `cli`  |
+| [**OpenAdapt**](https://github.com/OpenAdaptAI/OpenAdapt) | `★ 1.8k` | `MIT` | `Python` | For EHRs, payer portals, and any app your team clicks through. A person or an agent shows the task; OpenAdapt turns it into a local program that repeats the ... | `agent-harness` `ai-agents` `browser-automation` `citrix`  |
 | [**AIPex**](https://github.com/AIPexStudio/AIPex) | `★ 1.3k` | `MIT` | `TypeScript` | AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser | `accessbility-testing` `agent-browser` `agent-skills` `browser-automation`  |
 | [**browserable**](https://github.com/browserable/browserable) | `★ 1.2k` | `MIT` | `JavaScript` | Open source and self-hostable browser automation library for AI agents | `ai-agents` `ai-tools` `browser-automation` `browser-use`  |
+| [**ClawBench**](https://github.com/TIGER-AI-Lab/ClawBench) | `★ 1.1k` | `Apache-2.0` | `Python` | Open-source benchmark for browser AI agents on daily tasks. | `agent-evaluation` `agentic-ai` `ai-agent-benchmark` `ai-agents`  |
 | [**celesto**](https://github.com/CelestoAI/celesto) | `★ 1.0k` | `Apache-2.0` | `Python` | Secure and persistent computer for AI agents | `agent-runtime` `ai-sandbox` `browser-agent` `browser-use`  |
-| [**ClawBench**](https://github.com/TIGER-AI-Lab/ClawBench) | `★ 1.0k` | `Apache-2.0` | `Python` | Open-source benchmark for browser AI agents on daily tasks. | `agent-evaluation` `agentic-ai` `ai-agent-benchmark` `ai-agents`  |
-| [**unbrowse**](https://github.com/unbrowse-ai/unbrowse) | `★ 784` | `MIT` | `TypeScript` | Unbrowse - Reverse engineer any website so that your agents can access its APIs directly | `agentskills` `browser-use` `claude-code-plugin` `clawdbot`  |
-| [**desktop**](https://github.com/browser-use/desktop) | `★ 700` | `MIT` | `TypeScript` | Browser Use Desktop App | `agent-browser` `browser` `browser-agent` `browser-agents`  |
-| [**terminal**](https://github.com/browser-use/terminal) | `★ 651` | `MIT` | `Rust` | Terminal UI to get stuff done in the browser | `browser-automation` `browser-use` `cdp` `terminal`  |
-| [**web-agent-protocol**](https://github.com/OTA-Tech-AI/web-agent-protocol) | `★ 506` | `MIT` | `Python` | 🌐Web Agent Protocol (WAP) - Record and replay user interactions in the browser with MCP support | `ai-agents` `ai-tools` `browser-automation` `browser-use`  |
-| [**bux**](https://github.com/browser-use/bux) | `★ 456` | `MIT` | `Python` | Browser Use Box: a 24/7 Claude Code agent for Playwright-style browser automation with Browser Use Cloud, Telegram, and a real browser on any box you own. | `ai-agent` `ai-automation` `automation` `browser-agent`  |
+| [**unbrowse**](https://github.com/unbrowse-ai/unbrowse) | `★ 801` | `MIT` | `TypeScript` | Unbrowse - Reverse engineer any website so that your agents can access its APIs directly | `agentskills` `browser-use` `claude-code-plugin` `clawdbot`  |
+| [**desktop**](https://github.com/browser-use/desktop) | `★ 701` | `MIT` | `TypeScript` | Browser Use Desktop App | `agent-browser` `browser` `browser-agent` `browser-agents`  |
+| [**terminal**](https://github.com/browser-use/terminal) | `★ 653` | `MIT` | `Rust` | Terminal UI to get stuff done in the browser | `browser-automation` `browser-use` `cdp` `terminal`  |
+| [**web-agent-protocol**](https://github.com/OTA-Tech-AI/web-agent-protocol) | `★ 507` | `MIT` | `Python` | 🌐Web Agent Protocol (WAP) - Record and replay user interactions in the browser with MCP support | `ai-agents` `ai-tools` `browser-automation` `browser-use`  |
+| [**bux**](https://github.com/browser-use/bux) | `★ 458` | `MIT` | `Python` | Browser Use Box: a 24/7 Claude Code agent for Playwright-style browser automation with Browser Use Cloud, Telegram, and a real browser on any box you own. | `ai-agent` `ai-automation` `automation` `browser-agent`  |
 | [**opencow**](https://github.com/OpenCowAI/opencow) | `★ 394` | `Apache-2.0` | `TypeScript` | One task, one agent, delivered. The open-source platform for task-driven autonomous AI agents.OpenCow assigns an autonomous AI agent to every task — features... | `ai-agent` `ai-first` `autonomous-agent` `browser-use`  |
-| [**open-browser-use**](https://github.com/iFurySt/open-browser-use) | `★ 366` | `MIT` | `JavaScript` | 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple. | `ai-agent` `ai-agents` `browser-automation` `browser-use`  |
-| [**RLVR-World**](https://github.com/thuml/RLVR-World) | `★ 280` | `MIT` | `Python` | Official repository for "RLVR-World: Training World Models with Reinforcement Learning" (NeurIPS 2025), https://arxiv.org/abs/2505.13934 | `grpo` `real2sim` `reinforcement-learning-with-verifiable-rewards` `rlvr`  |
+| [**open-browser-use**](https://github.com/iFurySt/open-browser-use) | `★ 381` | `MIT` | `JavaScript` | 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple. | `ai-agent` `ai-agents` `browser-automation` `browser-use`  |
+| [**RLVR-World**](https://github.com/thuml/RLVR-World) | `★ 281` | `MIT` | `Python` | Official repository for "RLVR-World: Training World Models with Reinforcement Learning" (NeurIPS 2025), https://arxiv.org/abs/2505.13934 | `grpo` `real2sim` `reinforcement-learning-with-verifiable-rewards` `rlvr`  |
 | [**Meterless**](https://github.com/Meterless/Meterless) | `★ 249` | `Apache-2.0` | `TypeScript` | Local-first context layer for AI agents. Open-source memory, reasoning, world state, intent, and swarm engines. | `agent-memory` `agentic-ai` `ai-agents` `browser-use`  |
 | [**socai**](https://github.com/socai-io/socai) | `★ 243` | `Apache-2.0` | `Rust` | Agent that actually understands social platforms. Fast. Precise. Deep. | `browser-agent` `browser-use` `claude` `codex`  |
 | [**spidercreator**](https://github.com/carlosplanchon/spidercreator) | `★ 227` | `AGPL-3.0` | `Python` | Automated web scraping spider generation using Browser Use and LLMs. Streamline the creation of Playwright-based spiders with minimal manual coding. Ideal fo... | `automation` `browser-use` `crawling` `low-code`  |
-| [**clearcote-browser**](https://github.com/clearcotelabs/clearcote-browser) | `★ 200` | `BSD-3-Clause` | `Python` | Open-source stealth Chromium with engine-level fingerprint spoofing - de-Googled, drop-in Playwright, fully buildable and verifiable from source. | `ai-agents` `anti-detect-browser` `anti-fingerprinting` `antidetect`  |
-| [**os-ai-computer-use**](https://github.com/777genius/os-ai-computer-use) | `★ 182` | `Apache-2.0` | `Python` | AI controls your OS. OS AI Computer Use, OS and API agnostic. For now on OpenAI and Anthropic API. Desktop app ready. | `ai-agents-framework` `ai-os` `anthropic` `browser-use`  |
+| [**clearcote-browser**](https://github.com/clearcotelabs/clearcote-browser) | `★ 210` | `BSD-3-Clause` | `Python` | Open-source stealth Chromium with engine-level fingerprint spoofing - de-Googled, drop-in Playwright, fully buildable and verifiable from source. | `ai-agents` `anti-detect-browser` `anti-fingerprinting` `antidetect`  |
+| [**os-ai-computer-use**](https://github.com/777genius/os-ai-computer-use) | `★ 184` | `Apache-2.0` | `Python` | AI controls your OS. OS AI Computer Use, OS and API agnostic. For now on OpenAI and Anthropic API. Desktop app ready. | `ai-agents-framework` `ai-os` `anthropic` `browser-use`  |
 | [**BrowserPilot**](https://github.com/ai-naymul/BrowserPilot) | `★ 180` | `MIT` | `TypeScript` | Open‑source alternative to Perplexity Comet, director.ai and firecrawl combined | `ai-agent` `ai-agents` `browser` `browser-agent`  |
+| [**clawbrowser**](https://github.com/clawbrowser/clawbrowser) | `★ 129` | `MIT` | `C++` | Agent-native browser with fingerprint control and proxy support. | `ai-agents` `ai-tools` `browser-automation` `browser-use`  |
 | [**bubus**](https://github.com/browser-use/bubus) | `★ 126` | `MIT` | `Python` | 📢 Production-ready python event bus library with support for async and sync handlers, forwarding betwen busses w/ parent event tracking + loop prevention,  F... | `async` `asyncio` `browser-use` `concurrency`  |
-| [**jev-use**](https://github.com/savka777/jev-use) | `★ 122` | `MIT` | `Swift` | Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model | `accessibility` `ai-agents` `browser-use` `computer-use`  |
-| [**dsh-tabbit**](https://github.com/Tabbit-Browser/dsh-tabbit) | `★ 107` | `MIT` | `TypeScript` | Tabbit Browser plugins for Deepseek Harness | `awesome-dsh-plugin` `browser-automation` `browser-use` `deepseek-harness`  |
+| [**jev-use**](https://github.com/savka777/jev-use) | `★ 125` | `MIT` | `Swift` | Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model | `accessibility` `ai-agents` `browser-use` `computer-use`  |
+| [**dsh-tabbit**](https://github.com/Tabbit-Browser/dsh-tabbit) | `★ 112` | `MIT` | `TypeScript` | Tabbit Browser plugins for Deepseek Harness | `awesome-dsh-plugin` `browser-automation` `browser-use` `deepseek-harness`  |
 | [**SwiftAutoGUI**](https://github.com/NakaokaRei/SwiftAutoGUI) | `★ 95` | `MIT` | `Swift` | A Swift library for macOS automation — mouse, keyboard, screenshots, image recognition, and AI-powered agents. | `ai-agents` `automation` `browser-use` `browser-use-agent`  |
-| [**clawbrowser**](https://github.com/clawbrowser/clawbrowser) | `★ 91` | `MIT` | `C++` | Agent-native browser with fingerprint control and proxy support. | `ai-agents` `ai-tools` `browser-automation` `browser-use`  |
 | [**mcp-browser-use**](https://github.com/JovaniPink/mcp-browser-use) | `★ 62` | `MIT` | `Python` | FastAPI MCP server that exposes browser-use automation through a testable Model Context Protocol boundary. | `agentic-ai` `browser-automation` `browser-use` `fastapi`  |
 | [**browser-use-vision**](https://github.com/Raidriar7170/browser-use-vision) | `★ 57` | `MIT` | `Python` | Vision-grounding plugin for browser-use agents with SoM, Florence-2, Vision–DOM alignment, adaptive visual context, and objective evaluation. | `ai-agent` `browser-agent` `browser-use` `florence-2`  |
+| [**octop-browser**](https://github.com/TencentCloud/octop-browser) | `★ 55` | `MIT` | `Python` | Agent-first lightweight browser automation — direct CDP, no Playwright, more accurate and more reliable. | `agent-skills` `browser-use`  |
 | [**agentitest**](https://github.com/kweinmeister/agentitest) | `★ 48` | `Apache-2.0` | `Python` | Write browser tests in natural language, built on pytest and allure. | `allure-report` `browser-use` `gemini` `playwright`  |
 | [**cappuccino**](https://github.com/GML-FMGroup/cappuccino) | `★ 45` | `Apache-2.0` | `Python` | Cappuccino is an GUI Agent based on desktop screen. It is a Manus-like AI Agent that can be deployed locally. | `browser-use` `computeruse` `deepseek` `omniparser`  |
+| [**jev-for-chrome**](https://github.com/chy4pro/jev-for-chrome) | `★ 42` | `MIT` | `TypeScript` | Jev for Chrome: drives the tab you are looking at with TypeSafe Jev, a sub-second decision model. Community port of browser-use/jev-ultrafast, not affiliated... | `ai-agent` `browser-agent` `browser-automation` `browser-use`  |
 | [**browser-use-rs**](https://github.com/BB-fat/browser-use-rs) | `★ 41` | `MIT` | `Rust` | A Rust library for browser automation via Chrome DevTools Protocol with built-in AI integration through Model Context Protocol (MCP) | `browser-use` `mcp`  |
 | [**Operator-Use**](https://github.com/Jeomon/Operator-Use) | `★ 41` | `MIT` | `Python` | 🐧Operator-Use: AI that can do stuffs on your computer | `ai-agents` `browser-use` `computer-use` `openclaw`  |
-| [**octop-browser**](https://github.com/TencentCloud/octop-browser) | `★ 40` | `MIT` | `Python` | Agent-first lightweight browser automation — direct CDP, no Playwright, more accurate and more reliable. | `agent-skills` `browser-use`  |
 
 
 ### 🐝 <a id="multi-agent-orchestration"></a>Multi-Agent & Swarm Harnesses
@@ -246,26 +258,28 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 
 | Repository | Stars | License | Language | Description | Key Topics |
 | :--- | :---: | :---: | :---: | :--- | :--- |
-| [**ruflo**](https://github.com/ruvnet/ruflo) | `★ 74.4k` | `MIT` | `TypeScript` | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive... | `agentic-ai` `agentic-framework` `agentic-workflow` `ai-agents`  |
-| [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm) | `★ 67.0k` | `MIT` | `JavaScript` | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience | `agent-computer` `agent-harness` `agent-orchestration` `agentic-ai`  |
-| [**CowAgent**](https://github.com/zhayujie/CowAgent) | `★ 47.4k` | `MIT` | `Python` | Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, mult... | `ai-agent` `ai-agents` `chatgpt-on-wechat` `claude`  |
-| [**openhuman**](https://github.com/tinyhumansai/openhuman) | `★ 41.9k` | `GPL-3.0` | `Rust` | The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS. | `agent-orchestration` `ai-agents` `ai-assistant` `desktop`  |
-| [**munder-difflin**](https://github.com/HarnessMD/munder-difflin) | `★ 8.7k` | `MIT` | `TypeScript` | an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, us... | `agent-harness` `agent-orchestration` `ai-agents` `autonomous-agents`  |
-| [**openrig**](https://github.com/mvschwarz/openrig) | `★ 7.1k` | `Apache-2.0` | `TypeScript` | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. | `agent-harness` `agent-orchestration` `agent-skills` `ai-coding`  |
-| [**loopx**](https://github.com/loopx-project/loopx) | `★ 6.3k` | `Apache-2.0` | `Python` | A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention. | `agent-control-plane` `agent-harness` `ai-agents` `claude-code`  |
+| [**ruflo**](https://github.com/ruvnet/ruflo) | `★ 76.8k` | `MIT` | `TypeScript` | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive... | `agentic-ai` `agentic-framework` `agentic-workflow` `ai-agents`  |
+| [**anything-llm**](https://github.com/Mintplex-Labs/anything-llm) | `★ 67.3k` | `MIT` | `JavaScript` | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience | `agent-computer` `agent-harness` `agent-orchestration` `agentic-ai`  |
+| [**CowAgent**](https://github.com/zhayujie/CowAgent) | `★ 47.5k` | `MIT` | `Python` | Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, mult... | `ai-agent` `ai-agents` `chatgpt-on-wechat` `claude`  |
+| [**openhuman**](https://github.com/tinyhumansai/openhuman) | `★ 42.2k` | `GPL-3.0` | `Rust` | The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS. | `agent-orchestration` `ai-agents` `ai-assistant` `desktop`  |
+| [**munder-difflin**](https://github.com/HarnessMD/munder-difflin) | `★ 8.9k` | `MIT` | `TypeScript` | an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, us... | `agent-harness` `agent-orchestration` `ai-agents` `autonomous-agents`  |
+| [**openrig**](https://github.com/mvschwarz/openrig) | `★ 7.8k` | `Apache-2.0` | `TypeScript` | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. | `agent-harness` `agent-orchestration` `agent-skills` `ai-coding`  |
+| [**loopx**](https://github.com/loopx-project/loopx) | `★ 6.4k` | `Apache-2.0` | `Python` | A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention. | `agent-control-plane` `agent-harness` `ai-agents` `claude-code`  |
 | [**agentops**](https://github.com/AgentOps-AI/agentops) | `★ 5.9k` | `MIT` | `Python` | Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI ... | `agentops` `agents-sdk` `anthropic` `autogen`  |
-| [**devspace**](https://github.com/Waishnav/devspace) | `★ 5.2k` | `MIT` | `TypeScript` | Minimal Coding Agent Harness on MCP for ChatGPT, Claude, Hermes, Grok Bot, OpenClaw | `agent-orchestration` `chatgpt` `claude` `claude-code`  |
+| [**devspace**](https://github.com/Waishnav/devspace) | `★ 5.3k` | `MIT` | `TypeScript` | Minimal Coding Agent Harness on MCP for ChatGPT, Claude, Hermes, Grok Bot, OpenClaw | `agent-orchestration` `chatgpt` `claude` `claude-code`  |
 | [**Orkas**](https://github.com/Orkas-AI/Orkas) | `★ 2.2k` | `MIT` | `JavaScript` | Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your installed coding CLIs — Claude Code, Codex,... | `agent-collaboration` `agent-harness` `agent-orchestration` `agent-team`  |
+| [**starnet**](https://github.com/androoAGI/starnet) | `★ 1.5k` | `MIT` | `JavaScript` | A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. | `agent-harness` `ai-agents` `byok` `desktop-app`  |
 | [**agentconnect**](https://github.com/agentconnect-md/agentconnect) | `★ 1.5k` | `Apache-2.0` | `TypeScript` | The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go. | `agent-client-protocol` `agent-sandbox` `ai-agent` `claude-tag-alternative`  |
 | [**commonly**](https://github.com/Team-Commonly/commonly) | `★ 1.4k` | `Apache-2.0` | `TypeScript` | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent ... | `agent-framework` `agent-harness` `agent-protocol` `agentic`  |
-| [**starnet**](https://github.com/androoAGI/starnet) | `★ 1.4k` | `MIT` | `JavaScript` | A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. | `agent-harness` `ai-agents` `byok` `desktop-app`  |
-| [**oh-my-agent**](https://github.com/first-fluke/oh-my-agent) | `★ 1.3k` | `MIT` | `TypeScript` | Mechanical verification for AI coding agents — skills pack or full harness (stop-hook gates, artifact checks, independent judges). | `agent-harness` `agent-skills` `claude-code` `cli`  |
-| [**openharness**](https://github.com/autonomous-ai/openharness) | `★ 1.2k` | `MIT` | `TypeScript` | The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with code, then follow your curiosity and bu... | `3d-modeling` `agent-framework` `agent-harness` `ai-agents`  |
+| [**oh-my-agent**](https://github.com/first-fluke/oh-my-agent) | `★ 1.3k` | `MIT` | `TypeScript` | A specialist team for the coding agent you already use: 12 roles, 21 workflows and 33 skills that plan, build in parallel, review and debug, leaving plans, A... | `agent-harness` `agent-orchestration` `agent-skills` `ai-agents`  |
+| [**openharness**](https://github.com/autonomous-ai/openharness) | `★ 1.3k` | `MIT` | `TypeScript` | The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with code, then follow your curiosity and bu... | `3d-modeling` `agent-framework` `agent-harness` `ai-agents`  |
 | [**Chorus**](https://github.com/Chorus-AIDLC/Chorus) | `★ 1.2k` | `AGPL-3.0` | `TypeScript` | The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle) | `agent-harness` `ai-agents` `ai-dlc` `claude-code`  |
 | [**mateclaw**](https://github.com/mateaix/mateclaw) | `★ 1.2k` | `Apache-2.0` | `Java` | 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba. | `agent-harness` `ai-agent` `dingtalk-robot` `feishu-bot`  |
-| [**my-virtual-office**](https://github.com/eliautobot/my-virtual-office) | `★ 348` | `AGPL-3.0` | `Python` | A self-hosted 2D AI workspace for AI Agents | `agent-character` `agent-harness` `agent-management` `agent-office`  |
-| [**zenith**](https://github.com/Intelligent-Internet/zenith) | `★ 344` | `Apache-2.0` | `Python` | Zenith: a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP. | `agent-client-protocol` `agent-harness` `ai-agents` `claude-code`  |
+| [**pi-harness**](https://github.com/wangmiaozero/pi-harness) | `★ 1.0k` | `AGPL-3.0` | `TypeScript` | The operational superset of Pi Coding Agent — everything Pi, plus observability, governance, recovery, evaluation and multi-agent orchestration. Pi Coding Ag... | `agent-harness` `agent-observability` `agent-orchestration` `ai-agent`  |
+| [**zenith**](https://github.com/Intelligent-Internet/zenith) | `★ 369` | `Apache-2.0` | `Python` | Zenith: a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP. | `agent-client-protocol` `agent-harness` `ai-agents` `claude-code`  |
+| [**my-virtual-office**](https://github.com/eliautobot/my-virtual-office) | `★ 353` | `AGPL-3.0` | `Python` | A self-hosted 2D AI workspace for AI Agents | `agent-character` `agent-harness` `agent-management` `agent-office`  |
 | [**water**](https://github.com/manthanguptaa/water) | `★ 338` | `Apache-2.0` | `Python` | The production-ready agent harness framework for Python | `agent-harness` `framework` `harness` `multi-agent`  |
+| [**multi-agents**](https://github.com/BichengWang/multi-agents) | `★ 84` | `MIT` | `Python` | Multi-agent teams for real work: run teams of coding agents (Claude Code, Codex, any model) in isolated git worktrees, and measure whether the team beats a s... | `agent-orchestration` `ai-agents` `benchmark` `claude-code`  |
 
 
 ### 🛡️ <a id="safety-security"></a>Safety, Security & Red-Teaming Harnesses
@@ -274,7 +288,7 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 
 | Repository | Stars | License | Language | Description | Key Topics |
 | :--- | :---: | :---: | :---: | :--- | :--- |
-| [**OpenART**](https://github.com/AI45Lab/OpenART) | `★ 237` | `AGPL-3.0` | `Python` | OpenART is an open-source framework designed to evaluate the safety and robustness of autonomous AI agents in dynamic, long-horizon, and stateful environment... | `agent-environment` `agent-evaluation` `agent-redteam` `agent-safety`  |
+| [**OpenART**](https://github.com/AI45Lab/OpenART) | `★ 247` | `AGPL-3.0` | `Python` | OpenART is an open-source framework designed to evaluate the safety and robustness of autonomous AI agents in dynamic, long-horizon, and stateful environment... | `agent-environment` `agent-evaluation` `agent-redteam` `agent-safety`  |
 | [**proofagent-harness**](https://github.com/ProofAgent-ai/proofagent-harness) | `★ 31` | `Apache-2.0` | `Python` | Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI | `adversarial-testing` `agent-evaluation` `agent-testing` `ai-agents`  |
 | [**opencode-seatbelt**](https://github.com/ssmirr/opencode-seatbelt) | `★ 10` | `MIT` | `TypeScript` | A real kernel sandbox for OpenCode on macOS 🛡️ | `agent-sandbox` `ai-safety` `macos` `opencode`  |
 
@@ -285,39 +299,41 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 
 | Repository | Stars | License | Language | Description | Key Topics |
 | :--- | :---: | :---: | :---: | :--- | :--- |
-| [**ECC**](https://github.com/affaan-m/ECC) | `★ 277.5k` | `MIT` | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Curs... | `ai-agents` `anthropic` `claude` `claude-code`  |
-| [**QwenPaw**](https://github.com/agentscope-ai/QwenPaw) | `★ 35.6k` | `Apache-2.0` | `TypeScript` | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. | `agent-harness` `agentscope` `ai-agent` `ai-agents`  |
-| [**harness-sdk**](https://github.com/strands-agents/harness-sdk) | `★ 8.8k` | `Apache-2.0` | `Python` | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. | `agent-framework` `agentic` `agentic-ai` `ai-agents`  |
-| [**smolvm**](https://github.com/smol-machines/smolvm) | `★ 6.7k` | `Apache-2.0` | `Rust` | An embeddable, portable, branchable virtual machine to safely run Agents locally. | `agent-sandbox` `ai-agents` `code-execution` `containers`  |
-| [**nono**](https://github.com/nolabs-ai/nono) | `★ 4.5k` | `Apache-2.0` | `Rust` | agent runtime security - zero trust, zero setup, zero latency agent sandbox | `agent-runtime-security` `agent-sandbox` `agent-security` `ai-agent-sandbox`  |
+| [**ECC**](https://github.com/affaan-m/ECC) | `★ 283.5k` | `MIT` | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Curs... | `ai-agents` `anthropic` `claude` `claude-code`  |
+| [**QwenPaw**](https://github.com/agentscope-ai/QwenPaw) | `★ 35.8k` | `Apache-2.0` | `TypeScript` | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. | `agent-harness` `agentscope` `ai-agent` `ai-agents`  |
+| [**harness-sdk**](https://github.com/strands-agents/harness-sdk) | `★ 8.9k` | `Apache-2.0` | `Python` | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. | `agent-framework` `agentic` `agentic-ai` `ai-agents`  |
+| [**smolvm**](https://github.com/smol-machines/smolvm) | `★ 6.8k` | `Apache-2.0` | `Rust` | An embeddable, portable, branchable virtual machine to safely run Agents locally. | `agent-sandbox` `ai-agents` `code-execution` `containers`  |
+| [**nono**](https://github.com/nolabs-ai/nono) | `★ 4.6k` | `Apache-2.0` | `Rust` | agent runtime security - zero trust, zero setup, zero latency agent sandboxing | `agent-runtime-security` `agent-sandbox` `agent-security` `ai-agent-sandbox`  |
 | [**mirage**](https://github.com/strukto-ai/mirage) | `★ 3.7k` | `Apache-2.0` | `TypeScript` | The World's First Virtual Terminal for AI Agents | `agent-sandbox` `agent-tools` `ai-agents` `bash`  |
 | [**onecli**](https://github.com/onecli/onecli) | `★ 3.6k` | `Apache-2.0` | `TypeScript` | Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent. | `ai-agents` `cli` `mcp` `nodejs`  |
 | [**agents-best-practices**](https://github.com/DenisSergeevitch/agents-best-practices) | `★ 2.4k` | `MIT` | `Multi` | Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design. | `agent-skill` `agent-skills` `agentic-workflows` `ai-agents`  |
-| [**gentle-shell**](https://github.com/Gentleman-Programming/gentle-shell) | `★ 1.3k` | `MIT` | `TypeScript` | Gentle Shell is a Pi-native coding-agent harness for controlled development with Organic Driven Development, optional SDD/OpenSpec, subagents, TDD evidence, ... | `agent-harness` `agent-skills` `ai-agents` `ai-coding`  |
+| [**gentle-shell**](https://github.com/Gentleman-Programming/gentle-shell) | `★ 1.4k` | `MIT` | `TypeScript` | Your coding agent for controlled development in the workspace you lead. A Pi-native shell with Organic Driven Development, focused subagents, risk-based nati... | `agent-harness` `agent-skills` `ai-agents` `ai-coding`  |
+| [**best-of-Agent-Harnesses**](https://github.com/RyanAlberts/best-of-Agent-Harnesses) | `★ 1.3k` | `CC-BY-SA-4.0` | `Python` | 🏆 Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly. | `agent-framework` `agent-harness` `agentic-ai` `ai-agent`  |
 | [**thClaws**](https://github.com/thClaws/thClaws) | `★ 1.2k` | `Apache-2.0` | `Rust` | Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams. | `agent-harness` `agent-teams` `ai-agent` `anthropic`  |
-| [**best-of-Agent-Harnesses**](https://github.com/RyanAlberts/best-of-Agent-Harnesses) | `★ 1.1k` | `CC-BY-SA-4.0` | `Python` | 🏆 Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly. | `agent-framework` `agent-harness` `agentic-ai` `ai-agent`  |
 | [**flock**](https://github.com/Onelevenvy/flock) | `★ 1.1k` | `Apache-2.0` | `Rust` | A desktop multi-agent harness built with Rust, Tauri, and React, powered by langgraph-rust. | `chatbot` `deekseek` `harness` `langchain`  |
 | [**clawk**](https://github.com/clawkwork/clawk) | `★ 1.0k` | `Apache-2.0` | `Go` | Give coding agents a disposable Linux VM, not your laptop | `agent-sandbox` `ai-agent-sandbox` `ai-agents` `claude`  |
-| [**nuwax**](https://github.com/nuwax-ai/nuwax) | `★ 892` | `Apache-2.0` | `TypeScript` | Nuwax Agent OS - An enterprise-grade AI Agent Development and Operation Platform - Providing a complete solution for agent creation and distribution, knowled... | `a2a` `agent-os` `agent-sandbox` `agentic`  |
+| [**nuwax**](https://github.com/nuwax-ai/nuwax) | `★ 894` | `Apache-2.0` | `TypeScript` | Nuwax Agent OS - An enterprise-grade AI Agent Development and Operation Platform - Providing a complete solution for agent creation and distribution, knowled... | `a2a` `agent-os` `agent-sandbox` `agentic`  |
 | [**browser-use-mcp-server**](https://github.com/kontext-security/browser-use-mcp-server) | `★ 847` | `MIT` | `Python` | Browse the web, directly from Cursor etc. | `browser` `browser-use` `cursor` `mcp`  |
-| [**BossConsole**](https://github.com/risa-labs-inc/BossConsole) | `★ 811` | `Apache-2.0` | `Kotlin` | Open-source, multi-platform harness for AI agents - a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or Open... | `agent-harness` `ai-agents` `browser` `claude-code`  |
-| [**sandbase-harness**](https://github.com/sandbaseai/sandbase-harness) | `★ 707` | `Apache-2.0` | `TypeScript` | Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console. | `agent-harness` `agent-observability` `agent-plugin` `agent-runtime`  |
-| [**metaharness**](https://github.com/ruvnet/metaharness) | `★ 699` | `MIT` | `TypeScript` | 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-sig... | `agent-harness` `agent-harness-generator` `agent-scaffolding` `agentic-ai`  |
-| [**openclaw.net**](https://github.com/clawdotnet/openclaw.net) | `★ 522` | `MIT` | `C#` | Self-hosted Enterprise and Personal  AI + agent runtime in .NET (NativeAOT-friendly) | `agent-harness` `agent-runtime` `agentqi` `ai-agent`  |
-| [**mantishack**](https://github.com/deonmenezes/mantishack) | `★ 503` | `Apache-2.0` | `Rust` | Mantis Hack | `agent-harness` `ai-agents` `autonomous-agents` `bug-bounty`  |
-| [**accelerated-container-image**](https://github.com/containerd/accelerated-container-image) | `★ 474` | `Apache-2.0` | `Go` | A production-ready remote/on-demand container/sandbox/vm image format (overlaybd) and snapshotter | `agent-sandbox` `container-images` `containerd` `containerd-snapshotter`  |
-| [**Sponsio**](https://github.com/SponsioLabs/Sponsio) | `★ 454` | `Apache-2.0` | `Python` | Deterministic safety solutions for probabilistic AI agents | `agent-guardrails` `agent-harness` `agent-runtime` `agent-safety`  |
-| [**Hypha**](https://github.com/CodeSoul-co/Hypha) | `★ 447` | `Apache-2.0` | `TypeScript` | Harness-oriented agent system framework for production-grade LLM agent applications | `agent-framework` `agent-harness` `agent-memory` `agent-runtime`  |
-| [**overlaybd**](https://github.com/containerd/overlaybd) | `★ 424` | `Apache-2.0` | `C++` | Overlaybd: a block based remote image format for containers/vms/sandboxes. The storage backend of containerd/accelerated-container-image. | `agent-sandbox` `blockdevice` `container-images` `iscsi-target`  |
-| [**open-managed-agents**](https://github.com/openma-ai/open-managed-agents) | `★ 317` | `Apache-2.0` | `TypeScript` | Open Managed Agents — an open-source alternative to Claude Managed Agents and OpenAI Agents API. Deploy with Node.js or Docker, run on Cloudflare, or use hos... | `agent-client-protocol` `agent-platform` `agent-sandbox` `ai-agents`  |
-| [**Containarium**](https://github.com/FootprintAI/Containarium) | `★ 303` | `Apache-2.0` | `Go` | Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI | `agent-native` `agent-runtime` `agent-sandbox` `agentic-ai`  |
-| [**agent-sandbox**](https://github.com/agent-sandbox/agent-sandbox) | `★ 220` | `Apache-2.0` | `Go` | Agent-Sandbox is an easy-to-use, enterprise-grade sandbox platform for AI Agents — letting them securely run untrusted LLM-generated code, Browser use, Compu... | `agent-sandbox` `ai-infra` `ai-sandbox` `browser-use`  |
-| [**agent-sandbox**](https://github.com/mattolson/agent-sandbox) | `★ 210` | `MIT` | `Python` | Secure local dev environment for collaboration with AI coding agents | `agent-harness` `agent-sandbox` `coding-agents`  |
-| [**mosoo**](https://github.com/langgenius/mosoo) | `★ 160` | `Apache-2.0` | `TypeScript` | Open-source managed runtime for OpenAI Codex, Claude Agent SDK, OpenCode, and Pi Agent. Run coding agents through one Agents API with isolated cloud sandboxe... | `agent-api` `agent-runtime` `agent-sandbox` `agents-api`  |
-| [**sample-autonomous-cloud-coding-agents**](https://github.com/aws-samples/sample-autonomous-cloud-coding-agents) | `★ 158` | `MIT-0` | `TypeScript` | Autonomous background coding agents on AWS. Turn tasks into pull requests via isolated runtimes, with built-in orchestration, observability, and governance. | `agent-sandbox` `agentcore` `autonomous-agents` `aws`  |
-| [**ephemeral-sandbox**](https://github.com/Ephemeral-AI-Lab/ephemeral-sandbox) | `★ 110` | `MIT` | `Rust` | Open-source agent sandbox infrastructure for parallel coding agents: isolated workspaces, MCP/CLI control, observability, and atomic publication. | `agent-infrastructure` `agent-sandbox` `agent-swarm` `ai-agents`  |
+| [**BossConsole**](https://github.com/risa-labs-inc/BossConsole) | `★ 814` | `Apache-2.0` | `Kotlin` | Open-source, multi-platform harness for AI agents - a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or Open... | `agent-harness` `ai-agents` `browser` `claude-code`  |
+| [**metaharness**](https://github.com/ruvnet/metaharness) | `★ 708` | `MIT` | `TypeScript` | 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-sig... | `agent-harness` `agent-harness-generator` `agent-scaffolding` `agentic-ai`  |
+| [**sandbase-harness**](https://github.com/sandbaseai/sandbase-harness) | `★ 639` | `Apache-2.0` | `TypeScript` | Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console. | `agent-harness` `agent-observability` `agent-plugin` `agent-runtime`  |
+| [**lemma-platform**](https://github.com/lemma-work/lemma-platform) | `★ 572` | `AGPL-3.0` | `Python` | Multiplayer harness that shapes around your work. Agents, apps and workflows your team shares, used from Slack, Telegram, WhatsApp, Teams, Email, Web or your... | `agent-harness` `agentic-ai` `ai-agents` `claude-code`  |
+| [**openclaw.net**](https://github.com/clawdotnet/openclaw.net) | `★ 525` | `MIT` | `C#` | Self-hosted Enterprise and Personal  AI + agent runtime in .NET (NativeAOT-friendly) | `agent-harness` `agent-runtime` `agentqi` `ai-agent`  |
+| [**mantishack**](https://github.com/deonmenezes/mantishack) | `★ 504` | `Apache-2.0` | `Rust` | Mantis Hack | `agent-harness` `ai-agents` `autonomous-agents` `bug-bounty`  |
+| [**accelerated-container-image**](https://github.com/containerd/accelerated-container-image) | `★ 478` | `Apache-2.0` | `Go` | A production-ready remote/on-demand container/sandbox/vm image format (overlaybd) and snapshotter | `agent-sandbox` `container-images` `containerd` `containerd-snapshotter`  |
+| [**Sponsio**](https://github.com/SponsioLabs/Sponsio) | `★ 455` | `Apache-2.0` | `Python` | Deterministic safety solutions for probabilistic AI agents | `agent-guardrails` `agent-harness` `agent-runtime` `agent-safety`  |
+| [**Hypha**](https://github.com/CodeSoul-co/Hypha) | `★ 448` | `Apache-2.0` | `TypeScript` | Harness-oriented agent system framework for production-grade LLM agent applications | `agent-framework` `agent-harness` `agent-memory` `agent-runtime`  |
+| [**overlaybd**](https://github.com/containerd/overlaybd) | `★ 427` | `Apache-2.0` | `C++` | Overlaybd: a block based remote image format for containers/vms/sandboxes. The storage backend of containerd/accelerated-container-image. | `agent-sandbox` `blockdevice` `container-images` `iscsi-target`  |
+| [**open-managed-agents**](https://github.com/openma-ai/open-managed-agents) | `★ 326` | `Apache-2.0` | `TypeScript` | OpenMA handles sessions, execution and recovery, so you can build and run agents with any model, any harness, any sandbox, on any cloud. An open-source, self... | `agent-client-protocol` `agent-platform` `agent-sandbox` `ai-agents`  |
+| [**Containarium**](https://github.com/FootprintAI/Containarium) | `★ 308` | `Apache-2.0` | `Go` | Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI | `agent-native` `agent-runtime` `agent-sandbox` `agentic-ai`  |
+| [**agent-sandbox**](https://github.com/agent-sandbox/agent-sandbox) | `★ 221` | `Apache-2.0` | `Go` | Agent-Sandbox is an easy-to-use, enterprise-grade sandbox platform for AI Agents — letting them securely run untrusted LLM-generated code, Browser use, Compu... | `agent-sandbox` `ai-infra` `ai-sandbox` `browser-use`  |
+| [**agent-sandbox**](https://github.com/mattolson/agent-sandbox) | `★ 211` | `MIT` | `Python` | Secure local dev environment for collaboration with AI coding agents | `agent-harness` `agent-sandbox` `coding-agents`  |
+| [**mosoo**](https://github.com/langgenius/mosoo) | `★ 163` | `Apache-2.0` | `TypeScript` | Open-source managed runtime for OpenAI Codex, Claude Agent SDK, OpenCode, and Pi Agent. Run coding agents through one Agents API with isolated cloud sandboxe... | `agent-api` `agent-runtime` `agent-sandbox` `agents-api`  |
+| [**sample-autonomous-cloud-coding-agents**](https://github.com/aws-samples/sample-autonomous-cloud-coding-agents) | `★ 161` | `MIT-0` | `TypeScript` | Autonomous background coding agents on AWS. Turn tasks into pull requests via isolated runtimes, with built-in orchestration, observability, and governance. | `agent-sandbox` `agentcore` `autonomous-agents` `aws`  |
+| [**deltabox-lite**](https://github.com/delta-box/deltabox-lite) | `★ 130` | `Apache-2.0` | `Rust` | Lightweight, agent-native sandboxing with diff, commit and abort | `agent-sandbox` `dsh-plugin` `harness` `pi-plugin`  |
+| [**ephemeral-sandbox**](https://github.com/Ephemeral-AI-Lab/ephemeral-sandbox) | `★ 113` | `MIT` | `Rust` | Open-source agent sandbox infrastructure for parallel coding agents: isolated workspaces, MCP/CLI control, observability, and atomic publication. | `agent-infrastructure` `agent-sandbox` `agent-swarm` `ai-agents`  |
+| [**intentic**](https://github.com/intentic/intentic) | `★ 83` | `MIT` | `TypeScript` | An open-source workspace for coding agents, running on your own machine. More work. Less AI waste. Same subscriptions. | `agent-infrastructure` `agent-sandbox` `agentic-coding` `ai-agents`  |
 | [**sandbox-operator**](https://github.com/cocoonstack/sandbox-operator) | `★ 81` | `AGPL-3.0` | `Go` | Aggregated Kubernetes apiserver and e2b-compatible data plane for warm-pooled agent sandboxes on microVMs. Sandboxes are served from per-node inventory with ... | `agent-sandbox` `ai-agents` `cocoon` `crd`  |
-| [**intentic**](https://github.com/intentic/intentic) | `★ 78` | `MIT` | `TypeScript` | An open-source workspace for coding agents, running on your own machine. More work. Less AI waste. Same subscriptions. | `agent-infrastructure` `agent-sandbox` `agentic-coding` `ai-agents`  |
 | [**axern**](https://github.com/cofy-x/axern) | `★ 65` | `Apache-2.0` | `Go` | Secure, reproducible sandboxes for AI agent evaluation, training, and data synthesis. | `agent-sandbox` `agentic-infrastructure` `ai-agents` `cloud-native`  |
 | [**hivebox**](https://github.com/TetiAI/hivebox) | `★ 61` | `BSD-3-Clause` | `Python` | Lightweight Linux sandbox for AI agents. Kernel-native isolation (namespaces, cgroups, seccomp, Landlock) with REST API, MCP bridge, and web dashboard. Singl... | `agent-sandbox` `ai-agents` `ai-infrastructure` `cli`  |
 | [**TheGrandQuiz**](https://github.com/Hyr1sky/TheGrandQuiz) | `★ 56` | `MIT` | `Python` | Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness—grounded ingestion, trace replay, HITL assessment, durabl... | `adaptive-learning` `agent-harness` `agent-observability` `agent-runtime`  |
@@ -333,7 +349,7 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 | [**microsandbox-reef**](https://github.com/skalenetwork/microsandbox-reef) | `★ 25` | `MIT` | `Rust` | Run OpenClaw, Hermes and your own agents in microsandbox microVMs. One reviewable TOML role sets image, allowed domains and host-bound secrets. No daemon. | `agent-sandbox` `ai-agents` `cli` `egress-filtering`  |
 | [**sprites-ex**](https://github.com/superfly/sprites-ex) | `★ 25` | `MIT` | `Elixir` | Elixir SDK for Fly.io Sprites: computers for agents. Manage Sprites and run remote commands from Elixir, with APIs that match the language's conventions. | `agent-sandbox` `ai-agents` `code-execution` `development-environments`  |
 | [**sprites-py**](https://github.com/superfly/sprites-py) | `★ 22` | `MIT` | `Python` | Python SDK for Fly.io Sprites: computers for agents. Sprite management, remote command execution, filesystems, checkpoints, services, and network policy from... | `agent-sandbox` `ai-agents` `development-environments` `fly-io`  |
-| [**YoloFS**](https://github.com/YoloFS/YoloFS) | `★ 14` | `GPL-2.0` | `Rust` | Don't Let AI Agents YOLO Your Files: Information and Control in Agent-Native Filesystems | `agent-harness` `agent-sandbox` `filesystem`  |
+| [**YoloFS**](https://github.com/YoloFS/YoloFS) | `★ 19` | `GPL-2.0` | `Rust` | Don't Let AI Agents YOLO Your Files: Information and Control in Agent-Native Filesystems | `agent-harness` `agent-sandbox` `filesystem`  |
 | [**sample-aws-self-hosted-sandbox**](https://github.com/aws-samples/sample-aws-self-hosted-sandbox) | `★ 11` | `MIT-0` | `Python` | a production-grade AI Agent sandbox platform built on AWS, microVM architecture — with lower cost, full data sovereignty, and native Kubernetes integration. | `agent-sandbox` `eks` `firecracker` `sandbox`  |
 
 
@@ -343,34 +359,34 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 
 | Repository | Stars | License | Language | Description | Key Topics |
 | :--- | :---: | :---: | :---: | :--- | :--- |
-| [**ragflow**](https://github.com/infiniflow/ragflow) | `★ 92.0k` | `Apache-2.0` | `Go` | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context... | `agent-harness` `agentic-ai` `agentic-nagive` `agentic-retrieval`  |
-| [**OpenHands**](https://github.com/OpenHands/OpenHands) | `★ 90.7k` | `MIT` | `TypeScript` | 🙌 OpenHands: AI-Driven Development | `chatgpt` `claude-ai` `cli` `developer-tools`  |
-| [**learn-claude-code**](https://github.com/shareAI-lab/learn-claude-code) | `★ 78.4k` | `MIT` | `Python` | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 | `agent-development` `ai-agent` `claude` `claude-code`  |
-| [**aider**](https://github.com/Aider-AI/aider) | `★ 49.5k` | `Apache-2.0` | `Python` | aider is AI pair programming in your terminal | `anthropic` `chatgpt` `claude-3` `cli`  |
-| [**deepagents**](https://github.com/langchain-ai/deepagents) | `★ 30.1k` | `MIT` | `Python` | The batteries-included agent harness. | `deepagents` `harness` `harness-engineering` `langchain`  |
-| [**grok-build**](https://github.com/xai-org/grok-build) | `★ 27.3k` | `Apache-2.0` | `Rust` | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. |  |
-| [**SWE-agent**](https://github.com/SWE-agent/SWE-agent) | `★ 20.5k` | `MIT` | `Python` | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive... | `agent-based-model` `cybersecurity` `developer-tools` `lms`  |
+| [**ragflow**](https://github.com/infiniflow/ragflow) | `★ 92.5k` | `Apache-2.0` | `Go` | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context... | `agent-harness` `agentic-ai` `agentic-nagive` `agentic-retrieval`  |
+| [**OpenHands**](https://github.com/OpenHands/OpenHands) | `★ 91.2k` | `MIT` | `TypeScript` | 🙌 OpenHands: AI-Driven Development | `chatgpt` `claude-ai` `cli` `developer-tools`  |
+| [**learn-claude-code**](https://github.com/shareAI-lab/learn-claude-code) | `★ 78.8k` | `MIT` | `Python` | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 | `agent-development` `ai-agent` `claude` `claude-code`  |
+| [**aider**](https://github.com/Aider-AI/aider) | `★ 49.6k` | `Apache-2.0` | `Python` | aider is AI pair programming in your terminal | `anthropic` `chatgpt` `claude-3` `cli`  |
+| [**deepagents**](https://github.com/langchain-ai/deepagents) | `★ 30.4k` | `MIT` | `Python` | The batteries-included agent harness. | `deepagents` `harness` `harness-engineering` `langchain`  |
+| [**grok-build**](https://github.com/xai-org/grok-build) | `★ 27.5k` | `Apache-2.0` | `Rust` | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. |  |
+| [**SWE-agent**](https://github.com/SWE-agent/SWE-agent) | `★ 20.6k` | `MIT` | `Python` | SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive... | `agent-based-model` `cybersecurity` `developer-tools` `lms`  |
 | [**evals**](https://github.com/openai/evals) | `★ 19.6k` | `OTHER` | `Python` | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. |  |
 | [**DeepCode**](https://github.com/HKUDS/DeepCode) | `★ 16.7k` | `MIT` | `Python` | "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)" | `agentic-coding` `harness-engineering` `llm-agent`  |
 | [**OpenHarness**](https://github.com/HKUDS/OpenHarness) | `★ 16.0k` | `MIT` | `Python` | "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!" |  |
 | [**qm**](https://github.com/yc-software/qm) | `★ 15.4k` | `MIT` | `TypeScript` | Multiplayer agent harness for work. | `assistant` `harness` `qm`  |
-| [**Trellis**](https://github.com/mindfold-ai/Trellis) | `★ 14.9k` | `AGPL-3.0` | `TypeScript` | The best agent harness. | `agentic-coding` `ai-workflow` `claudecode` `codex`  |
-| [**lm-evaluation-harness**](https://github.com/EleutherAI/lm-evaluation-harness) | `★ 14.2k` | `MIT` | `Python` | A framework for few-shot evaluation of language models. | `evaluation-framework` `language-model` `transformer`  |
+| [**Trellis**](https://github.com/mindfold-ai/Trellis) | `★ 15.0k` | `AGPL-3.0` | `TypeScript` | The best agent harness. | `agentic-coding` `ai-workflow` `claudecode` `codex`  |
+| [**lm-evaluation-harness**](https://github.com/EleutherAI/lm-evaluation-harness) | `★ 14.3k` | `MIT` | `Python` | A framework for few-shot evaluation of language models. | `evaluation-framework` `language-model` `transformer`  |
 | [**hive**](https://github.com/aden-hive/hive) | `★ 11.1k` | `Apache-2.0` | `Python` | Multi-Agent Harness for Production AI | `agent-framework` `agent-skills` `anthropic` `automation`  |
-| [**ZCode**](https://github.com/zai-org/ZCode) | `★ 7.7k` | `Apache-2.0` | `TypeScript` | Z.ai's coding agent harness. Powerful, intelligent, extensible. |  |
-| [**trueforge**](https://github.com/truefoundry/trueforge) | `★ 6.2k` | `MIT` | `TypeScript` | The open-source agent harness - the runtime layer that turns an LLM into a working agent. | `agentic-ai` `harness` `harness-engineering`  |
-| [**AgentBench**](https://github.com/THUDM/AgentBench) | `★ 3.8k` | `Apache-2.0` | `Python` | A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) | `chatgpt` `gpt-4` `llm-agent`  |
+| [**ZCode**](https://github.com/zai-org/ZCode) | `★ 7.9k` | `Apache-2.0` | `TypeScript` | Z.ai's coding agent harness. Powerful, intelligent, extensible. |  |
+| [**trueforge**](https://github.com/truefoundry/trueforge) | `★ 6.3k` | `MIT` | `TypeScript` | The open-source agent harness - the runtime layer that turns an LLM into a working agent. | `agentic-ai` `harness` `harness-engineering`  |
 | [**lazycodex**](https://github.com/code-yeongyu/lazycodex) | `★ 3.8k` | `MIT` | `TypeScript` | The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex. | `ai-agents` `claude` `claude-code` `cli`  |
-| [**knowhere**](https://github.com/Ontos-AI/knowhere) | `★ 3.7k` | `Apache-2.0` | `Python` | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. | `agent-harness` `ai-agents` `claude-code` `codex`  |
-| [**SoL-Pi**](https://github.com/NVlabs/SoL-Pi) | `★ 3.4k` | `MIT` | `TypeScript` | SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses |  |
+| [**AgentBench**](https://github.com/THUDM/AgentBench) | `★ 3.8k` | `Apache-2.0` | `Python` | A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) | `chatgpt` `gpt-4` `llm-agent`  |
+| [**knowhere**](https://github.com/Ontos-AI/knowhere) | `★ 3.8k` | `Apache-2.0` | `Python` | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. | `agent-harness` `ai-agents` `claude-code` `codex`  |
+| [**SoL-Pi**](https://github.com/NVlabs/SoL-Pi) | `★ 3.5k` | `MIT` | `TypeScript` | SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses |  |
 | [**llm-as-a-verifier**](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | `★ 3.3k` | `MIT` | `Python` | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It achieves SOTA pe... |  |
 | [**Qwen-MM-Plugins**](https://github.com/QwenLM/Qwen-MM-Plugins) | `★ 3.1k` | `Apache-2.0` | `Python` | Make any agent harness multimodal-native. |  |
 | [**unreal-agent**](https://github.com/unreallabsai/unreal-agent) | `★ 2.2k` | `MIT` | `Go` | Async-first agent harness |  |
 | [**dataclaw**](https://github.com/peteromallet/dataclaw) | `★ 2.1k` | `MIT` | `Python` | Agent harness to publish your agent chat history as Huggingface datasets. |  |
+| [**waku-agent**](https://github.com/ShenSeanChen/waku-agent) | `★ 2.1k` | `MIT` | `Python` | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows. | `agent-framework` `ai-agent` `ai-assistant` `claude`  |
 | [**ante**](https://github.com/AntigmaLabs/ante) | `★ 2.0k` | `Apache-2.0` | `Rust` | Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies... | `agentic-ai` `ai-agents` `artifical-life` `rust`  |
-| [**waku-agent**](https://github.com/ShenSeanChen/waku-agent) | `★ 2.0k` | `MIT` | `Python` | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows. | `agent-framework` `ai-agent` `ai-assistant` `claude`  |
 | [**Introduction-to-Quantitative-Finance**](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) | `★ 1.8k` | `MIT` | `Python` | AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc. | `ai4fin` `finance` `investment` `llm4fin`  |
-| [**loushang**](https://github.com/zhnt/loushang) | `★ 1.7k` | `Apache-2.0` | `Python` | AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider... | `agent-harness` `agentic` `chatgpt` `claude`  |
+| [**loushang**](https://github.com/zhnt/loushang) | `★ 1.8k` | `Apache-2.0` | `Python` | AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider... | `agent-harness` `agentic` `chatgpt` `claude`  |
 | [**webarena**](https://github.com/web-arena-x/webarena) | `★ 1.6k` | `Apache-2.0` | `Python` | Code repo for "WebArena: A Realistic Web Environment for Building Autonomous Agents" | `nlp`  |
 | [**deepagentsjs**](https://github.com/langchain-ai/deepagentsjs) | `★ 1.6k` | `MIT` | `TypeScript` | The batteries included agent harness. | `deepagents` `langchain` `langgraph`  |
 | [**exo**](https://github.com/exoharness/exo) | `★ 1.5k` | `MIT` | `Rust` | Exo is an agent + harness architecture that is fully recursive, able to safely edit all aspects of itself at runtime to get better at your tasks. | `harness` `self-evolution`  |
@@ -379,41 +395,46 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 | [**whip**](https://github.com/context-labs/whip) | `★ 1.1k` | `Apache-2.0` | `Go` | A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One... |  |
 | [**bigcode-evaluation-harness**](https://github.com/bigcode-project/bigcode-evaluation-harness) | `★ 1.1k` | `Apache-2.0` | `Python` | A framework for the evaluation of autoregressive code generation language models. |  |
 | [**Mind2Web**](https://github.com/OSU-NLP-Group/Mind2Web) | `★ 1.0k` | `MIT` | `Jupyter Notebook` | [NeurIPS'23 Spotlight] "Mind2Web: Towards a Generalist Agent for the Web" -- the first LLM-based web agent and benchmark for generalist web agents |  |
-| [**agentic-harness-engineering**](https://github.com/china-qijizhifeng/agentic-harness-engineering) | `★ 917` | `MIT` | `Python` | Official AHE code — Agentic Harness Engineering: observability-driven automatic evolution of coding-agent harnesses (concurrent w/ meta-harness). NexAU-AHE r... |  |
-| [**cheetahclaws**](https://github.com/SAIL-Research-Lab/cheetahclaws) | `★ 784` | `Apache-2.0` | `Python` | CheetahClaws: A Fast and Easy-to-Use Agent Harness Infrastructure for Long-Horizon, Multi-Model, and Tool-Using AI Systems | `agentic-ai` `claude` `claude-code` `memory`  |
+| [**agentic-harness-engineering**](https://github.com/china-qijizhifeng/agentic-harness-engineering) | `★ 929` | `MIT` | `Python` | Official AHE code — Agentic Harness Engineering: observability-driven automatic evolution of coding-agent harnesses (concurrent w/ meta-harness). NexAU-AHE r... |  |
+| [**agnes-harness**](https://github.com/AgnesAI-Labs/agnes-harness) | `★ 832` | `Apache-2.0` | `TypeScript` | Agnes Harness: A pluggable agent harness for Forward Deployed Engineering (FDE). Built for trust. Made for the real world. |  |
+| [**cheetahclaws**](https://github.com/SAIL-Research-Lab/cheetahclaws) | `★ 789` | `Apache-2.0` | `Python` | CheetahClaws: A Fast and Easy-to-Use Agent Harness Infrastructure for Long-Horizon, Multi-Model, and Tool-Using AI Systems | `agentic-ai` `claude` `claude-code` `memory`  |
+| [**VulnHunter**](https://github.com/nealbridges/VulnHunter) | `★ 742` | `Apache-2.0` | `Python` | Agentic AI security scanner that hunts exploitable vulnerabilities like an adversary, proves them with executable PoCs, and fixes them test-first. A maintain... | `agent-harness` `agentic-ai` `appsec` `exploit-verification`  |
 | [**RSI-Harness**](https://github.com/CosmosMind-ai/RSI-Harness) | `★ 726` | `MIT` | `TypeScript` | RSIH — versionable, shareable agent harness: Pi coding agent + Genome config layer |  |
-| [**Awesome-Code-as-Agent-Harness-Papers**](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers) | `★ 714` | `MIT` | `Multi` | A curated list of papers and resources based on the survey "Code as Agent Harness" |  |
-| [**VulnHunter**](https://github.com/nealbridges/VulnHunter) | `★ 709` | `Apache-2.0` | `Python` | Agentic AI security scanner that hunts exploitable vulnerabilities like an adversary, proves them with executable PoCs, and fixes them test-first. A maintain... | `agent-harness` `agentic-ai` `appsec` `exploit-verification`  |
+| [**Awesome-Code-as-Agent-Harness-Papers**](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers) | `★ 715` | `MIT` | `Multi` | A curated list of papers and resources based on the survey "Code as Agent Harness" |  |
+| [**baoyan-agent-benchmark**](https://github.com/yeyuxin777/baoyan-agent-benchmark) | `★ 700` | `MIT` | `Python` | Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning. |  |
+| [**vla-evaluation-harness**](https://github.com/allenai/vla-evaluation-harness) | `★ 650` | `Apache-2.0` | `Python` | One framework to evaluate any VLA model on any robot simulation benchmark. |  |
 | [**waggle**](https://github.com/modiqo/waggle) | `★ 646` | `Apache-2.0` | `Rust` | Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-har... | `ai-agents` `harness-engineering` `llm-tools` `loop-engineering`  |
-| [**vla-evaluation-harness**](https://github.com/allenai/vla-evaluation-harness) | `★ 644` | `Apache-2.0` | `Python` | One framework to evaluate any VLA model on any robot simulation benchmark. |  |
 | [**Awesome-DeepSeek-Harness-Plugins**](https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins) | `★ 574` | `MIT` | `Multi` | Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese. | `agent-harness` `ai-agents` `awesome-list` `bilingual`  |
-| [**inferoa**](https://github.com/agentic-in/inferoa) | `★ 565` | `Apache-2.0` | `TypeScript` | Inference-native Tokenmaxxing Agent Harness for Loop Engineering | `agent-harness` `agentic-ai` `harness-engineering` `inference`  |
-| [**genomi**](https://github.com/exon-research/genomi) | `★ 484` | `Apache-2.0` | `Python` | Local-first, open-source Claude Science alternative, before Claude Science is a thing. Turn your AI agent into personal DNA expert. | `agent-harness` `genome-analysis` `whole-genome-sequencing`  |
-| [**ViNote**](https://github.com/zrt-ai-lab/ViNote) | `★ 470` | `MIT` | `Python` | ViNote（视记AI）｜DeepSeek Harness SDK 驱动的开源视频知识 Agent。以工具编排、SQLite 会话恢复和流式交互，串联 YouTube / Bilibili 检索、下载、转写与笔记生成，支持视频问答、知识卡片和思维导图。FastAPI + React，支持 OpenAI 兼容接口模型。 | `agent-harness` `ai-agent` `bilibili` `deepseek-harness`  |
-| [**learn-workbuddy**](https://github.com/adongwanai/learn-workbuddy) | `★ 427` | `MIT` | `Python` | 从 0 复刻 WorkBuddy-style 桌面 AI 助手 Harness：24 章 Python 教程，覆盖 Agent Loop、工具调用、记忆系统、Sidecar、沙盒审计、DeepSeek/OpenAI 评测轨迹 | `agent-harness` `ai-agent` `anthropic` `context-engineering`  |
-| [**dryforge**](https://github.com/prekuter/dryforge) | `★ 416` | `Apache-2.0` | `Python` | Bounded-autonomy plugin harness for agents. Intent to implementation: ready, then go. | `agent-harness` `agent-plugins` `agent-skills` `agentic-coding`  |
-| [**Awesome-Agent-Harness**](https://github.com/Gloriaameng/Awesome-Agent-Harness) | `★ 367` | `CC-BY-4.0` | `Multi` | Agent Harness for Large Language Model Agents: A Survey. Survey on LLM agentharnessengineering with a taxonomy. 110+papers, 23 systems analyzed. | `agent-framework` `agent-harness` `awesome-list` `harness`  |
-| [**AgentClinic**](https://github.com/SamuelSchmidgall/AgentClinic) | `★ 363` | `MIT` | `Python` | Agent benchmark for medical diagnosis |  |
-| [**ScienceBuddy**](https://github.com/Gen-Verse/ScienceBuddy) | `★ 325` | `MIT` | `Python` | ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents | `agent-harness` `aiforscience` `autoresearch` `llm-agents`  |
+| [**inferoa**](https://github.com/agentic-in/inferoa) | `★ 566` | `Apache-2.0` | `TypeScript` | Inference-native Tokenmaxxing Agent Harness for Loop Engineering | `agent-harness` `agentic-ai` `harness-engineering` `inference`  |
+| [**genomi**](https://github.com/exon-research/genomi) | `★ 488` | `Apache-2.0` | `Python` | Local-first, open-source Claude Science alternative, before Claude Science is a thing. Turn your AI agent into personal DNA expert. | `agent-harness` `genome-analysis` `whole-genome-sequencing`  |
+| [**ViNote**](https://github.com/zrt-ai-lab/ViNote) | `★ 473` | `MIT` | `Python` | ViNote（视记AI）｜DeepSeek Harness SDK 驱动的开源视频知识 Agent。以工具编排、SQLite 会话恢复和流式交互，串联 YouTube / Bilibili 检索、下载、转写与笔记生成，支持视频问答、知识卡片和思维导图。FastAPI + React，支持 OpenAI 兼容接口模型。 | `agent-harness` `ai-agent` `bilibili` `deepseek-harness`  |
+| [**learn-workbuddy**](https://github.com/adongwanai/learn-workbuddy) | `★ 444` | `MIT` | `Python` | 从 0 复刻 WorkBuddy-style 桌面 AI 助手 Harness：24 章 Python 教程，覆盖 Agent Loop、工具调用、记忆系统、Sidecar、沙盒审计、DeepSeek/OpenAI 评测轨迹 | `agent-harness` `ai-agent` `anthropic` `context-engineering`  |
+| [**dryforge**](https://github.com/prekuter/dryforge) | `★ 423` | `Apache-2.0` | `Python` | Bounded-autonomy plugin harness for agents. Intent to implementation: ready, then go. | `agent-harness` `agent-plugins` `agent-skills` `agentic-coding`  |
+| [**Awesome-Agent-Harness**](https://github.com/Gloriaameng/Awesome-Agent-Harness) | `★ 372` | `CC-BY-4.0` | `Multi` | Official repository for Agent Harness for Large Language Model Agents: A Survey — 168 references, 34 evidence-coded systems, and 30 harness benchmarks. | `agent-framework` `agent-harness` `awesome-list` `harness`  |
+| [**ScienceBuddy**](https://github.com/Gen-Verse/ScienceBuddy) | `★ 371` | `MIT` | `Python` | ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents | `agent-harness` `aiforscience` `autoresearch` `llm-agents`  |
+| [**AgentClinic**](https://github.com/SamuelSchmidgall/AgentClinic) | `★ 366` | `MIT` | `Python` | Agent benchmark for medical diagnosis |  |
 | [**lacp**](https://github.com/0xNyk/lacp) | `★ 305` | `MIT` | `Shell` | Local-first policy, evidence, memory, and recovery controls for Claude, Codex, Hermes, and other CLI coding agents. | `agent-harness` `ai-agents` `claude-code` `codex`  |
 | [**math-evaluation-harness**](https://github.com/ZubinGou/math-evaluation-harness) | `★ 280` | `MIT` | `Python` | A simple toolkit for benchmarking LLMs on mathematical reasoning tasks. 🧮✨ |  |
 | [**claw-bench**](https://github.com/claw-bench/claw-bench) | `★ 180` | `Apache-2.0` | `Python` | The Definitive AI Agent Benchmark |  |
 | [**shellbench**](https://github.com/openclaw/shellbench) | `★ 141` | `MIT` | `Python` | The agent benchmark that scores the full stack — harness, config, and model — not just the LLM. Trace-based scoring, reliability metrics, configuration diagn... |  |
-| [**AgentRE-Bench**](https://github.com/agentrebench/AgentRE-Bench) | `★ 125` | `MIT` | `Python` | AgentRE-Bench is an agentic benchmark that evaluates state-of-the-art models on long-horizon reverse engineering tasks, measuring their ability to analyze bi... |  |
+| [**AgentRE-Bench**](https://github.com/agentrebench/AgentRE-Bench) | `★ 130` | `MIT` | `Python` | AgentRE-Bench is an agentic benchmark that evaluates state-of-the-art models on long-horizon reverse engineering tasks, measuring their ability to analyze bi... |  |
+| [**rsi_eval**](https://github.com/Danielxu0208/rsi_eval) | `★ 111` | `Apache-2.0` | `Python` | A lightweight Python SDK and CLI for evaluating recursive self-improvement (RSI) methods across agent benchmarks. | `ai-agents` `benchmarking` `llm-evaluation` `recursive-self-improvement`  |
 | [**RODE**](https://github.com/TonghanWang/RODE) | `★ 89` | `Apache-2.0` | `Python` | Codes accompanying the paper "RODE: Learning Roles to Decompose Multi-Agent Tasks (ICLR 2021, https://arxiv.org/abs/2010.01523). RODE is a scalable role-base... |  |
+| [**lemans**](https://github.com/rails/lemans) | `★ 82` | `MIT` | `Ruby` | A Ruby harness for running agent benchmarks | `evals` `rails` `ruby`  |
 | [**ko-lm-evaluation-harness**](https://github.com/Beomi/ko-lm-evaluation-harness) | `★ 81` | `MIT` | `Python` | Forked repo from https://github.com/EleutherAI/lm-evaluation-harness/commit/1f66adc |  |
-| [**lemans**](https://github.com/rails/lemans) | `★ 78` | `MIT` | `Ruby` | A Ruby harness for running agent benchmarks | `evals` `rails` `ruby`  |
 | [**Apex**](https://github.com/AMD-AGI/Apex) | `★ 78` | `MIT` | `Python` | Agents, and RL environment, for optimizing GPU kernels on AMD ROCm using LLM agents. Benchmarks LLM serving workloads end-to-end, profiles bottleneck kernels... | `gpu-kernels` `llamas` `optimization-pipeline`  |
 | [**skill-eval-harness**](https://github.com/adewale/skill-eval-harness) | `★ 76` | `MIT` | `Python` | Agent Skill evaluation harness for paired variants, trace artifacts, and runner adapters | `agent-skills` `evals` `skills`  |
 | [**Agent-Benchmarks**](https://github.com/SkyAPMTest/Agent-Benchmarks) | `★ 62` | `Apache-2.0` | `Java` | skywalking agent performance test |  |
 | [**QwenClawBench**](https://github.com/SKYLENAGE-AI/QwenClawBench) | `★ 61` | `MIT` | `Python` | General Agent Benchmark for OpenClaw, made by Qwen Team, Alibaba Group. |  |
 | [**agent-eval-harness**](https://github.com/opendatahub-io/agent-eval-harness) | `★ 45` | `Apache-2.0` | `Python` | No description provided. |  |
+| [**agent-eval-harness**](https://github.com/fullsend-ai/agent-eval-harness) | `★ 44` | `Apache-2.0` | `Python` | No description provided. |  |
 | [**eval-harness**](https://github.com/ScottRBK/eval-harness) | `★ 43` | `MIT` | `Python` | My own personal evaluation harness |  |
 | [**GeoBenchX**](https://github.com/Solirinai/GeoBenchX) | `★ 32` | `MIT` | `Jupyter Notebook` | LLM-agents benchmark set of geospatial tasks requiring multi-step tool use; and LLM-as-Judge based evaluation framework. |  |
 | [**GentPool**](https://github.com/Gentopia-AI/GentPool) | `★ 31` | `MIT` | `Python` | Gentopia Agent Zoo and Agent Benchmark |  |
 | [**NexusBench**](https://github.com/nexusflowai/NexusBench) | `★ 28` | `Apache-2.0` | `Python` | Nexusflow function call, tool use, and agent benchmarks. |  |
+| [**ai-agent-benchmark**](https://github.com/murataslan1/ai-agent-benchmark) | `★ 28` | `MIT` | `Multi` | AI coding agents comparison - 80+ agents, SWE-Bench leaderboard, pricing. Devin, Cursor, Claude Code, Copilot, and more. December 2025. |  |
 | [**RAG-evaluation-harnesses**](https://github.com/RulinShao/RAG-evaluation-harnesses) | `★ 27` | `MIT` | `Python` | An evaluation suite for Retrieval-Augmented Generation (RAG). | `evaluation` `lm-evaluation` `rag` `retrieval-augmented-generation`  |
-| [**hermes-best-models**](https://github.com/fox-in-the-box-ai/hermes-best-models) | `★ 26` | `MIT` | `Python` | LLM evals for Hermes agents. Benchmark to find the best models for Hermes |  |
+| [**hermes-best-models**](https://github.com/fox-in-the-box-ai/hermes-best-models) | `★ 27` | `MIT` | `Python` | LLM evals for Hermes agents. Benchmark to find the best models for Hermes |  |
 | [**agent-eval-harness**](https://github.com/Siddharth-1001/agent-eval-harness) | `★ 20` | `MIT` | `Python` | An open-source evaluation framework specifically for agentic systems — not just LLM outputs, but full agent behavior. |  |
 | [**FORTE**](https://github.com/AGI-Eval-Official/FORTE) | `★ 20` | `MIT` | `Python` | FORTE (Full-cycle Office Real-world Task Evaluation) is a general agent benchmark for evaluating AI agents on daily office productivity across 15 corporate p... |  |
 | [**write-like-me**](https://github.com/Hiro-Inagawa/write-like-me) | `★ 19` | `MIT` | `Python` | Measures how you write and builds a voice profile, then enforces it with a deterministic checker: em dashes, filler, hedges, and AI tells are caught by code,... | `claude-code` `claude-skills` `nlp` `style-checker`  |
@@ -422,18 +443,18 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 | [**judgejudy**](https://github.com/character-ai/judgejudy) | `★ 18` | `MIT` | `Go` | Eval Harness |  |
 | [**Neural_Forge**](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Neural_Forge) | `★ 18` | `MIT` | `Python` | NeuralForge is an end-to-end LLM fine-tuning & serving platform. It leverages LoRA (PyTorch/Hugging Face) for domain adaptation, cutting error rates vs. base... | `ci-cd` `containerization` `docker` `finetuning`  |
 | [**cloud-attack-range**](https://github.com/bugbasesecurity/cloud-attack-range) | `★ 18` | `Apache-2.0` | `Python` | Self-hosted vulnerable cloud lab for authorized security training and AI-agent benchmarking |  |
+| [**ACESEvals**](https://github.com/microsoft/ACESEvals) | `★ 18` | `MIT` | `Python` | Security Agent Benchmarking and Evaluation Research | `agentic-ai` `benchmark-framework` `cyber-security` `evaluation-framework`  |
 | [**Multi-Agent-Benchmark-Tool**](https://github.com/digitalspaceport/Multi-Agent-Benchmark-Tool) | `★ 17` | `MIT` | `Python` | Interested in running a conspiracy of agents (technical term) on your Local AI Infra? Who isn't! | `ai-agents` `hermes-agent` `llm-agent` `llm-inference`  |
 | [**query-agent-benchmarking**](https://github.com/weaviate/query-agent-benchmarking) | `★ 17` | `BSD-3-Clause` | `Jupyter Notebook` | Tools for various benchmarking scenarios of Weaviate's Query Agent. |  |
-| [**ACESEvals**](https://github.com/microsoft/ACESEvals) | `★ 17` | `MIT` | `Python` | Security Agent Benchmarking and Evaluation Research | `agentic-ai` `benchmark-framework` `cyber-security` `evaluation-framework`  |
 | [**K-BrowseComp**](https://github.com/prometheus-eval/K-BrowseComp) | `★ 16` | `MIT` | `Python` | Repository for "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts" |  |
 | [**PHMForge-A-Scenario-Driven-Agentic-Benchmark-for-Industrial-Asset-Lifecycle-Maintenance**](https://github.com/DeveloperMindset123/PHMForge-A-Scenario-Driven-Agentic-Benchmark-for-Industrial-Asset-Lifecycle-Maintenance) | `★ 15` | `MIT` | `Jupyter Notebook` | Agentic approach to predicting RUL, cost while adhering to safety standards. |  |
 | [**LongVidSearch**](https://github.com/yrywill/LongVidSearch) | `★ 15` | `MIT` | `Python` | An Agentic Benchmark for Multi-hop Evidence Retrieval Planning in Long Videos |  |
+| [**tamil-lm**](https://github.com/timegravity/tamil-lm) | `★ 15` | `Apache-2.0` | `Python` | Tamil continued pretraining and instruction tuning of Qwen3.5-2B-Base: serving stack, eval harness, training recipe and knowledge base build scripts (Timegra... |  |
 | [**Awesome-General-Agents-Benchmark**](https://github.com/supernalintelligence/Awesome-General-Agents-Benchmark) | `★ 14` | `MIT` | `Multi` | Awesome list of general agent benchmarks |  |
 | [**eval-harness**](https://github.com/nano-step/eval-harness) | `★ 13` | `MIT` | `Shell` | Typed evaluation for OpenCode skills and AI agents: capability, regression and product checks; provider-neutral evidence grading, provenance, and CI reports. | `agent-testing` `ai-agents` `anthropic` `bash`  |
 | [**fusion-engine**](https://github.com/luckeyfaraday/fusion-engine) | `★ 12` | `MIT` | `Python` | Self-hosted Fusion API and OpenRouter Fusion alternative for building reliable multi-model LLM ensembles — fan out one prompt to N models, then synthesize on... | `ai-agents` `benchmarking` `fastapi` `fusion-api`  |
 | [**encoder_eval**](https://github.com/Liquid4All/encoder_eval) | `★ 11` | `Apache-2.0` | `Python` | Reproducible encoder downstream fine-tune eval harness |  |
 | [**skillroll**](https://github.com/hagaiw/skillroll) | `★ 11` | `MIT` | `Python` | The simple eval harness for your skills |  |
-| [**tamil-lm**](https://github.com/timegravity/tamil-lm) | `★ 11` | `Apache-2.0` | `Python` | Tamil continued pretraining and instruction tuning of Qwen3.5-2B-Base: serving stack, eval harness, training recipe and knowledge base build scripts (Timegra... |  |
 | [**q-evaluation-harness**](https://github.com/KxSystems/q-evaluation-harness) | `★ 10` | `MIT` | `Python` | An open-source framework by KX for evaluating Large Language Models on Q/kdb+ code generation tasks. |  |
 | [**lm-evaluation-harness**](https://github.com/godfreyjason/lm-evaluation-harness) | `★ 10` | `MIT` | `Python` | A framework for few-shot evaluation of autoregressive language models. |  |
 | [**lm-eval-harness**](https://github.com/NousResearch/lm-eval-harness) | `★ 10` | `MIT` | `Python` | No description provided. |  |
@@ -447,80 +468,79 @@ This repository dynamically indexes, categorizes, and tracks open source harness
 Discovered topics across indexed open source harnesses:
 
 <p align="center">
-<code>#ai-agents (125)</code> &nbsp;
-<code>#llm (89)</code> &nbsp;
-<code>#agent-harness (59)</code> &nbsp;
-<code>#agent-evaluation (58)</code> &nbsp;
-<code>#mcp (53)</code> &nbsp;
-<code>#claude-code (52)</code> &nbsp;
-<code>#python (45)</code> &nbsp;
+<code>#ai-agents (131)</code> &nbsp;
+<code>#llm (92)</code> &nbsp;
+<code>#agent-harness (64)</code> &nbsp;
+<code>#agent-evaluation (63)</code> &nbsp;
+<code>#mcp (60)</code> &nbsp;
+<code>#claude-code (56)</code> &nbsp;
+<code>#python (49)</code> &nbsp;
+<code>#browser-use (47)</code> &nbsp;
+<code>#codex (45)</code> &nbsp;
 <code>#agent (44)</code> &nbsp;
-<code>#browser-use (44)</code> &nbsp;
-<code>#codex (40)</code> &nbsp;
-<code>#agent-sandbox (38)</code> &nbsp;
-<code>#agentic-ai (37)</code> &nbsp;
-<code>#ai (37)</code> &nbsp;
-<code>#llm-evaluation (37)</code> &nbsp;
-<code>#benchmark (34)</code> &nbsp;
-<code>#ai-agent (32)</code> &nbsp;
-<code>#developer-tools (29)</code> &nbsp;
-<code>#coding-agent (28)</code> &nbsp;
-<code>#swe-bench (28)</code> &nbsp;
-<code>#sandbox (26)</code> &nbsp;
+<code>#llm-evaluation (41)</code> &nbsp;
+<code>#agent-sandbox (39)</code> &nbsp;
+<code>#agentic-ai (38)</code> &nbsp;
+<code>#benchmark (38)</code> &nbsp;
+<code>#ai (36)</code> &nbsp;
+<code>#ai-agent (35)</code> &nbsp;
+<code>#developer-tools (32)</code> &nbsp;
+<code>#coding-agent (31)</code> &nbsp;
+<code>#swe-bench (29)</code> &nbsp;
+<code>#sandbox (28)</code> &nbsp;
+<code>#cli (26)</code> &nbsp;
 <code>#claude (25)</code> &nbsp;
-<code>#cli (25)</code> &nbsp;
-<code>#multi-agent (24)</code> &nbsp;
-<code>#agents (22)</code> &nbsp;
-<code>#harness (22)</code> &nbsp;
+<code>#multi-agent (25)</code> &nbsp;
+<code>#harness (24)</code> &nbsp;
+<code>#coding-agents (23)</code> &nbsp;
+<code>#llm-agents (23)</code> &nbsp;
+<code>#typescript (22)</code> &nbsp;
+<code>#agents (21)</code> &nbsp;
+<code>#browser-automation (21)</code> &nbsp;
 <code>#harness-engineering (21)</code> &nbsp;
-<code>#llm-agents (21)</code> &nbsp;
-<code>#coding-agents (20)</code> &nbsp;
+<code>#agent-skills (20)</code> &nbsp;
+<code>#computer-use (20)</code> &nbsp;
 <code>#openai (20)</code> &nbsp;
-<code>#typescript (20)</code> &nbsp;
-<code>#browser-automation (19)</code> &nbsp;
-<code>#agent-skills (18)</code> &nbsp;
+<code>#self-hosted (19)</code> &nbsp;
 <code>#evaluation (17)</code> &nbsp;
-<code>#self-hosted (17)</code> &nbsp;
-<code>#computer-use (16)</code> &nbsp;
 <code>#model-context-protocol (16)</code> &nbsp;
+<code>#agent-orchestration (15)</code> &nbsp;
+<code>#opencode (15)</code> &nbsp;
 <code>#anthropic (14)</code> &nbsp;
 <code>#autonomous-agents (14)</code> &nbsp;
-<code>#opencode (14)</code> &nbsp;
 <code>#rag (14)</code> &nbsp;
+<code>#browser-agent (13)</code> &nbsp;
+<code>#evals (13)</code> &nbsp;
+<code>#local-first (13)</code> &nbsp;
+<code>#multi-agent-systems (13)</code> &nbsp;
+<code>#open-source (13)</code> &nbsp;
 <code>#openclaw (13)</code> &nbsp;
-<code>#playwright (13)</code> &nbsp;
 <code>#rust (13)</code> &nbsp;
-<code>#agent-orchestration (12)</code> &nbsp;
+<code>#skills (13)</code> &nbsp;
+<code>#agent-framework (12)</code> &nbsp;
 <code>#deepseek (12)</code> &nbsp;
-<code>#evals (12)</code> &nbsp;
-<code>#local-first (12)</code> &nbsp;
-<code>#multi-agent-systems (12)</code> &nbsp;
-<code>#open-source (12)</code> &nbsp;
-<code>#skills (12)</code> &nbsp;
+<code>#llmops (12)</code> &nbsp;
+<code>#playwright (12)</code> &nbsp;
 <code>#agent-benchmark (11)</code> &nbsp;
-<code>#agent-framework (11)</code> &nbsp;
-<code>#llmops (11)</code> &nbsp;
+<code>#agent-observability (10)</code> &nbsp;
 <code>#agent-runtime (10)</code> &nbsp;
 <code>#ai-coding (10)</code> &nbsp;
 <code>#ai-safety (10)</code> &nbsp;
-<code>#browser-agent (10)</code> &nbsp;
+<code>#dsh-plugin (10)</code> &nbsp;
 <code>#evaluation-framework (10)</code> &nbsp;
 <code>#llm-agent (10)</code> &nbsp;
-<code>#agent-observability (9)</code> &nbsp;
+<code>#pi-coding-agent (10)</code> &nbsp;
 <code>#ai-evaluation (9)</code> &nbsp;
+<code>#benchmarking (9)</code> &nbsp;
 <code>#docker (9)</code> &nbsp;
-<code>#dsh-plugin (9)</code> &nbsp;
+<code>#jev (9)</code> &nbsp;
 <code>#loop-engineering (9)</code> &nbsp;
-<code>#pi-coding-agent (9)</code> &nbsp;
-<code>#benchmarking (8)</code> &nbsp;
+<code>#mcp-server (9)</code> &nbsp;
 <code>#context-engineering (8)</code> &nbsp;
-<code>#cursor (8)</code> &nbsp;
 <code>#deepseek-harness (8)</code> &nbsp;
 <code>#desktop-app (8)</code> &nbsp;
-<code>#jev (8)</code> &nbsp;
 <code>#kubernetes (8)</code> &nbsp;
 <code>#langchain (8)</code> &nbsp;
-<code>#mcp-server (8)</code> &nbsp;
 <code>#prompt-injection (8)</code> &nbsp;
 <code>#security (8)</code> &nbsp;
 <code>#tool-use (8)</code> &nbsp;
@@ -528,58 +548,69 @@ Discovered topics across indexed open source harnesses:
 <code>#ai-security (7)</code> &nbsp;
 <code>#ai-tools (7)</code> &nbsp;
 <code>#chatgpt (7)</code> &nbsp;
+<code>#claude-skills (7)</code> &nbsp;
+<code>#cursor (7)</code> &nbsp;
+<code>#guardrails (7)</code> &nbsp;
 <code>#langgraph (7)</code> &nbsp;
+<code>#observability (7)</code> &nbsp;
+<code>#terminal (7)</code> &nbsp;
 <code>#testing (7)</code> &nbsp;
+<code>#web-automation (7)</code> &nbsp;
 <code>#agent-security (6)</code> &nbsp;
 <code>#agentic-coding (6)</code> &nbsp;
 <code>#automation (6)</code> &nbsp;
 <code>#awesome-list (6)</code> &nbsp;
-<code>#claude-skills (6)</code> &nbsp;
+<code>#cdp (6)</code> &nbsp;
 <code>#computer-use-agent (6)</code> &nbsp;
 <code>#eval-harness (6)</code> &nbsp;
 <code>#gemini (6)</code> &nbsp;
-<code>#guardrails (6)</code> &nbsp;
 <code>#hallucination-detection (6)</code> &nbsp;
+<code>#human-in-the-loop (6)</code> &nbsp;
 <code>#large-language-models (6)</code> &nbsp;
+<code>#llm-observability (6)</code> &nbsp;
 <code>#llm-security (6)</code> &nbsp;
 <code>#llm-tools (6)</code> &nbsp;
 <code>#machine-learning (6)</code> &nbsp;
+<code>#macos (6)</code> &nbsp;
 <code>#microvm (6)</code> &nbsp;
-<code>#observability (6)</code> &nbsp;
 <code>#opentelemetry (6)</code> &nbsp;
+<code>#pi (6)</code> &nbsp;
+<code>#prompt-engineering (6)</code> &nbsp;
 <code>#sdk (6)</code> &nbsp;
-<code>#terminal (6)</code> &nbsp;
 <code>#tool-calling (6)</code> &nbsp;
-<code>#web-automation (6)</code> &nbsp;
+<code>#tui (6)</code> &nbsp;
+<code>#ai-assistant (5)</code> &nbsp;
 <code>#ai-sandbox (5)</code> &nbsp;
 <code>#browser (5)</code> &nbsp;
+<code>#chrome-extension (5)</code> &nbsp;
 <code>#code-execution (5)</code> &nbsp;
+<code>#code-review (5)</code> &nbsp;
 <code>#codex-cli (5)</code> &nbsp;
-<code>#llm-observability (5)</code> &nbsp;
-<code>#macos (5)</code> &nbsp;
+<code>#evaluation-harness (5)</code> &nbsp;
+<code>#fastapi (5)</code> &nbsp;
 <code>#orchestration (5)</code> &nbsp;
-<code>#prompt-engineering (5)</code> &nbsp;
+<code>#recursive-self-improvement (5)</code> &nbsp;
 <code>#reinforcement-learning (5)</code> &nbsp;
 <code>#remote-execution (5)</code> &nbsp;
+<code>#synthetic-data (5)</code> &nbsp;
 <code>#terminal-bench (5)</code> &nbsp;
-<code>#tui (5)</code> &nbsp;
 <code>#tutorial (5)</code> &nbsp;
+<code>#web-agent (5)</code> &nbsp;
+<code>#agent-memory (4)</code> &nbsp;
 <code>#agent-testing (4)</code> &nbsp;
 <code>#agentops (4)</code> &nbsp;
-<code>#ai-assistant (4)</code> &nbsp;
-<code>#cdp (4)</code> &nbsp;
-<code>#chrome-extension (4)</code> &nbsp;
+<code>#ai-evals (4)</code> &nbsp;
+<code>#ai-testing (4)</code> &nbsp;
+<code>#ci-cd (4)</code> &nbsp;
 <code>#claude-code-plugin (4)</code> &nbsp;
-<code>#code-review (4)</code> &nbsp;
 <code>#code-sandbox (4)</code> &nbsp;
+<code>#desktop-automation (4)</code> &nbsp;
 <code>#development-environments (4)</code> &nbsp;
-<code>#evaluation-harness (4)</code> &nbsp;
-<code>#fastapi (4)</code> &nbsp;
+<code>#electron (4)</code> &nbsp;
 <code>#fly-io (4)</code> &nbsp;
 <code>#gemini-cli (4)</code> &nbsp;
 <code>#genai (4)</code> &nbsp;
 <code>#hermes-agent (4)</code> &nbsp;
-<code>#human-in-the-loop (4)</code> &nbsp;
 <code>#llm-eval (4)</code> &nbsp;
 <code>#llms (4)</code> &nbsp;
 <code>#memory (4)</code> &nbsp;
@@ -587,43 +618,45 @@ Discovered topics across indexed open source harnesses:
 <code>#openai-codex (4)</code> &nbsp;
 <code>#openai-compatible (4)</code> &nbsp;
 <code>#openrouter (4)</code> &nbsp;
-<code>#pi (4)</code> &nbsp;
+<code>#pi-agent (4)</code> &nbsp;
 <code>#pytest (4)</code> &nbsp;
 <code>#rag-evaluation (4)</code> &nbsp;
 <code>#react (4)</code> &nbsp;
+<code>#software-engineering (4)</code> &nbsp;
 <code>#sprites (4)</code> &nbsp;
+<code>#survey (4)</code> &nbsp;
 <code>#tauri (4)</code> &nbsp;
+<code>#tracing (4)</code> &nbsp;
 <code>#verification (4)</code> &nbsp;
+<code>#vllm (4)</code> &nbsp;
 <code>#workflow (4)</code> &nbsp;
+<code>#workflow-automation (4)</code> &nbsp;
 <code>#a2a (3)</code> &nbsp;
 <code>#acp (3)</code> &nbsp;
 <code>#agent-client-protocol (3)</code> &nbsp;
-<code>#agent-memory (3)</code> &nbsp;
+<code>#agent-evals (3)</code> &nbsp;
 <code>#agent-skill (3)</code> &nbsp;
 <code>#agentic-workflow (3)</code> &nbsp;
 <code>#ai-agent-sandbox (3)</code> &nbsp;
 <code>#ai-agents-framework (3)</code> &nbsp;
 <code>#ai-benchmark (3)</code> &nbsp;
-<code>#ai-evals (3)</code> &nbsp;
 <code>#ai-infrastructure (3)</code> &nbsp;
 <code>#ai-observability (3)</code> &nbsp;
-<code>#ai-testing (3)</code> &nbsp;
-<code>#aider (3)</code> &nbsp;
 <code>#autogen (3)</code> &nbsp;
 <code>#benchmark-framework (3)</code> &nbsp;
 <code>#benchmarks (3)</code> &nbsp;
+<code>#browser-use-agent (3)</code> &nbsp;
 <code>#chatbot (3)</code> &nbsp;
-<code>#ci-cd (3)</code> &nbsp;
+<code>#cloud-browser (3)</code> &nbsp;
 <code>#code-generation (3)</code> &nbsp;
 <code>#crewai (3)</code> &nbsp;
 <code>#cua (3)</code> &nbsp;
 <code>#datasets (3)</code> &nbsp;
-<code>#desktop-automation (3)</code> &nbsp;
 <code>#dsh (3)</code> &nbsp;
 <code>#e2b (3)</code> &nbsp;
-<code>#electron (3)</code> &nbsp;
 <code>#eval (3)</code> &nbsp;
 <code>#generative-ai (3)</code> &nbsp;
+<code>#git-worktree (3)</code> &nbsp;
 <code>#gui (3)</code> &nbsp;
 <code>#gui-agent (3)</code> &nbsp;
 <code>#harbor (3)</code> &nbsp;
@@ -631,38 +664,37 @@ Discovered topics across indexed open source harnesses:
 <code>#javascript (3)</code> &nbsp;
 <code>#language-model (3)</code> &nbsp;
 <code>#leaderboard (3)</code> &nbsp;
+<code>#llm-as-a-judge (3)</code> &nbsp;
+<code>#llm-benchmark (3)</code> &nbsp;
+<code>#llm-inference (3)</code> &nbsp;
 <code>#llm-testing (3)</code> &nbsp;
 <code>#long-horizon-agents (3)</code> &nbsp;
 <code>#mlops (3)</code> &nbsp;
 <code>#multi-tenant (3)</code> &nbsp;
 <code>#multimodal (3)</code> &nbsp;
+<code>#muse (3)</code> &nbsp;
+<code>#paper-list (3)</code> &nbsp;
 <code>#parallel-agents (3)</code> &nbsp;
-<code>#pi-agent (3)</code> &nbsp;
-<code>#qwen (3)</code> &nbsp;
-<code>#recursive-self-improvement (3)</code> &nbsp;
 <code>#red-teaming (3)</code> &nbsp;
+<code>#regression-testing (3)</code> &nbsp;
 <code>#responsible-ai (3)</code> &nbsp;
 <code>#retrieval-augmented-generation (3)</code> &nbsp;
 <code>#sdlc (3)</code> &nbsp;
-<code>#software-engineering (3)</code> &nbsp;
+<code>#self-evolving-agents (3)</code> &nbsp;
+<code>#software-factory (3)</code> &nbsp;
 <code>#spec-driven-development (3)</code> &nbsp;
 <code>#spring-ai (3)</code> &nbsp;
 <code>#sqlite (3)</code> &nbsp;
-<code>#survey (3)</code> &nbsp;
-<code>#synthetic-data (3)</code> &nbsp;
-<code>#tracing (3)</code> &nbsp;
 <code>#typesafe-ai (3)</code> &nbsp;
 <code>#vector-database (3)</code> &nbsp;
 <code>#virtualization (3)</code> &nbsp;
-<code>#vllm (3)</code> &nbsp;
 <code>#vm (3)</code> &nbsp;
-<code>#web-agent (3)</code> &nbsp;
 <code>#web-agents (3)</code> &nbsp;
+<code>#web-scraping (3)</code> &nbsp;
 <code>#agent-api (2)</code> &nbsp;
 <code>#agent-benchmarks (2)</code> &nbsp;
 <code>#agent-browser (2)</code> &nbsp;
 <code>#agent-computer (2)</code> &nbsp;
-<code>#agent-evals (2)</code> &nbsp;
 <code>#agent-infrastructure (2)</code> &nbsp;
 <code>#agent-loop (2)</code> &nbsp;
 <code>#agent-optimization (2)</code> &nbsp;
@@ -679,21 +711,24 @@ Discovered topics across indexed open source harnesses:
 <code>#ai-research (2)</code> &nbsp;
 <code>#ai-verification (2)</code> &nbsp;
 <code>#ai-workflow (2)</code> &nbsp;
+<code>#aider (2)</code> &nbsp;
+<code>#antigravity (2)</code> &nbsp;
 <code>#artificial-intelligence (2)</code> &nbsp;
 <code>#awesome (2)</code> &nbsp;
 <code>#bash (2)</code> &nbsp;
-<code>#browser-use-agent (2)</code> &nbsp;
 <code>#browser-use-box (2)</code> &nbsp;
 <code>#browser-use-cloud (2)</code> &nbsp;
 <code>#byok (2)</code> &nbsp;
+<code>#chrome-agent (2)</code> &nbsp;
+<code>#chrome-devtools-protocol (2)</code> &nbsp;
 <code>#claude-agent-sdk (2)</code> &nbsp;
 <code>#claude-code-skills (2)</code> &nbsp;
-<code>#cloud-browser (2)</code> &nbsp;
+<code>#clickhouse (2)</code> &nbsp;
 <code>#cloudflare (2)</code> &nbsp;
 <code>#code-agent (2)</code> &nbsp;
 <code>#code-interpreter (2)</code> &nbsp;
 <code>#coding-assistant (2)</code> &nbsp;
-<code>#comet (2)</code> &nbsp;
+<code>#computer-use-agents (2)</code> &nbsp;
 <code>#container-images (2)</code> &nbsp;
 <code>#containers (2)</code> &nbsp;
 <code>#context-management (2)</code> &nbsp;
@@ -714,45 +749,43 @@ Discovered topics across indexed open source harnesses:
 <code>#event-sourcing (2)</code> &nbsp;
 <code>#fine-tuning (2)</code> &nbsp;
 <code>#firecracker (2)</code> &nbsp;
-<code>#git-worktree (2)</code> &nbsp;
+<code>#generalist-agent (2)</code> &nbsp;
 <code>#github-actions (2)</code> &nbsp;
+<code>#github-copilot (2)</code> &nbsp;
+<code>#go (2)</code> &nbsp;
 <code>#golang (2)</code> &nbsp;
 <code>#gpt-4 (2)</code> &nbsp;
 <code>#gpu-kernels (2)</code> &nbsp;
 <code>#grpo (2)</code> &nbsp;
 <code>#gui-operator (2)</code> &nbsp;
 <code>#hacktoberfest (2)</code> &nbsp;
+<code>#health (2)</code> &nbsp;
 <code>#jailbreak (2)</code> &nbsp;
 <code>#java (2)</code> &nbsp;
 <code>#jev-model (2)</code> &nbsp;
 <code>#kimi (2)</code> &nbsp;
 <code>#kotlin (2)</code> &nbsp;
 <code>#llamas (2)</code> &nbsp;
-<code>#llm-as-a-judge (2)</code> &nbsp;
 <code>#llm-as-judge (2)</code> &nbsp;
-<code>#llm-benchmark (2)</code> &nbsp;
 <code>#llm-evals (2)</code> &nbsp;
-<code>#llm-inference (2)</code> &nbsp;
 <code>#llm-orchestration (2)</code> &nbsp;
 <code>#llm-safety (2)</code> &nbsp;
 <code>#llm-tracing (2)</code> &nbsp;
 <code>#llm-wiki (2)</code> &nbsp;
 <code>#local-ai (2)</code> &nbsp;
-<code>#local-llm (2)</code> &nbsp;
 <code>#lora (2)</code> &nbsp;
 <code>#mcp-security (2)</code> &nbsp;
 <code>#model-evaluation (2)</code> &nbsp;
 <code>#monitoring (2)</code> &nbsp;
 <code>#multi-agent-system (2)</code> &nbsp;
-<code>#muse (2)</code> &nbsp;
 <code>#nix (2)</code> &nbsp;
 <code>#nlp (2)</code> &nbsp;
 <code>#ollama (2)</code> &nbsp;
 <code>#open-standard (2)</code> &nbsp;
 <code>#openai-agents (2)</code> &nbsp;
+<code>#openai-agents-sdk (2)</code> &nbsp;
 <code>#openclaw-skills (2)</code> &nbsp;
 <code>#optimization (2)</code> &nbsp;
-<code>#paper-list (2)</code> &nbsp;
 <code>#persistent-browser (2)</code> &nbsp;
 <code>#personal-agent (2)</code> &nbsp;
 <code>#personal-ai (2)</code> &nbsp;
@@ -761,30 +794,33 @@ Discovered topics across indexed open source harnesses:
 <code>#planning (2)</code> &nbsp;
 <code>#plugins (2)</code> &nbsp;
 <code>#policy-engine (2)</code> &nbsp;
+<code>#prompt-optimization (2)</code> &nbsp;
 <code>#provenance (2)</code> &nbsp;
+<code>#puppeteer (2)</code> &nbsp;
 <code>#python-sdk (2)</code> &nbsp;
 <code>#pytorch (2)</code> &nbsp;
 <code>#qa (2)</code> &nbsp;
+<code>#qwen (2)</code> &nbsp;
 <code>#rbac (2)</code> &nbsp;
 <code>#react-agent (2)</code> &nbsp;
 <code>#reasoning-models (2)</code> &nbsp;
 <code>#record-replay (2)</code> &nbsp;
 <code>#red-team (2)</code> &nbsp;
-<code>#regression-testing (2)</code> &nbsp;
 <code>#remote-image (2)</code> &nbsp;
 <code>#replay (2)</code> &nbsp;
 <code>#reproducibility (2)</code> &nbsp;
 <code>#research (2)</code> &nbsp;
 <code>#rlvr (2)</code> &nbsp;
+<code>#rpa (2)</code> &nbsp;
+<code>#rsi (2)</code> &nbsp;
 <code>#sandboxing (2)</code> &nbsp;
 <code>#scraping (2)</code> &nbsp;
-<code>#self-evolving-agents (2)</code> &nbsp;
 <code>#self-improving (2)</code> &nbsp;
 <code>#simulation (2)</code> &nbsp;
 <code>#skill-evaluation (2)</code> &nbsp;
-<code>#software-factory (2)</code> &nbsp;
 <code>#spring-boot (2)</code> &nbsp;
 <code>#ssh (2)</code> &nbsp;
+<code>#stealth-browser (2)</code> &nbsp;
 <code>#strands-agents (2)</code> &nbsp;
 <code>#super-agent (2)</code> &nbsp;
 <code>#supply-chain-security (2)</code> &nbsp;
@@ -794,11 +830,11 @@ Discovered topics across indexed open source harnesses:
 <code>#telegram-bot (2)</code> &nbsp;
 <code>#tmux (2)</code> &nbsp;
 <code>#trustworthy-ai (2)</code> &nbsp;
+<code>#typesafe (2)</code> &nbsp;
 <code>#vibe-coding (2)</code> &nbsp;
 <code>#vision (2)</code> &nbsp;
 <code>#vps-agent (2)</code> &nbsp;
 <code>#vulnerability-scanner (2)</code> &nbsp;
-<code>#workflow-automation (2)</code> &nbsp;
 <code>#world-model (2)</code> &nbsp;
 </p>
 
