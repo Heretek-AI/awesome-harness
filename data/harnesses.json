@@ -7,10 +7,10 @@
     "html_url": "https://github.com/SWE-bench/SWE-bench",
     "description": "SWE-bench: Can Language Models Resolve Real-world Github Issues?",
     "escaped_description": "SWE-bench: Can Language Models Resolve Real-world Github Issues?",
-    "stars": 6090,
+    "stars": 6133,
     "formatted_stars": "6.1k",
-    "forks": 1033,
-    "open_issues": 52,
+    "forks": 1039,
+    "open_issues": 53,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -42,10 +42,10 @@
     "html_url": "https://github.com/EleutherAI/lm-evaluation-harness",
     "description": "A framework for few-shot evaluation of language models.",
     "escaped_description": "A framework for few-shot evaluation of language models.",
-    "stars": 14316,
-    "formatted_stars": "14.3k",
-    "forks": 3726,
-    "open_issues": 1253,
+    "stars": 14371,
+    "formatted_stars": "14.4k",
+    "forks": 3749,
+    "open_issues": 1274,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -77,10 +77,10 @@
     "html_url": "https://github.com/SWE-agent/SWE-agent",
     "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] ",
     "escaped_description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive...",
-    "stars": 20640,
-    "formatted_stars": "20.6k",
+    "stars": 20711,
+    "formatted_stars": "20.7k",
     "forks": 2264,
-    "open_issues": 168,
+    "open_issues": 172,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -107,7 +107,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-19T22:57:44Z"
+    "updated_at": "2026-10-26T22:40:23Z"
   },
   {
     "id": 592489166,
@@ -117,10 +117,10 @@
     "html_url": "https://github.com/openai/evals",
     "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
     "escaped_description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
-    "stars": 19656,
+    "stars": 19688,
     "formatted_stars": "19.7k",
-    "forks": 3121,
-    "open_issues": 350,
+    "forks": 3129,
+    "open_issues": 351,
     "license": {
       "key": "other",
       "name": "Other",
@@ -144,10 +144,10 @@
     "html_url": "https://github.com/browser-use/browser-use",
     "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
     "escaped_description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-    "stars": 119160,
-    "formatted_stars": "119.2k",
-    "forks": 13243,
-    "open_issues": 608,
+    "stars": 119811,
+    "formatted_stars": "119.8k",
+    "forks": 13353,
+    "open_issues": 617,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -184,7 +184,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T07:23:03Z"
+    "updated_at": "2026-11-02T01:31:56Z"
   },
   {
     "id": 671759870,
@@ -194,9 +194,9 @@
     "html_url": "https://github.com/THUDM/AgentBench",
     "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
     "escaped_description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
-    "stars": 3791,
+    "stars": 3806,
     "formatted_stars": "3.8k",
-    "forks": 292,
+    "forks": 294,
     "open_issues": 80,
     "license": {
       "key": "apache-2.0",
@@ -230,9 +230,9 @@
     "html_url": "https://github.com/web-arena-x/webarena",
     "description": "Code repo for \"WebArena: A Realistic Web Environment for Building Autonomous Agents\"",
     "escaped_description": "Code repo for \"WebArena: A Realistic Web Environment for Building Autonomous Agents\"",
-    "stars": 1635,
+    "stars": 1640,
     "formatted_stars": "1.6k",
-    "forks": 247,
+    "forks": 248,
     "open_issues": 106,
     "license": {
       "key": "apache-2.0",
@@ -289,10 +289,10 @@
     "html_url": "https://github.com/OpenHands/OpenHands",
     "description": "🙌 OpenHands: AI-Driven Development",
     "escaped_description": "🙌 OpenHands: AI-Driven Development",
-    "stars": 91871,
-    "formatted_stars": "91.9k",
-    "forks": 12202,
-    "open_issues": 1121,
+    "stars": 92488,
+    "formatted_stars": "92.5k",
+    "forks": 12324,
+    "open_issues": 1182,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -321,7 +321,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:29:54Z"
+    "updated_at": "2026-11-02T10:10:53Z"
   },
   {
     "id": 638629097,
@@ -331,10 +331,10 @@
     "html_url": "https://github.com/Aider-AI/aider",
     "description": "aider is AI pair programming in your terminal",
     "escaped_description": "aider is AI pair programming in your terminal",
-    "stars": 49757,
-    "formatted_stars": "49.8k",
-    "forks": 5108,
-    "open_issues": 1945,
+    "stars": 49898,
+    "formatted_stars": "49.9k",
+    "forks": 5125,
+    "open_issues": 1942,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -377,10 +377,10 @@
     "html_url": "https://github.com/openinterpreter/openinterpreter",
     "description": "A coding agent for open models like Kimi K3 and GLM 5.3",
     "escaped_description": "A coding agent for open models like Kimi K3 and GLM 5.3",
-    "stars": 68673,
-    "formatted_stars": "68.7k",
-    "forks": 5912,
-    "open_issues": 24,
+    "stars": 68778,
+    "formatted_stars": "68.8k",
+    "forks": 5938,
+    "open_issues": 32,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -407,7 +407,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-11T00:56:06Z"
+    "updated_at": "2026-11-01T10:01:41Z"
   },
   {
     "id": 679017521,
@@ -417,10 +417,10 @@
     "html_url": "https://github.com/AgentOps-AI/agentops",
     "description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI",
     "escaped_description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI ...",
-    "stars": 5915,
+    "stars": 5936,
     "formatted_stars": "5.9k",
-    "forks": 649,
-    "open_issues": 197,
+    "forks": 655,
+    "open_issues": 200,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -465,12 +465,12 @@
     "name": "ragflow",
     "owner": "infiniflow",
     "html_url": "https://github.com/infiniflow/ragflow",
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-    "escaped_description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context...",
-    "stars": 92886,
-    "formatted_stars": "92.9k",
-    "forks": 11115,
-    "open_issues": 1358,
+    "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+    "escaped_description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+    "stars": 93346,
+    "formatted_stars": "93.3k",
+    "forks": 11204,
+    "open_issues": 1311,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -482,8 +482,8 @@
     "language": "Go",
     "topics": [
       "agent-harness",
+      "agent-native-database",
       "agentic-ai",
-      "agentic-nagive",
       "agentic-retrieval",
       "agentic-search",
       "ai",
@@ -499,13 +499,13 @@
     ],
     "top_topics": [
       "agent-harness",
+      "agent-native-database",
       "agentic-ai",
-      "agentic-nagive",
       "agentic-retrieval"
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T07:36:56Z"
+    "updated_at": "2026-11-02T10:02:37Z"
   },
   {
     "id": 649170660,
@@ -515,10 +515,10 @@
     "html_url": "https://github.com/Mintplex-Labs/anything-llm",
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
     "escaped_description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "stars": 67571,
-    "formatted_stars": "67.6k",
-    "forks": 7588,
-    "open_issues": 351,
+    "stars": 67847,
+    "formatted_stars": "67.8k",
+    "forks": 7654,
+    "open_issues": 363,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -553,7 +553,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T18:20:45Z"
+    "updated_at": "2026-10-30T23:50:45Z"
   },
   {
     "id": 1165324947,
@@ -563,10 +563,10 @@
     "html_url": "https://github.com/agentscope-ai/QwenPaw",
     "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
     "escaped_description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-    "stars": 36271,
-    "formatted_stars": "36.3k",
-    "forks": 3213,
-    "open_issues": 1145,
+    "stars": 37190,
+    "formatted_stars": "37.2k",
+    "forks": 3249,
+    "open_issues": 1128,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -575,7 +575,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "license_name": "Apache-2.0",
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
       "agent",
       "agent-harness",
@@ -602,7 +602,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T06:27:59Z"
+    "updated_at": "2026-11-02T10:16:02Z"
   },
   {
     "id": 1255237198,
@@ -612,10 +612,10 @@
     "html_url": "https://github.com/HarnessMD/munder-difflin",
     "description": "an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions",
     "escaped_description": "an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, us...",
-    "stars": 9071,
-    "formatted_stars": "9.1k",
-    "forks": 1263,
-    "open_issues": 266,
+    "stars": 9292,
+    "formatted_stars": "9.3k",
+    "forks": 1303,
+    "open_issues": 273,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -624,7 +624,7 @@
       "node_id": "MDc6TGljZW5zZTEz"
     },
     "license_name": "MIT",
-    "language": "TypeScript",
+    "language": "JavaScript",
     "topics": [
       "agent-harness",
       "agent-orchestration",
@@ -655,7 +655,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T07:19:02Z"
+    "updated_at": "2026-11-02T10:21:41Z"
   },
   {
     "id": 1255217938,
@@ -665,10 +665,10 @@
     "html_url": "https://github.com/loopx-project/loopx",
     "description": "Turn long-horizon goals into verifiable results. A local-first semantic control plane and research workbench for long-running agent teams, across sessions and runtimes.",
     "escaped_description": "Turn long-horizon goals into verifiable results. A local-first semantic control plane and research workbench for long-running agent teams, across sessions an...",
-    "stars": 6429,
-    "formatted_stars": "6.4k",
-    "forks": 612,
-    "open_issues": 154,
+    "stars": 6531,
+    "formatted_stars": "6.5k",
+    "forks": 619,
+    "open_issues": 178,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -689,8 +689,7 @@
       "local-first",
       "long-horizon-agents",
       "multi-agent",
-      "rsi",
-      "trajectory-analysis"
+      "rsi"
     ],
     "top_topics": [
       "agent-control-plane",
@@ -700,7 +699,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:33:36Z"
+    "updated_at": "2026-11-02T10:12:53Z"
   },
   {
     "id": 1198124295,
@@ -710,10 +709,10 @@
     "html_url": "https://github.com/mvschwarz/openrig",
     "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
     "escaped_description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-    "stars": 8198,
-    "formatted_stars": "8.2k",
-    "forks": 673,
-    "open_issues": 131,
+    "stars": 8553,
+    "formatted_stars": "8.6k",
+    "forks": 706,
+    "open_issues": 130,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -744,7 +743,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:33:33Z"
+    "updated_at": "2026-11-02T08:44:58Z"
   },
   {
     "id": 1225188401,
@@ -754,8 +753,8 @@
     "html_url": "https://github.com/Ontos-AI/knowhere",
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "escaped_description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "stars": 3785,
-    "formatted_stars": "3.8k",
+    "stars": 3875,
+    "formatted_stars": "3.9k",
     "forks": 337,
     "open_issues": 37,
     "license": {
@@ -788,7 +787,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T05:20:04Z"
+    "updated_at": "2026-11-02T06:50:37Z"
   },
   {
     "id": 1329163060,
@@ -798,10 +797,10 @@
     "html_url": "https://github.com/HarnessRouter/harnessrouter",
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure.",
     "escaped_description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, a...",
-    "stars": 3655,
-    "formatted_stars": "3.7k",
-    "forks": 394,
-    "open_issues": 23,
+    "stars": 3868,
+    "formatted_stars": "3.9k",
+    "forks": 422,
+    "open_issues": 21,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -841,7 +840,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T07:52:43Z"
+    "updated_at": "2026-11-02T09:29:45Z"
   },
   {
     "id": 747319327,
@@ -851,10 +850,10 @@
     "html_url": "https://github.com/openlit/openlit",
     "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL.",
     "escaped_description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL.",
-    "stars": 2883,
+    "stars": 2900,
     "formatted_stars": "2.9k",
-    "forks": 445,
-    "open_issues": 177,
+    "forks": 455,
+    "open_issues": 220,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -894,7 +893,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T05:31:46Z"
+    "updated_at": "2026-11-02T10:34:28Z"
   },
   {
     "id": 1253654878,
@@ -904,10 +903,10 @@
     "html_url": "https://github.com/zhnt/loushang",
     "description": "AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.",
     "escaped_description": "AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider...",
-    "stars": 1873,
+    "stars": 1950,
     "formatted_stars": "1.9k",
-    "forks": 294,
-    "open_issues": 47,
+    "forks": 304,
+    "open_issues": 54,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -947,7 +946,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T03:26:05Z"
+    "updated_at": "2026-11-02T03:57:02Z"
   },
   {
     "id": 692466689,
@@ -957,9 +956,9 @@
     "html_url": "https://github.com/tmgthb/Autonomous-Agents",
     "description": "Autonomous Agents (LLMs) research papers. Updated Daily.",
     "escaped_description": "Autonomous Agents (LLMs) research papers. Updated Daily.",
-    "stars": 1385,
+    "stars": 1386,
     "formatted_stars": "1.4k",
-    "forks": 103,
+    "forks": 102,
     "open_issues": 2,
     "license": {
       "key": "mit",
@@ -1008,12 +1007,12 @@
     "name": "commonly",
     "owner": "Team-Commonly",
     "html_url": "https://github.com/Team-Commonly/commonly",
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
-    "escaped_description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent ...",
-    "stars": 1370,
+    "description": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source (Apache-2.0), self-hostable.",
+    "escaped_description": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source (Apache-2.0), self-hostable.",
+    "stars": 1380,
     "formatted_stars": "1.4k",
-    "forks": 189,
-    "open_issues": 218,
+    "forks": 191,
+    "open_issues": 168,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -1052,7 +1051,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T07:38:39Z"
+    "updated_at": "2026-11-02T10:32:53Z"
   },
   {
     "id": 1145914675,
@@ -1060,9 +1059,9 @@
     "name": "oh-my-agent",
     "owner": "first-fluke",
     "html_url": "https://github.com/first-fluke/oh-my-agent",
-    "description": "A specialist team for the coding agent you already use: 12 roles, 21 workflows and 33 skills that plan, build in parallel, review and debug, leaving plans, ADRs and results as files. Gates wait for your own tests. Also research, slides and video. One .agents/ folder for Claude Code, Codex, Cursor and 11 more.",
-    "escaped_description": "A specialist team for the coding agent you already use: 12 roles, 21 workflows and 33 skills that plan, build in parallel, review and debug, leaving plans, A...",
-    "stars": 1352,
+    "description": "Agent skills and specialist teams for Claude Code, Codex, Cursor and other coding agents. Load one skill or install domain presets, project hooks and parallel workflows with test gates.",
+    "escaped_description": "Agent skills and specialist teams for Claude Code, Codex, Cursor and other coding agents. Load one skill or install domain presets, project hooks and paralle...",
+    "stars": 1357,
     "formatted_stars": "1.4k",
     "forks": 150,
     "open_issues": 0,
@@ -1100,7 +1099,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T01:10:25Z"
+    "updated_at": "2026-11-02T06:19:36Z"
   },
   {
     "id": 1215501706,
@@ -1110,10 +1109,10 @@
     "html_url": "https://github.com/thClaws/thClaws",
     "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
     "escaped_description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
-    "stars": 1243,
-    "formatted_stars": "1.2k",
-    "forks": 183,
-    "open_issues": 9,
+    "stars": 1251,
+    "formatted_stars": "1.3k",
+    "forks": 186,
+    "open_issues": 1,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -1153,7 +1152,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T08:22:12Z"
+    "updated_at": "2026-11-01T22:44:14Z"
   },
   {
     "id": 1234537369,
@@ -1163,10 +1162,10 @@
     "html_url": "https://github.com/Gentleman-Programming/gentle-shell",
     "description": "Gentle Shell is a Pi-native workspace for AI-assisted development, bringing parallel coding agents, live tasks, Git diffs, persistent memory, and permission controls into one terminal interface. Powered by Gentle AI and Organic Driven Development (ODD).",
     "escaped_description": "Gentle Shell is a Pi-native workspace for AI-assisted development, bringing parallel coding agents, live tasks, Git diffs, persistent memory, and permission ...",
-    "stars": 1430,
-    "formatted_stars": "1.4k",
-    "forks": 225,
-    "open_issues": 820,
+    "stars": 1522,
+    "formatted_stars": "1.5k",
+    "forks": 248,
+    "open_issues": 406,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -1205,7 +1204,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T03:26:51Z"
+    "updated_at": "2026-11-01T16:56:00Z"
   },
   {
     "id": 1149484257,
@@ -1215,10 +1214,10 @@
     "html_url": "https://github.com/Chorus-AIDLC/Chorus",
     "description": "The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle)",
     "escaped_description": "The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle)",
-    "stars": 1209,
+    "stars": 1218,
     "formatted_stars": "1.2k",
     "forks": 110,
-    "open_issues": 20,
+    "open_issues": 19,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -1246,7 +1245,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T11:57:54Z"
+    "updated_at": "2026-11-02T03:55:04Z"
   },
   {
     "id": 1269603321,
@@ -1256,10 +1255,10 @@
     "html_url": "https://github.com/androoAGI/starnet",
     "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
     "escaped_description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-    "stars": 1616,
-    "formatted_stars": "1.6k",
-    "forks": 326,
-    "open_issues": 93,
+    "stars": 1695,
+    "formatted_stars": "1.7k",
+    "forks": 347,
+    "open_issues": 65,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -1291,7 +1290,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T23:48:54Z"
+    "updated_at": "2026-10-31T18:33:58Z"
   },
   {
     "id": 1201201482,
@@ -1301,10 +1300,10 @@
     "html_url": "https://github.com/mateaix/mateclaw",
     "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
     "escaped_description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-    "stars": 1170,
+    "stars": 1176,
     "formatted_stars": "1.2k",
-    "forks": 353,
-    "open_issues": 187,
+    "forks": 356,
+    "open_issues": 190,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -1343,7 +1342,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T08:29:28Z"
+    "updated_at": "2026-11-02T06:26:15Z"
   },
   {
     "id": 1322671404,
@@ -1353,10 +1352,10 @@
     "html_url": "https://github.com/autonomous-ai/openharness",
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with code, then follow your curiosity and build across disciplines: CAD, circuits, robots, games and music.",
     "escaped_description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with code, then follow your curiosity and bu...",
-    "stars": 1369,
+    "stars": 1409,
     "formatted_stars": "1.4k",
-    "forks": 127,
-    "open_issues": 71,
+    "forks": 134,
+    "open_issues": 89,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -1396,7 +1395,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:27:55Z"
+    "updated_at": "2026-11-02T10:38:14Z"
   },
   {
     "id": 1175588150,
@@ -1406,10 +1405,10 @@
     "html_url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses",
     "description": "🏆 Ranked list of 187 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.",
     "escaped_description": "🏆 Ranked list of 187 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.",
-    "stars": 1367,
+    "stars": 1433,
     "formatted_stars": "1.4k",
-    "forks": 93,
-    "open_issues": 3,
+    "forks": 97,
+    "open_issues": 11,
     "license": {
       "key": "cc-by-sa-4.0",
       "name": "Creative Commons Attribution Share Alike 4.0 International",
@@ -1449,7 +1448,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T17:26:04Z"
+    "updated_at": "2026-11-01T18:46:19Z"
   },
   {
     "id": 1264023481,
@@ -1459,10 +1458,10 @@
     "html_url": "https://github.com/huiliyi37/Tianshu-harness",
     "description": "天枢harness是一个的终端编程智能体，它要回答的核心问题是：模型何以稳定地交付——目标不漂移、完成有证据、验证有闭环，不说\"应该修好了\"。为此它在模型与真实世界之间建立一层认知执行环境（CVM），把目标、状态、证据、资源、权限与终止条件从对话历史中外部化，由运行时持续管理。同时对deepseek v4极度优化。",
     "escaped_description": "天枢harness是一个的终端编程智能体，它要回答的核心问题是：模型何以稳定地交付——目标不漂移、完成有证据、验证有闭环，不说\"应该修好了\"。为此它在模型与真实世界之间建立一层认知执行环境（CVM），把目标、状态、证据、资源、权限与终止条件从对话历史中外部化，由运行时持续管理。同时对deepseek v4极度优化。",
-    "stars": 1155,
+    "stars": 1250,
     "formatted_stars": "1.2k",
-    "forks": 86,
-    "open_issues": 12,
+    "forks": 97,
+    "open_issues": 23,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -1497,7 +1496,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T06:57:16Z"
+    "updated_at": "2026-10-31T05:53:22Z"
   },
   {
     "id": 1307136587,
@@ -1509,8 +1508,8 @@
     "escaped_description": "Open-source, multi-platform harness for AI agents - a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or Open...",
     "stars": 815,
     "formatted_stars": "815",
-    "forks": 162,
-    "open_issues": 501,
+    "forks": 161,
+    "open_issues": 512,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -1549,7 +1548,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T18:39:20Z"
+    "updated_at": "2026-11-02T05:44:46Z"
   },
   {
     "id": 1297278222,
@@ -1559,9 +1558,9 @@
     "html_url": "https://github.com/sandbaseai/sandbase-harness",
     "description": "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
     "escaped_description": "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
-    "stars": 636,
-    "formatted_stars": "636",
-    "forks": 77,
+    "stars": 640,
+    "formatted_stars": "640",
+    "forks": 76,
     "open_issues": 18,
     "license": {
       "key": "apache-2.0",
@@ -1602,7 +1601,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-18T14:15:46Z"
+    "updated_at": "2026-11-01T14:17:38Z"
   },
   {
     "id": 1268611404,
@@ -1612,10 +1611,10 @@
     "html_url": "https://github.com/ruvnet/metaharness",
     "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
     "escaped_description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-sig...",
-    "stars": 716,
-    "formatted_stars": "716",
-    "forks": 88,
-    "open_issues": 186,
+    "stars": 737,
+    "formatted_stars": "737",
+    "forks": 93,
+    "open_issues": 200,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -1655,7 +1654,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:34:12Z"
+    "updated_at": "2026-11-02T08:45:14Z"
   },
   {
     "id": 1382460607,
@@ -1665,10 +1664,10 @@
     "html_url": "https://github.com/nealbridges/VulnHunter",
     "description": "Agentic AI security scanner that hunts exploitable vulnerabilities like an adversary, proves them with executable PoCs, and fixes them test-first. A maintained fork of Capital One's VulnHunter, rebuilt for any agent harness.",
     "escaped_description": "Agentic AI security scanner that hunts exploitable vulnerabilities like an adversary, proves them with executable PoCs, and fixes them test-first. A maintain...",
-    "stars": 781,
-    "formatted_stars": "781",
-    "forks": 121,
-    "open_issues": 3,
+    "stars": 798,
+    "formatted_stars": "798",
+    "forks": 123,
+    "open_issues": 1,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -1696,7 +1695,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T03:42:22Z"
+    "updated_at": "2026-10-29T04:49:56Z"
   },
   {
     "id": 1333171737,
@@ -1706,10 +1705,10 @@
     "html_url": "https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins",
     "description": "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.",
     "escaped_description": "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.",
-    "stars": 559,
-    "formatted_stars": "559",
-    "forks": 66,
-    "open_issues": 11,
+    "stars": 566,
+    "formatted_stars": "566",
+    "forks": 70,
+    "open_issues": 17,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -1752,8 +1751,8 @@
     "html_url": "https://github.com/agentic-in/inferoa",
     "description": "Inference-native Tokenmaxxing Agent Harness for Loop Engineering",
     "escaped_description": "Inference-native Tokenmaxxing Agent Harness for Loop Engineering",
-    "stars": 566,
-    "formatted_stars": "566",
+    "stars": 567,
+    "formatted_stars": "567",
     "forks": 92,
     "open_issues": 49,
     "license": {
@@ -1795,8 +1794,8 @@
     "html_url": "https://github.com/clawdotnet/openclaw.net",
     "description": "Self-hosted Enterprise and Personal  AI + agent runtime in .NET (NativeAOT-friendly)",
     "escaped_description": "Self-hosted Enterprise and Personal  AI + agent runtime in .NET (NativeAOT-friendly)",
-    "stars": 528,
-    "formatted_stars": "528",
+    "stars": 532,
+    "formatted_stars": "532",
     "forks": 105,
     "open_issues": 2,
     "license": {
@@ -1837,7 +1836,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-22T23:00:37Z"
+    "updated_at": "2026-10-27T15:59:26Z"
   },
   {
     "id": 1201737664,
@@ -1924,9 +1923,9 @@
     "html_url": "https://github.com/zrt-ai-lab/ViNote",
     "description": "ViNote（视记AI）｜DeepSeek Harness SDK 驱动的开源视频知识 Agent。以工具编排、SQLite 会话恢复和流式交互，串联 YouTube / Bilibili 检索、下载、转写与笔记生成，支持视频问答、知识卡片和思维导图。FastAPI + React，支持 OpenAI 兼容接口模型。",
     "escaped_description": "ViNote（视记AI）｜DeepSeek Harness SDK 驱动的开源视频知识 Agent。以工具编排、SQLite 会话恢复和流式交互，串联 YouTube / Bilibili 检索、下载、转写与笔记生成，支持视频问答、知识卡片和思维导图。FastAPI + React，支持 OpenAI 兼容接口模型。",
-    "stars": 478,
-    "formatted_stars": "478",
-    "forks": 61,
+    "stars": 480,
+    "formatted_stars": "480",
+    "forks": 63,
     "open_issues": 2,
     "license": {
       "key": "mit",
@@ -1973,8 +1972,8 @@
     "html_url": "https://github.com/CodeSoul-co/Hypha",
     "description": "Harness-oriented agent system framework for production-grade LLM agent applications",
     "escaped_description": "Harness-oriented agent system framework for production-grade LLM agent applications",
-    "stars": 449,
-    "formatted_stars": "449",
+    "stars": 451,
+    "formatted_stars": "451",
     "forks": 126,
     "open_issues": 3,
     "license": {
@@ -2026,10 +2025,10 @@
     "html_url": "https://github.com/SponsioLabs/Sponsio",
     "description": "Deterministic safety solutions for probabilistic AI agents",
     "escaped_description": "Deterministic safety solutions for probabilistic AI agents",
-    "stars": 455,
-    "formatted_stars": "455",
+    "stars": 454,
+    "formatted_stars": "454",
     "forks": 27,
-    "open_issues": 0,
+    "open_issues": 4,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -2069,7 +2068,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T05:01:40Z"
+    "updated_at": "2026-10-30T17:35:23Z"
   },
   {
     "id": 1381412852,
@@ -2079,10 +2078,10 @@
     "html_url": "https://github.com/qybaihe/mu",
     "description": "mu (μ): most of what a coding agent decides isn't code. mu hands 40 kinds of yes/no calls to a small model: fewer wasted tokens, fewer approvals on autopilot, fewer runs that stop halfway. Built on pi.",
     "escaped_description": "mu (μ): most of what a coding agent decides isn't code. mu hands 40 kinds of yes/no calls to a small model: fewer wasted tokens, fewer approvals on autopilot...",
-    "stars": 552,
-    "formatted_stars": "552",
-    "forks": 63,
-    "open_issues": 6,
+    "stars": 571,
+    "formatted_stars": "571",
+    "forks": 64,
+    "open_issues": 3,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -2118,7 +2117,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:33:33Z"
+    "updated_at": "2026-11-02T10:00:16Z"
   },
   {
     "id": 1255328803,
@@ -2128,8 +2127,8 @@
     "html_url": "https://github.com/prekuter/dryforge",
     "description": "Bounded-autonomy plugin harness for agents. Intent to implementation: ready, then go.",
     "escaped_description": "Bounded-autonomy plugin harness for agents. Intent to implementation: ready, then go.",
-    "stars": 427,
-    "formatted_stars": "427",
+    "stars": 435,
+    "formatted_stars": "435",
     "forks": 40,
     "open_issues": 1,
     "license": {
@@ -2181,10 +2180,10 @@
     "html_url": "https://github.com/adongwanai/learn-workbuddy",
     "description": "从 0 复刻 WorkBuddy-style 桌面 AI 助手 Harness：24 章 Python 教程，覆盖 Agent Loop、工具调用、记忆系统、Sidecar、沙盒审计、DeepSeek/OpenAI 评测轨迹",
     "escaped_description": "从 0 复刻 WorkBuddy-style 桌面 AI 助手 Harness：24 章 Python 教程，覆盖 Agent Loop、工具调用、记忆系统、Sidecar、沙盒审计、DeepSeek/OpenAI 评测轨迹",
-    "stars": 477,
-    "formatted_stars": "477",
-    "forks": 78,
-    "open_issues": 3,
+    "stars": 504,
+    "formatted_stars": "504",
+    "forks": 81,
+    "open_issues": 4,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -2216,7 +2215,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T05:34:56Z"
+    "updated_at": "2026-10-28T05:10:02Z"
   },
   {
     "id": 1152111971,
@@ -2226,10 +2225,10 @@
     "html_url": "https://github.com/giuliastro/harness-remote",
     "description": "Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.",
     "escaped_description": "Native-session control plane for Codex, Claude Code, OpenCode, OMP and PI. Run, resume and hand off coding sessions across your machines.",
-    "stars": 425,
-    "formatted_stars": "425",
+    "stars": 433,
+    "formatted_stars": "433",
     "forks": 66,
-    "open_issues": 3,
+    "open_issues": 2,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -2264,7 +2263,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:18:36Z"
+    "updated_at": "2026-11-02T05:56:43Z"
   },
   {
     "id": 1200398425,
@@ -2408,8 +2407,8 @@
     "html_url": "https://github.com/Intelligent-Internet/zenith",
     "description": "Zenith: a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP.",
     "escaped_description": "Zenith: a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP.",
-    "stars": 378,
-    "formatted_stars": "378",
+    "stars": 389,
+    "formatted_stars": "389",
     "forks": 57,
     "open_issues": 18,
     "license": {
@@ -2505,9 +2504,9 @@
     "html_url": "https://github.com/Gen-Verse/ScienceBuddy",
     "description": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
     "escaped_description": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-    "stars": 394,
-    "formatted_stars": "394",
-    "forks": 53,
+    "stars": 408,
+    "formatted_stars": "408",
+    "forks": 54,
     "open_issues": 2,
     "license": {
       "key": "mit",
@@ -2583,10 +2582,10 @@
     "html_url": "https://github.com/Agent-Field/CodeAF",
     "description": "Open-Source Software factory for Open Models",
     "escaped_description": "Open-Source Software factory for Open Models",
-    "stars": 549,
-    "formatted_stars": "549",
-    "forks": 68,
-    "open_issues": 270,
+    "stars": 616,
+    "formatted_stars": "616",
+    "forks": 72,
+    "open_issues": 340,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -2626,7 +2625,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T07:12:16Z"
+    "updated_at": "2026-11-02T10:37:03Z"
   },
   {
     "id": 1361393778,
@@ -2828,9 +2827,9 @@
     "html_url": "https://github.com/TejasQ/basically-agent-evals",
     "description": "Your Evals Are Lying To You: a hands-on TypeScript curriculum for LLM evals, from a five-line assertion to a live diagnostic console. By Tejas Kumar.",
     "escaped_description": "Your Evals Are Lying To You: a hands-on TypeScript curriculum for LLM evals, from a five-line assertion to a live diagnostic console. By Tejas Kumar.",
-    "stars": 21,
-    "formatted_stars": "21",
-    "forks": 2,
+    "stars": 22,
+    "formatted_stars": "22",
+    "forks": 3,
     "open_issues": 0,
     "license": {
       "key": "mit",
@@ -2866,8 +2865,8 @@
     "html_url": "https://github.com/Virtue-Research/guard-eval-harness",
     "description": "One command to benchmark AI guardrails and coding agents across safety, security, jailbreak, prompt-injection, and secure-code tasks.",
     "escaped_description": "One command to benchmark AI guardrails and coding agents across safety, security, jailbreak, prompt-injection, and secure-code tasks.",
-    "stars": 19,
-    "formatted_stars": "19",
+    "stars": 20,
+    "formatted_stars": "20",
     "forks": 3,
     "open_issues": 1,
     "license": {
@@ -2954,8 +2953,8 @@
     "html_url": "https://github.com/alexgreensh/eval-genius",
     "description": "Teach your agent to work with evals: WHEN you actually need an eval or benchmark, HOW to build one that holds up, and how to read what it tells you. Deterministic-first, tool-agnostic.",
     "escaped_description": "Teach your agent to work with evals: WHEN you actually need an eval or benchmark, HOW to build one that holds up, and how to read what it tells you. Determin...",
-    "stars": 20,
-    "formatted_stars": "20",
+    "stars": 24,
+    "formatted_stars": "24",
     "forks": 4,
     "open_issues": 0,
     "license": {
@@ -3004,8 +3003,8 @@
     "html_url": "https://github.com/thetahealth/mirobody-eval",
     "description": "An evaluation harness for medical/health AI agents — reproduce and cover multiple benchmarks under one scoring discipline",
     "escaped_description": "An evaluation harness for medical/health AI agents — reproduce and cover multiple benchmarks under one scoring discipline",
-    "stars": 222,
-    "formatted_stars": "222",
+    "stars": 277,
+    "formatted_stars": "277",
     "forks": 2,
     "open_issues": 0,
     "license": {
@@ -3043,10 +3042,10 @@
     "html_url": "https://github.com/najeed/ai-agent-eval-harness",
     "description": "The open-source MultiAgentOps evaluation and verification harness for any industry business workflow.",
     "escaped_description": "The open-source MultiAgentOps evaluation and verification harness for any industry business workflow.",
-    "stars": 44,
-    "formatted_stars": "44",
+    "stars": 45,
+    "formatted_stars": "45",
     "forks": 9,
-    "open_issues": 32,
+    "open_issues": 33,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -3086,7 +3085,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T21:44:57Z"
+    "updated_at": "2026-11-01T23:47:57Z"
   },
   {
     "id": 1325212154,
@@ -3137,10 +3136,10 @@
     "html_url": "https://github.com/huggingface/Repo2RLEnv",
     "description": "Turn any repository into verifiable RL environments for coding agents - Harbor tasks you can train on, evaluate and share on the Hugging Face Hub",
     "escaped_description": "Turn any repository into verifiable RL environments for coding agents - Harbor tasks you can train on, evaluate and share on the Hugging Face Hub",
-    "stars": 743,
-    "formatted_stars": "743",
-    "forks": 114,
-    "open_issues": 8,
+    "stars": 763,
+    "formatted_stars": "763",
+    "forks": 117,
+    "open_issues": 13,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -3168,7 +3167,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T19:44:52Z"
+    "updated_at": "2026-11-02T10:02:11Z"
   },
   {
     "id": 1017976886,
@@ -3178,8 +3177,8 @@
     "html_url": "https://github.com/JARVIS-Xs/SE-Agent",
     "description": "SE-Agent is a self-evolution framework for LLM Code agents. It enables trajectory-level evolution to exchange information across reasoning paths via Revision, Recombination, and Refinement, expanding the search space and escaping local optima. On SWE-bench Verified, it achieves SOTA performance",
     "escaped_description": "SE-Agent is a self-evolution framework for LLM Code agents. It enables trajectory-level evolution to exchange information across reasoning paths via Revision...",
-    "stars": 289,
-    "formatted_stars": "289",
+    "stars": 290,
+    "formatted_stars": "290",
     "forks": 29,
     "open_issues": 5,
     "license": {
@@ -3219,10 +3218,10 @@
     "html_url": "https://github.com/microsoft/RepoLaunch",
     "description": "[NeurIPS 2026 Main] Automate the build, execution and test of software repositories across programming languages and operating systems.",
     "escaped_description": "[NeurIPS 2026 Main] Automate the build, execution and test of software repositories across programming languages and operating systems.",
-    "stars": 209,
-    "formatted_stars": "209",
+    "stars": 212,
+    "formatted_stars": "212",
     "forks": 25,
-    "open_issues": 27,
+    "open_issues": 30,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -3247,7 +3246,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-09T21:52:48Z"
+    "updated_at": "2026-11-01T01:25:55Z"
   },
   {
     "id": 1066869441,
@@ -3257,8 +3256,8 @@
     "html_url": "https://github.com/hwfengcs/DM-Code-Agent",
     "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by the official harness -- every number reproducible, negative results included.",
     "escaped_description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by the official harness -- every number ...",
-    "stars": 154,
-    "formatted_stars": "154",
+    "stars": 153,
+    "formatted_stars": "153",
     "forks": 15,
     "open_issues": 1,
     "license": {
@@ -3301,10 +3300,10 @@
     "html_url": "https://github.com/UiPath/coder_eval",
     "description": "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, A/B experiments, CI gates.",
     "escaped_description": "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, A/B experiments, CI...",
-    "stars": 154,
-    "formatted_stars": "154",
-    "forks": 6,
-    "open_issues": 29,
+    "stars": 156,
+    "formatted_stars": "156",
+    "forks": 7,
+    "open_issues": 28,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -3344,7 +3343,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T20:47:24Z"
+    "updated_at": "2026-11-01T23:11:11Z"
   },
   {
     "id": 1259782962,
@@ -3354,8 +3353,8 @@
     "html_url": "https://github.com/strands-labs/benchmark-harnesses",
     "description": "Strands-based agents and harnesses for agentic benchmarks.",
     "escaped_description": "Strands-based agents and harnesses for agentic benchmarks.",
-    "stars": 66,
-    "formatted_stars": "66",
+    "stars": 67,
+    "formatted_stars": "67",
     "forks": 9,
     "open_issues": 1,
     "license": {
@@ -3398,8 +3397,8 @@
     "html_url": "https://github.com/wbopan/retro-harness",
     "description": "RHO: Evolving Agents in the Dark — Retrospective Harness Optimization via Self-Preference. Improving LLM agents from unlabeled past trajectories (arXiv:2606.05922).",
     "escaped_description": "RHO: Evolving Agents in the Dark — Retrospective Harness Optimization via Self-Preference. Improving LLM agents from unlabeled past trajectories (arXiv:2606....",
-    "stars": 67,
-    "formatted_stars": "67",
+    "stars": 68,
+    "formatted_stars": "68",
     "forks": 8,
     "open_issues": 0,
     "license": {
@@ -3428,7 +3427,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-06-12T03:00:00Z"
+    "updated_at": "2026-10-30T03:14:36Z"
   },
   {
     "id": 1283706755,
@@ -3528,10 +3527,10 @@
     "html_url": "https://github.com/xianyu-sheng/Xenon",
     "description": "Verifiable AI coding agent harness / 可验证的 AI 编码代理：evidence hash-chain · hollow-answer gate · manual verification checklist · 6 engines + MCP · multi-model · Windows/CJK · listed in awesome-opensource-ai & Collabnix awesome-mcp-lists",
     "escaped_description": "Verifiable AI coding agent harness / 可验证的 AI 编码代理：evidence hash-chain · hollow-answer gate · manual verification checklist · 6 engines + MCP · multi-model · ...",
-    "stars": 55,
-    "formatted_stars": "55",
-    "forks": 12,
-    "open_issues": 45,
+    "stars": 56,
+    "formatted_stars": "56",
+    "forks": 11,
+    "open_issues": 29,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -3571,7 +3570,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T01:22:56Z"
+    "updated_at": "2026-11-02T09:36:44Z"
   },
   {
     "id": 1013268836,
@@ -3581,8 +3580,8 @@
     "html_url": "https://github.com/logic-star-ai/insights",
     "description": "We track and analyze the activity and performance of autonomous code agents in the wild",
     "escaped_description": "We track and analyze the activity and performance of autonomous code agents in the wild",
-    "stars": 51,
-    "formatted_stars": "51",
+    "stars": 52,
+    "formatted_stars": "52",
     "forks": 5,
     "open_issues": 0,
     "license": {
@@ -3752,10 +3751,10 @@
     "html_url": "https://github.com/mupt-ai/self-bench",
     "description": "Benchmark coding agents and models on your own repository with private Harbor-formatted evals built from its merged pull requests.",
     "escaped_description": "Benchmark coding agents and models on your own repository with private Harbor-formatted evals built from its merged pull requests.",
-    "stars": 33,
-    "formatted_stars": "33",
+    "stars": 34,
+    "formatted_stars": "34",
     "forks": 1,
-    "open_issues": 12,
+    "open_issues": 5,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -3784,7 +3783,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T04:35:54Z"
+    "updated_at": "2026-11-02T04:43:06Z"
   },
   {
     "id": 1255811098,
@@ -3835,7 +3834,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:22:53Z"
+    "updated_at": "2026-11-01T20:33:26Z"
   },
   {
     "id": 1224218617,
@@ -3889,10 +3888,10 @@
     "html_url": "https://github.com/CommonstackAI/TwinRouterBench",
     "description": "Per-step LLM routing benchmark with 970 static labels, live SWE-bench evaluation, an open data pipeline, and a public leaderboard.",
     "escaped_description": "Per-step LLM routing benchmark with 970 static labels, live SWE-bench evaluation, an open data pipeline, and a public leaderboard.",
-    "stars": 28,
-    "formatted_stars": "28",
+    "stars": 31,
+    "formatted_stars": "31",
     "forks": 3,
-    "open_issues": 1,
+    "open_issues": 0,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -3922,7 +3921,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T13:24:24Z"
+    "updated_at": "2026-10-28T12:48:58Z"
   },
   {
     "id": 1175566283,
@@ -4099,8 +4098,8 @@
     "escaped_description": "Minimal coding agents, easy to play with (opencode TUI) and easy to benchmark (ACP on BenchFlow) — built around mini-swe-agent",
     "stars": 11,
     "formatted_stars": "11",
-    "forks": 6,
-    "open_issues": 11,
+    "forks": 5,
+    "open_issues": 10,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -4219,12 +4218,12 @@
     "name": "benchmark-radar",
     "owner": "ktwu01",
     "html_url": "https://github.com/ktwu01/benchmark-radar",
-    "description": "Track 33,707+ AI benchmark, eval, dataset, and data-quality records from 40 public sources, with linked evidence and daily updates.",
-    "escaped_description": "Track 33,707+ AI benchmark, eval, dataset, and data-quality records from 40 public sources, with linked evidence and daily updates.",
-    "stars": 306,
-    "formatted_stars": "306",
-    "forks": 50,
-    "open_issues": 151,
+    "description": "Track 42,331+ AI benchmark, eval, dataset, and data-quality records from 40 public sources, with linked evidence and daily updates.",
+    "escaped_description": "Track 42,331+ AI benchmark, eval, dataset, and data-quality records from 40 public sources, with linked evidence and daily updates.",
+    "stars": 313,
+    "formatted_stars": "313",
+    "forks": 51,
+    "open_issues": 149,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -4264,7 +4263,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T07:55:54Z"
+    "updated_at": "2026-11-02T07:30:27Z"
   },
   {
     "id": 1098589658,
@@ -4277,7 +4276,7 @@
     "stars": 140,
     "formatted_stars": "140",
     "forks": 27,
-    "open_issues": 2,
+    "open_issues": 4,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -4371,10 +4370,10 @@
     "html_url": "https://github.com/js-lee-AI/awesome-llm-agent-papers",
     "description": "LLM agents: curated papers on planning, memory, tool use, multi-agent systems, evaluation, and safety.",
     "escaped_description": "LLM agents: curated papers on planning, memory, tool use, multi-agent systems, evaluation, and safety.",
-    "stars": 102,
-    "formatted_stars": "102",
-    "forks": 36,
-    "open_issues": 3,
+    "stars": 105,
+    "formatted_stars": "105",
+    "forks": 37,
+    "open_issues": 2,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -4413,7 +4412,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-20T18:22:11Z"
+    "updated_at": "2026-10-27T22:50:43Z"
   },
   {
     "id": 1033598313,
@@ -4600,8 +4599,8 @@
     "escaped_description": "Role-aware, permission-enforced benchmark for LLM agents that operate HPC systems — SLURM, telemetry, RBAC, docs, facility. A policy violation hard-fails the...",
     "stars": 10,
     "formatted_stars": "10",
-    "forks": 14,
-    "open_issues": 29,
+    "forks": 15,
+    "open_issues": 45,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -4641,7 +4640,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-17T18:32:34Z"
+    "updated_at": "2026-11-01T14:47:27Z"
   },
   {
     "id": 1168514302,
@@ -4750,10 +4749,10 @@
     "html_url": "https://github.com/ifixai-ai/iFixAi",
     "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
     "escaped_description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is ...",
-    "stars": 34625,
-    "formatted_stars": "34.6k",
-    "forks": 1711,
-    "open_issues": 3,
+    "stars": 42912,
+    "formatted_stars": "42.9k",
+    "forks": 1778,
+    "open_issues": 22,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -4793,7 +4792,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T23:10:53Z"
+    "updated_at": "2026-10-30T18:50:42Z"
   },
   {
     "id": 466864356,
@@ -4803,10 +4802,10 @@
     "html_url": "https://github.com/Giskard-AI/giskard-oss",
     "description": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
     "escaped_description": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
-    "stars": 5923,
+    "stars": 5940,
     "formatted_stars": "5.9k",
-    "forks": 553,
-    "open_issues": 80,
+    "forks": 559,
+    "open_issues": 76,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -4843,7 +4842,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T02:32:47Z"
+    "updated_at": "2026-11-02T07:34:45Z"
   },
   {
     "id": 1007406267,
@@ -4853,10 +4852,10 @@
     "html_url": "https://github.com/coze-dev/coze-loop",
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.  ",
     "escaped_description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities fro...",
-    "stars": 5788,
+    "stars": 5799,
     "formatted_stars": "5.8k",
-    "forks": 801,
-    "open_issues": 97,
+    "forks": 803,
+    "open_issues": 101,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -4893,7 +4892,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T04:08:47Z"
+    "updated_at": "2026-11-02T09:51:03Z"
   },
   {
     "id": 309504885,
@@ -4903,10 +4902,10 @@
     "html_url": "https://github.com/truera/trulens",
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "escaped_description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "stars": 3612,
+    "stars": 3621,
     "formatted_stars": "3.6k",
-    "forks": 377,
-    "open_issues": 139,
+    "forks": 383,
+    "open_issues": 141,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -4939,7 +4938,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T14:26:21Z"
+    "updated_at": "2026-10-31T23:48:56Z"
   },
   {
     "id": 1219087723,
@@ -4949,10 +4948,10 @@
     "html_url": "https://github.com/future-agi/future-agi",
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
     "escaped_description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway ·...",
-    "stars": 2201,
+    "stars": 2238,
     "formatted_stars": "2.2k",
-    "forks": 695,
-    "open_issues": 942,
+    "forks": 705,
+    "open_issues": 953,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -4992,7 +4991,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:26:08Z"
+    "updated_at": "2026-11-02T10:37:45Z"
   },
   {
     "id": 954528300,
@@ -5002,10 +5001,10 @@
     "html_url": "https://github.com/mozilla-ai/any-agent",
     "description": "A single interface to use and evaluate different agent frameworks ",
     "escaped_description": "A single interface to use and evaluate different agent frameworks",
-    "stars": 1251,
+    "stars": 1253,
     "formatted_stars": "1.3k",
-    "forks": 106,
-    "open_issues": 30,
+    "forks": 107,
+    "open_issues": 32,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -5029,7 +5028,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-01T01:05:24Z"
+    "updated_at": "2026-11-01T00:38:29Z"
   },
   {
     "id": 1206519531,
@@ -5039,10 +5038,10 @@
     "html_url": "https://github.com/TIGER-AI-Lab/ClawBench",
     "description": "Open-source benchmark for browser AI agents on daily tasks.",
     "escaped_description": "Open-source benchmark for browser AI agents on daily tasks.",
-    "stars": 1123,
-    "formatted_stars": "1.1k",
-    "forks": 68,
-    "open_issues": 53,
+    "stars": 1181,
+    "formatted_stars": "1.2k",
+    "forks": 73,
+    "open_issues": 69,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -5092,8 +5091,8 @@
     "html_url": "https://github.com/chirpz-ai/pandaprobe",
     "description": "open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude Agent SDK, and more. ",
     "escaped_description": "open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude Agent SDK, ...",
-    "stars": 792,
-    "formatted_stars": "792",
+    "stars": 793,
+    "formatted_stars": "793",
     "forks": 122,
     "open_issues": 19,
     "license": {
@@ -5127,7 +5126,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-04T22:37:11Z"
+    "updated_at": "2026-11-02T07:34:17Z"
   },
   {
     "id": 1278676884,
@@ -5137,10 +5136,10 @@
     "html_url": "https://github.com/NVIDIA/SkillEvaluator",
     "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
     "escaped_description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent e...",
-    "stars": 598,
-    "formatted_stars": "598",
-    "forks": 75,
-    "open_issues": 24,
+    "stars": 622,
+    "formatted_stars": "622",
+    "forks": 81,
+    "open_issues": 59,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -5152,6 +5151,7 @@
     "language": "Python",
     "topics": [
       "agent-evaluation",
+      "agent-plugins",
       "agent-security",
       "agent-skills",
       "agentic-ai",
@@ -5160,6 +5160,8 @@
       "codex",
       "evaluate",
       "evaluation",
+      "plugin",
+      "plugin-evaluation",
       "security-scanner",
       "skill-eval",
       "skill-evals",
@@ -5169,13 +5171,13 @@
     ],
     "top_topics": [
       "agent-evaluation",
+      "agent-plugins",
       "agent-security",
-      "agent-skills",
-      "agentic-ai"
+      "agent-skills"
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T21:38:40Z"
+    "updated_at": "2026-11-02T09:02:51Z"
   },
   {
     "id": 1164205568,
@@ -5185,8 +5187,8 @@
     "html_url": "https://github.com/alphadl/AdaRubrics",
     "description": "AdaRubric: Adaptive Dynamic Rubric Evaluator for Agent Trajectories",
     "escaped_description": "AdaRubric: Adaptive Dynamic Rubric Evaluator for Agent Trajectories",
-    "stars": 367,
-    "formatted_stars": "367",
+    "stars": 368,
+    "formatted_stars": "368",
     "forks": 37,
     "open_issues": 1,
     "license": {
@@ -5223,9 +5225,9 @@
     "html_url": "https://github.com/AI45Lab/OpenART",
     "description": "OpenART is an open-source framework designed to evaluate the safety and robustness of autonomous AI agents in dynamic, long-horizon, and stateful environments. It stress-tests agent runtimes against multi-step state poisoning, privilege escalation, and tool-use vulnerabilities across 10,000+ benchmark scenarios.",
     "escaped_description": "OpenART is an open-source framework designed to evaluate the safety and robustness of autonomous AI agents in dynamic, long-horizon, and stateful environment...",
-    "stars": 254,
-    "formatted_stars": "254",
-    "forks": 29,
+    "stars": 268,
+    "formatted_stars": "268",
+    "forks": 30,
     "open_issues": 0,
     "license": {
       "key": "agpl-3.0",
@@ -5266,7 +5268,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-15T09:10:01Z"
+    "updated_at": "2026-11-01T16:24:58Z"
   },
   {
     "id": 930349379,
@@ -5276,8 +5278,8 @@
     "html_url": "https://github.com/rungalileo/agent-leaderboard",
     "description": "Ranking LLMs on agentic tasks",
     "escaped_description": "Ranking LLMs on agentic tasks",
-    "stars": 226,
-    "formatted_stars": "226",
+    "stars": 227,
+    "formatted_stars": "227",
     "forks": 28,
     "open_issues": 0,
     "license": {
@@ -5409,8 +5411,8 @@
     "html_url": "https://github.com/amitshekhariitbhu/ai-agents-tutorial",
     "description": "Learn AI Agents step by step, from scratch - from function calling to agent loops to multi-agent systems, orchestration, and evaluation.",
     "escaped_description": "Learn AI Agents step by step, from scratch - from function calling to agent loops to multi-agent systems, orchestration, and evaluation.",
-    "stars": 203,
-    "formatted_stars": "203",
+    "stars": 206,
+    "formatted_stars": "206",
     "forks": 48,
     "open_issues": 0,
     "license": {
@@ -5441,7 +5443,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T02:56:41Z"
+    "updated_at": "2026-11-02T04:17:27Z"
   },
   {
     "id": 1386191888,
@@ -5451,10 +5453,10 @@
     "html_url": "https://github.com/scaleapi/agentenv-framework",
     "description": "Creating realistic RL environments requires collaboration between researchers, engineers, and domain experts across many dimensions: artifacts, environments tools, dynamism of the environment, reproducibility, and more. There is no open source framework for building these environments effectively. Until now.",
     "escaped_description": "Creating realistic RL environments requires collaboration between researchers, engineers, and domain experts across many dimensions: artifacts, environments ...",
-    "stars": 366,
-    "formatted_stars": "366",
-    "forks": 41,
-    "open_issues": 42,
+    "stars": 402,
+    "formatted_stars": "402",
+    "forks": 53,
+    "open_issues": 48,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -5486,7 +5488,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T06:40:28Z"
+    "updated_at": "2026-11-02T09:46:13Z"
   },
   {
     "id": 1072418796,
@@ -5496,10 +5498,10 @@
     "html_url": "https://github.com/evaleval/every_eval_ever",
     "description": "Every Eval Ever is a shared schema and crowdsourced eval database. It defines a standardized metadata format for storing AI evaluation results — from leaderboard scrapes and research papers to local evaluation runs — so that results from different frameworks can be compared, reproduced, and reused.",
     "escaped_description": "Every Eval Ever is a shared schema and crowdsourced eval database. It defines a standardized metadata format for storing AI evaluation results — from leaderb...",
-    "stars": 137,
-    "formatted_stars": "137",
+    "stars": 138,
+    "formatted_stars": "138",
     "forks": 53,
-    "open_issues": 39,
+    "open_issues": 42,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -5524,7 +5526,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T15:10:18Z"
+    "updated_at": "2026-10-30T21:26:02Z"
   },
   {
     "id": 1248034647,
@@ -5576,10 +5578,10 @@
     "html_url": "https://github.com/AMD-AGI/AgentKernelArena",
     "description": "AgentKernelArena is a platform for evaluating and training AI agents for GPU kernel optimization, combining realistic tasks, correctness validation, and performance-based rewards for reinforcement learning.",
     "escaped_description": "AgentKernelArena is a platform for evaluating and training AI agents for GPU kernel optimization, combining realistic tasks, correctness validation, and perf...",
-    "stars": 123,
-    "formatted_stars": "123",
-    "forks": 17,
-    "open_issues": 25,
+    "stars": 124,
+    "formatted_stars": "124",
+    "forks": 18,
+    "open_issues": 13,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -5601,7 +5603,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T15:24:04Z"
+    "updated_at": "2026-11-02T00:07:59Z"
   },
   {
     "id": 1260489286,
@@ -5693,7 +5695,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-08-08T14:39:53Z"
+    "updated_at": "2026-10-26T19:26:04Z"
   },
   {
     "id": 1332683811,
@@ -5705,7 +5707,7 @@
     "escaped_description": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
     "stars": 99,
     "formatted_stars": "99",
-    "forks": 78,
+    "forks": 76,
     "open_issues": 1,
     "license": {
       "key": "mit",
@@ -5794,10 +5796,10 @@
     "html_url": "https://github.com/WaseemGhanem98/AgentCheck",
     "description": "Behavioral testing for AI agents.",
     "escaped_description": "Behavioral testing for AI agents.",
-    "stars": 72,
-    "formatted_stars": "72",
+    "stars": 73,
+    "formatted_stars": "73",
     "forks": 36,
-    "open_issues": 3,
+    "open_issues": 11,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -5824,7 +5826,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-01T23:01:07Z"
+    "updated_at": "2026-11-01T22:57:48Z"
   },
   {
     "id": 1210744971,
@@ -5834,10 +5836,10 @@
     "html_url": "https://github.com/reacher-z/HarnessBench",
     "description": "Benchmark for comparing agent harnesses on everyday online tasks — fixes the base model, varies the harness. Sister project of ClawBench, same scoring pipeline.",
     "escaped_description": "Benchmark for comparing agent harnesses on everyday online tasks — fixes the base model, varies the harness. Sister project of ClawBench, same scoring pipeline.",
-    "stars": 63,
-    "formatted_stars": "63",
+    "stars": 64,
+    "formatted_stars": "64",
     "forks": 6,
-    "open_issues": 21,
+    "open_issues": 23,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -5879,10 +5881,10 @@
     "html_url": "https://github.com/dokimos-dev/dokimos",
     "description": "LLM and agent evaluation for Java & Kotlin. Runs in JUnit and CI. Spring AI, LangChain4j, Koog, Embabel, and any LLM client.",
     "escaped_description": "LLM and agent evaluation for Java & Kotlin. Runs in JUnit and CI. Spring AI, LangChain4j, Koog, Embabel, and any LLM client.",
-    "stars": 60,
-    "formatted_stars": "60",
+    "stars": 61,
+    "formatted_stars": "61",
     "forks": 5,
-    "open_issues": 17,
+    "open_issues": 16,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -5922,7 +5924,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-22T12:41:21Z"
+    "updated_at": "2026-10-29T21:37:32Z"
   },
   {
     "id": 846543521,
@@ -5964,7 +5966,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T05:06:31Z"
+    "updated_at": "2026-11-02T05:30:55Z"
   },
   {
     "id": 1228062617,
@@ -6019,7 +6021,7 @@
     "escaped_description": "Production-oriented multi-agent course advisor with deterministic action governance, offline regression evaluation, SSE contracts and observable tool execution.",
     "stars": 47,
     "formatted_stars": "47",
-    "forks": 6,
+    "forks": 7,
     "open_issues": 0,
     "license": {
       "key": "mit",
@@ -6109,7 +6111,7 @@
     "stars": 53,
     "formatted_stars": "53",
     "forks": 9,
-    "open_issues": 10,
+    "open_issues": 5,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -6149,7 +6151,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T23:23:34Z"
+    "updated_at": "2026-10-27T12:02:15Z"
   },
   {
     "id": 996602757,
@@ -6251,7 +6253,7 @@
     "escaped_description": "Overnight experiment: can an AI agent make money, and can you trust what it reports? The agent produces claims; a separate verifier it cannot invoke produces...",
     "stars": 36,
     "formatted_stars": "36",
-    "forks": 7,
+    "forks": 8,
     "open_issues": 17,
     "license": {
       "key": "mit",
@@ -6300,8 +6302,8 @@
     "html_url": "https://github.com/ProofAgent-ai/proofagent-harness",
     "description": "Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI",
     "escaped_description": "Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI",
-    "stars": 31,
-    "formatted_stars": "31",
+    "stars": 35,
+    "formatted_stars": "35",
     "forks": 10,
     "open_issues": 3,
     "license": {
@@ -6796,10 +6798,10 @@
     "html_url": "https://github.com/smol-machines/smolvm",
     "description": "An embeddable, portable, branchable virtual machine to safely run Agents locally.",
     "escaped_description": "An embeddable, portable, branchable virtual machine to safely run Agents locally.",
-    "stars": 6839,
-    "formatted_stars": "6.8k",
-    "forks": 340,
-    "open_issues": 77,
+    "stars": 6901,
+    "formatted_stars": "6.9k",
+    "forks": 349,
+    "open_issues": 83,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -6831,7 +6833,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:34:56Z"
+    "updated_at": "2026-11-02T02:25:47Z"
   },
   {
     "id": 1146550474,
@@ -6841,10 +6843,10 @@
     "html_url": "https://github.com/nolabs-ai/nono",
     "description": "agent runtime security - zero trust, zero setup, zero latency agent sandboxing",
     "escaped_description": "agent runtime security - zero trust, zero setup, zero latency agent sandboxing",
-    "stars": 4676,
-    "formatted_stars": "4.7k",
-    "forks": 320,
-    "open_issues": 275,
+    "stars": 4802,
+    "formatted_stars": "4.8k",
+    "forks": 326,
+    "open_issues": 290,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -6878,7 +6880,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T15:58:51Z"
+    "updated_at": "2026-11-02T09:51:30Z"
   },
   {
     "id": 1231135337,
@@ -6888,10 +6890,10 @@
     "html_url": "https://github.com/strukto-ai/mirage",
     "description": "The World's First Virtual Terminal for AI Agents",
     "escaped_description": "The World's First Virtual Terminal for AI Agents",
-    "stars": 3731,
-    "formatted_stars": "3.7k",
-    "forks": 275,
-    "open_issues": 30,
+    "stars": 3762,
+    "formatted_stars": "3.8k",
+    "forks": 278,
+    "open_issues": 25,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -6907,13 +6909,16 @@
       "ai-agents",
       "bash",
       "claude-code",
-      "dsh",
       "dsh-plugin",
+      "expressjs",
+      "fastapi",
       "fuse",
       "llm-agents",
       "openai-agents",
       "python",
+      "shell",
       "ssh",
+      "terminal",
       "typescript",
       "vfs",
       "virtual-filesystem",
@@ -6927,7 +6932,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:34:20Z"
+    "updated_at": "2026-11-02T10:17:00Z"
   },
   {
     "id": 1310543401,
@@ -6937,10 +6942,10 @@
     "html_url": "https://github.com/agentconnect-md/agentconnect",
     "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
     "escaped_description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-    "stars": 1492,
+    "stars": 1513,
     "formatted_stars": "1.5k",
-    "forks": 73,
-    "open_issues": 38,
+    "forks": 77,
+    "open_issues": 39,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -6972,7 +6977,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:27:30Z"
+    "updated_at": "2026-11-02T09:50:02Z"
   },
   {
     "id": 1291502015,
@@ -6982,9 +6987,9 @@
     "html_url": "https://github.com/clawkwork/clawk",
     "description": "Give coding agents a disposable Linux VM, not your laptop",
     "escaped_description": "Give coding agents a disposable Linux VM, not your laptop",
-    "stars": 1033,
+    "stars": 1036,
     "formatted_stars": "1.0k",
-    "forks": 41,
+    "forks": 42,
     "open_issues": 4,
     "license": {
       "key": "apache-2.0",
@@ -7025,10 +7030,10 @@
     "html_url": "https://github.com/nuwax-ai/nuwax",
     "description": "Nuwax Agent OS - An enterprise-grade AI Agent Development and Operation Platform - Providing a complete solution for agent creation and distribution, knowledge base management, model proxy, memory system, and plugin ecosystem.",
     "escaped_description": "Nuwax Agent OS - An enterprise-grade AI Agent Development and Operation Platform - Providing a complete solution for agent creation and distribution, knowled...",
-    "stars": 896,
-    "formatted_stars": "896",
-    "forks": 181,
-    "open_issues": 15,
+    "stars": 899,
+    "formatted_stars": "899",
+    "forks": 182,
+    "open_issues": 13,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -7061,7 +7066,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T06:17:18Z"
+    "updated_at": "2026-11-02T07:43:54Z"
   },
   {
     "id": 346279056,
@@ -7071,8 +7076,8 @@
     "html_url": "https://github.com/containerd/accelerated-container-image",
     "description": "A production-ready remote/on-demand container/sandbox/vm image format (overlaybd) and snapshotter",
     "escaped_description": "A production-ready remote/on-demand container/sandbox/vm image format (overlaybd) and snapshotter",
-    "stars": 479,
-    "formatted_stars": "479",
+    "stars": 480,
+    "formatted_stars": "480",
     "forks": 88,
     "open_issues": 49,
     "license": {
@@ -7113,10 +7118,10 @@
     "html_url": "https://github.com/containerd/overlaybd",
     "description": "Overlaybd: a block based remote image format for containers/vms/sandboxes. The storage backend of containerd/accelerated-container-image.",
     "escaped_description": "Overlaybd: a block based remote image format for containers/vms/sandboxes. The storage backend of containerd/accelerated-container-image.",
-    "stars": 429,
-    "formatted_stars": "429",
+    "stars": 432,
+    "formatted_stars": "432",
     "forks": 94,
-    "open_issues": 26,
+    "open_issues": 29,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -7145,7 +7150,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T14:37:06Z"
+    "updated_at": "2026-10-28T08:53:24Z"
   },
   {
     "id": 1124390254,
@@ -7155,10 +7160,10 @@
     "html_url": "https://github.com/FootprintAI/Containarium",
     "description": "Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI",
     "escaped_description": "Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI",
-    "stars": 313,
-    "formatted_stars": "313",
-    "forks": 56,
-    "open_issues": 192,
+    "stars": 314,
+    "formatted_stars": "314",
+    "forks": 59,
+    "open_issues": 211,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -7197,7 +7202,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T06:53:02Z"
+    "updated_at": "2026-11-02T10:30:51Z"
   },
   {
     "id": 1110443867,
@@ -7207,8 +7212,8 @@
     "html_url": "https://github.com/agent-sandbox/agent-sandbox",
     "description": "Agent-Sandbox is an easy-to-use, enterprise-grade sandbox platform for AI Agents — letting them securely run untrusted LLM-generated code, Browser use, Computer use, and deploy websites, among other tasks.",
     "escaped_description": "Agent-Sandbox is an easy-to-use, enterprise-grade sandbox platform for AI Agents — letting them securely run untrusted LLM-generated code, Browser use, Compu...",
-    "stars": 222,
-    "formatted_stars": "222",
+    "stars": 228,
+    "formatted_stars": "228",
     "forks": 19,
     "open_issues": 4,
     "license": {
@@ -7242,7 +7247,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-22T06:56:44Z"
+    "updated_at": "2026-10-29T03:35:39Z"
   },
   {
     "id": 1136486551,
@@ -7252,8 +7257,8 @@
     "html_url": "https://github.com/mattolson/agent-sandbox",
     "description": "Secure local dev environment for collaboration with AI coding agents",
     "escaped_description": "Secure local dev environment for collaboration with AI coding agents",
-    "stars": 211,
-    "formatted_stars": "211",
+    "stars": 212,
+    "formatted_stars": "212",
     "forks": 19,
     "open_issues": 17,
     "license": {
@@ -7278,7 +7283,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T09:23:00Z"
+    "updated_at": "2026-10-31T09:23:20Z"
   },
   {
     "id": 1267950499,
@@ -7288,10 +7293,10 @@
     "html_url": "https://github.com/langgenius/mosoo",
     "description": "Open-source managed runtime for OpenAI Codex, Claude Agent SDK, OpenCode, and Pi Agent. Run coding agents through one Agents API with isolated cloud sandboxes, durable sessions, tool streaming, and managed files.",
     "escaped_description": "Open-source managed runtime for OpenAI Codex, Claude Agent SDK, OpenCode, and Pi Agent. Run coding agents through one Agents API with isolated cloud sandboxe...",
-    "stars": 165,
-    "formatted_stars": "165",
-    "forks": 26,
-    "open_issues": 42,
+    "stars": 166,
+    "formatted_stars": "166",
+    "forks": 27,
+    "open_issues": 39,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -7322,7 +7327,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T08:28:59Z"
+    "updated_at": "2026-10-31T06:46:06Z"
   },
   {
     "id": 1197652584,
@@ -7332,10 +7337,10 @@
     "html_url": "https://github.com/aws-samples/sample-autonomous-cloud-coding-agents",
     "description": "Autonomous background coding agents on AWS. Turn tasks into pull requests via isolated runtimes, with built-in orchestration, observability, and governance.",
     "escaped_description": "Autonomous background coding agents on AWS. Turn tasks into pull requests via isolated runtimes, with built-in orchestration, observability, and governance.",
-    "stars": 164,
-    "formatted_stars": "164",
-    "forks": 50,
-    "open_issues": 317,
+    "stars": 168,
+    "formatted_stars": "168",
+    "forks": 52,
+    "open_issues": 326,
     "license": {
       "key": "mit-0",
       "name": "MIT No Attribution",
@@ -7365,7 +7370,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T05:04:56Z"
+    "updated_at": "2026-10-31T06:28:30Z"
   },
   {
     "id": 1037556932,
@@ -7375,10 +7380,10 @@
     "html_url": "https://github.com/gominimal/minimal",
     "description": "Run your agent in a Minimal box. Ship and run software with isolation on your own computer.",
     "escaped_description": "Run your agent in a Minimal box. Ship and run software with isolation on your own computer.",
-    "stars": 222,
-    "formatted_stars": "222",
-    "forks": 13,
-    "open_issues": 224,
+    "stars": 235,
+    "formatted_stars": "235",
+    "forks": 15,
+    "open_issues": 205,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -7409,7 +7414,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:35:04Z"
+    "updated_at": "2026-11-02T10:35:57Z"
   },
   {
     "id": 1201577876,
@@ -7419,8 +7424,8 @@
     "html_url": "https://github.com/Ephemeral-AI-Lab/ephemeral-sandbox",
     "description": "Open-source agent sandbox infrastructure for parallel coding agents: isolated workspaces, MCP/CLI control, observability, and atomic publication.",
     "escaped_description": "Open-source agent sandbox infrastructure for parallel coding agents: isolated workspaces, MCP/CLI control, observability, and atomic publication.",
-    "stars": 120,
-    "formatted_stars": "120",
+    "stars": 124,
+    "formatted_stars": "124",
     "forks": 9,
     "open_issues": 1,
     "license": {
@@ -7475,7 +7480,7 @@
     "stars": 81,
     "formatted_stars": "81",
     "forks": 7,
-    "open_issues": 0,
+    "open_issues": 1,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -7505,7 +7510,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T06:37:04Z"
+    "updated_at": "2026-10-30T16:24:51Z"
   },
   {
     "id": 1322956121,
@@ -7515,10 +7520,10 @@
     "html_url": "https://github.com/intentic/intentic",
     "description": "An open-source workspace for coding agents, running on your own machine. More work. Less AI waste. Same subscriptions.",
     "escaped_description": "An open-source workspace for coding agents, running on your own machine. More work. Less AI waste. Same subscriptions.",
-    "stars": 85,
-    "formatted_stars": "85",
+    "stars": 88,
+    "formatted_stars": "88",
     "forks": 15,
-    "open_issues": 0,
+    "open_issues": 2,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -7558,7 +7563,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T01:08:10Z"
+    "updated_at": "2026-11-02T10:19:29Z"
   },
   {
     "id": 1314587317,
@@ -7571,7 +7576,7 @@
     "stars": 65,
     "formatted_stars": "65",
     "forks": 6,
-    "open_issues": 1,
+    "open_issues": 3,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -7603,7 +7608,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-05T16:30:21Z"
+    "updated_at": "2026-11-02T09:57:30Z"
   },
   {
     "id": 1176802073,
@@ -7666,7 +7671,7 @@
     "stars": 58,
     "formatted_stars": "58",
     "forks": 8,
-    "open_issues": 56,
+    "open_issues": 59,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -7704,7 +7709,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:25:46Z"
+    "updated_at": "2026-11-02T09:38:31Z"
   },
   {
     "id": 1172044863,
@@ -7752,10 +7757,10 @@
     "html_url": "https://github.com/tinylabscom/mvm",
     "description": "Manage secure microVMs — one command from zero to secure sessions, locally and remotely.",
     "escaped_description": "Manage secure microVMs — one command from zero to secure sessions, locally and remotely.",
-    "stars": 45,
-    "formatted_stars": "45",
-    "forks": 5,
-    "open_issues": 122,
+    "stars": 46,
+    "formatted_stars": "46",
+    "forks": 6,
+    "open_issues": 82,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -7794,7 +7799,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:21:54Z"
+    "updated_at": "2026-11-02T10:34:57Z"
   },
   {
     "id": 1193297270,
@@ -7804,9 +7809,9 @@
     "html_url": "https://github.com/mifunedev/agro",
     "description": "🏗️ AGRO — Agent Governance Runtime Orchestrator. A portable home for autonomous coding agents.",
     "escaped_description": "🏗️ AGRO — Agent Governance Runtime Orchestrator. A portable home for autonomous coding agents.",
-    "stars": 42,
-    "formatted_stars": "42",
-    "forks": 4,
+    "stars": 43,
+    "formatted_stars": "43",
+    "forks": 5,
     "open_issues": 39,
     "license": {
       "key": "apache-2.0",
@@ -7847,7 +7852,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T05:21:52Z"
+    "updated_at": "2026-11-01T22:41:38Z"
   },
   {
     "id": 1136697652,
@@ -7857,8 +7862,8 @@
     "html_url": "https://github.com/0xferrous/agent-box",
     "description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
     "escaped_description": "Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
-    "stars": 39,
-    "formatted_stars": "39",
+    "stars": 40,
+    "formatted_stars": "40",
     "forks": 2,
     "open_issues": 11,
     "license": {
@@ -7903,7 +7908,7 @@
     "stars": 36,
     "formatted_stars": "36",
     "forks": 6,
-    "open_issues": 3,
+    "open_issues": 1,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -7932,7 +7937,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-20T13:26:45Z"
+    "updated_at": "2026-10-29T15:04:25Z"
   },
   {
     "id": 1186169208,
@@ -7990,7 +7995,7 @@
     "stars": 32,
     "formatted_stars": "32",
     "forks": 1,
-    "open_issues": 6,
+    "open_issues": 7,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -8019,7 +8024,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-21T16:44:53Z"
+    "updated_at": "2026-10-28T18:20:32Z"
   },
   {
     "id": 1298522061,
@@ -8065,7 +8070,7 @@
     "stars": 26,
     "formatted_stars": "26",
     "forks": 2,
-    "open_issues": 46,
+    "open_issues": 45,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -8105,7 +8110,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:32:52Z"
+    "updated_at": "2026-11-02T07:35:11Z"
   },
   {
     "id": 1339515127,
@@ -8154,7 +8159,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-20T15:58:06Z"
+    "updated_at": "2026-10-28T13:05:09Z"
   },
   {
     "id": 1126417542,
@@ -8167,7 +8172,7 @@
     "stars": 25,
     "formatted_stars": "25",
     "forks": 12,
-    "open_issues": 4,
+    "open_issues": 3,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -8197,7 +8202,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-21T16:35:27Z"
+    "updated_at": "2026-10-29T14:48:32Z"
   },
   {
     "id": 1129732480,
@@ -8239,7 +8244,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-06T16:03:38Z"
+    "updated_at": "2026-10-28T18:19:29Z"
   },
   {
     "id": 1155942914,
@@ -8322,10 +8327,10 @@
     "html_url": "https://github.com/bytedance/UI-TARS-desktop",
     "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
     "escaped_description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-    "stars": 39392,
-    "formatted_stars": "39.4k",
-    "forks": 3996,
-    "open_issues": 506,
+    "stars": 39518,
+    "formatted_stars": "39.5k",
+    "forks": 4017,
+    "open_issues": 507,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -8369,10 +8374,10 @@
     "html_url": "https://github.com/jackwener/OpenCLI",
     "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
     "escaped_description": "Make Any Website into CLI & Use your logged-in browser by AI agent.",
-    "stars": 30654,
-    "formatted_stars": "30.7k",
-    "forks": 3004,
-    "open_issues": 279,
+    "stars": 30832,
+    "formatted_stars": "30.8k",
+    "forks": 3027,
+    "open_issues": 323,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -8409,10 +8414,10 @@
     "html_url": "https://github.com/browser-use/browser-harness",
     "description": "Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.",
     "escaped_description": "Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.",
-    "stars": 18622,
-    "formatted_stars": "18.6k",
-    "forks": 1844,
-    "open_issues": 426,
+    "stars": 18813,
+    "formatted_stars": "18.8k",
+    "forks": 1857,
+    "open_issues": 437,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -8452,7 +8457,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T03:12:39Z"
+    "updated_at": "2026-11-02T08:43:40Z"
   },
   {
     "id": 832452447,
@@ -8462,10 +8467,10 @@
     "html_url": "https://github.com/web-infra-dev/midscene",
     "description": "See interfaces like a human. E2E testing in natural language.",
     "escaped_description": "See interfaces like a human. E2E testing in natural language.",
-    "stars": 15396,
-    "formatted_stars": "15.4k",
-    "forks": 1204,
-    "open_issues": 116,
+    "stars": 15465,
+    "formatted_stars": "15.5k",
+    "forks": 1211,
+    "open_issues": 106,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -8493,7 +8498,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:25:08Z"
+    "updated_at": "2026-11-02T09:50:41Z"
   },
   {
     "id": 910418754,
@@ -8503,10 +8508,10 @@
     "html_url": "https://github.com/nanobrowser/nanobrowser",
     "description": "Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks.",
     "escaped_description": "Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks.",
-    "stars": 14182,
+    "stars": 14218,
     "formatted_stars": "14.2k",
-    "forks": 1511,
-    "open_issues": 47,
+    "forks": 1519,
+    "open_issues": 50,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -8556,9 +8561,9 @@
     "html_url": "https://github.com/microsoft/magentic-ui",
     "description": "MagenticLite is an experimental agent that works across the browser and local file system",
     "escaped_description": "MagenticLite is an experimental agent that works across the browser and local file system",
-    "stars": 10097,
+    "stars": 10111,
     "formatted_stars": "10.1k",
-    "forks": 1017,
+    "forks": 1016,
     "open_issues": 20,
     "license": {
       "key": "mit",
@@ -8600,10 +8605,10 @@
     "html_url": "https://github.com/Tencent/BrowserSkill",
     "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
     "escaped_description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-    "stars": 9591,
-    "formatted_stars": "9.6k",
-    "forks": 691,
-    "open_issues": 105,
+    "stars": 9914,
+    "formatted_stars": "9.9k",
+    "forks": 706,
+    "open_issues": 117,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -8624,7 +8629,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:02:17Z"
+    "updated_at": "2026-11-02T10:18:57Z"
   },
   {
     "id": 1085876386,
@@ -8634,9 +8639,9 @@
     "html_url": "https://github.com/microsoft/fara",
     "description": "Fara1.5 – A family of frontier computer use agent models",
     "escaped_description": "Fara1.5 – A family of frontier computer use agent models",
-    "stars": 6223,
+    "stars": 6244,
     "formatted_stars": "6.2k",
-    "forks": 603,
+    "forks": 604,
     "open_issues": 44,
     "license": {
       "key": "mit",
@@ -8672,9 +8677,9 @@
     "html_url": "https://github.com/minitap-ai/mobile-use",
     "description": "AI agents can now use real Android and iOS apps, just like a human.",
     "escaped_description": "AI agents can now use real Android and iOS apps, just like a human.",
-    "stars": 3316,
-    "formatted_stars": "3.3k",
-    "forks": 305,
+    "stars": 3352,
+    "formatted_stars": "3.4k",
+    "forks": 308,
     "open_issues": 8,
     "license": {
       "key": "apache-2.0",
@@ -8715,9 +8720,9 @@
     "html_url": "https://github.com/TurixAI/TuriX-CUA",
     "description": "This is the official website for TuriX Computer-use-Agent",
     "escaped_description": "This is the official website for TuriX Computer-use-Agent",
-    "stars": 3173,
+    "stars": 3177,
     "formatted_stars": "3.2k",
-    "forks": 330,
+    "forks": 331,
     "open_issues": 2,
     "license": {
       "key": "mit",
@@ -8759,9 +8764,9 @@
     "html_url": "https://github.com/agentrhq/webcmd",
     "description": "Self-learning agent browser",
     "escaped_description": "Self-learning agent browser",
-    "stars": 2752,
+    "stars": 2758,
     "formatted_stars": "2.8k",
-    "forks": 1540,
+    "forks": 1536,
     "open_issues": 52,
     "license": {
       "key": "apache-2.0",
@@ -8799,10 +8804,10 @@
     "html_url": "https://github.com/AIPexStudio/AIPex",
     "description": "AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser",
     "escaped_description": "AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser",
-    "stars": 1272,
+    "stars": 1277,
     "formatted_stars": "1.3k",
-    "forks": 137,
-    "open_issues": 17,
+    "forks": 138,
+    "open_issues": 18,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -8844,9 +8849,9 @@
     "html_url": "https://github.com/browserable/browserable",
     "description": "Open source and self-hostable browser automation library for AI agents",
     "escaped_description": "Open source and self-hostable browser automation library for AI agents",
-    "stars": 1206,
+    "stars": 1211,
     "formatted_stars": "1.2k",
-    "forks": 105,
+    "forks": 104,
     "open_issues": 9,
     "license": {
       "key": "mit",
@@ -8886,10 +8891,10 @@
     "html_url": "https://github.com/CelestoAI/celesto",
     "description": "Secure and persistent computer for AI agents",
     "escaped_description": "Secure and persistent computer for AI agents",
-    "stars": 1090,
+    "stars": 1121,
     "formatted_stars": "1.1k",
     "forks": 92,
-    "open_issues": 20,
+    "open_issues": 21,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -8917,7 +8922,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T12:59:04Z"
+    "updated_at": "2026-10-31T23:25:12Z"
   },
   {
     "id": 943806192,
@@ -8966,10 +8971,10 @@
     "html_url": "https://github.com/unbrowse-ai/unbrowse",
     "description": "Unbrowse - Reverse engineer any website so that your agents can access its APIs directly",
     "escaped_description": "Unbrowse - Reverse engineer any website so that your agents can access its APIs directly",
-    "stars": 810,
-    "formatted_stars": "810",
-    "forks": 71,
-    "open_issues": 2,
+    "stars": 842,
+    "formatted_stars": "842",
+    "forks": 76,
+    "open_issues": 1,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -9008,7 +9013,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-18T01:57:01Z"
+    "updated_at": "2026-10-30T05:14:43Z"
   },
   {
     "id": 1213127920,
@@ -9018,10 +9023,10 @@
     "html_url": "https://github.com/browser-use/desktop",
     "description": "Browser Use Desktop App",
     "escaped_description": "Browser Use Desktop App",
-    "stars": 704,
-    "formatted_stars": "704",
-    "forks": 61,
-    "open_issues": 39,
+    "stars": 710,
+    "formatted_stars": "710",
+    "forks": 62,
+    "open_issues": 40,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -9047,7 +9052,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T19:45:39Z"
+    "updated_at": "2026-10-31T17:34:30Z"
   },
   {
     "id": 1231072198,
@@ -9057,10 +9062,10 @@
     "html_url": "https://github.com/browser-use/terminal",
     "description": "Terminal UI to get stuff done in the browser",
     "escaped_description": "Terminal UI to get stuff done in the browser",
-    "stars": 655,
-    "formatted_stars": "655",
-    "forks": 41,
-    "open_issues": 17,
+    "stars": 659,
+    "formatted_stars": "659",
+    "forks": 42,
+    "open_issues": 18,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -9085,7 +9090,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T02:03:12Z"
+    "updated_at": "2026-10-31T04:23:40Z"
   },
   {
     "id": 985409238,
@@ -9142,8 +9147,8 @@
     "html_url": "https://github.com/browser-use/bux",
     "description": "Browser Use Box: a 24/7 Claude Code agent for Playwright-style browser automation with Browser Use Cloud, Telegram, and a real browser on any box you own.",
     "escaped_description": "Browser Use Box: a 24/7 Claude Code agent for Playwright-style browser automation with Browser Use Cloud, Telegram, and a real browser on any box you own.",
-    "stars": 459,
-    "formatted_stars": "459",
+    "stars": 460,
+    "formatted_stars": "460",
     "forks": 59,
     "open_issues": 22,
     "license": {
@@ -9195,8 +9200,8 @@
     "html_url": "https://github.com/OpenCowAI/opencow",
     "description": "One task, one agent, delivered. The open-source platform for task-driven autonomous AI agents.OpenCow assigns an autonomous AI agent to every task — features, campaigns,  reports, audits — and delivers them in parallel. Full context. Full control. Every department. 🐄",
     "escaped_description": "One task, one agent, delivered. The open-source platform for task-driven autonomous AI agents.OpenCow assigns an autonomous AI agent to every task — features...",
-    "stars": 394,
-    "formatted_stars": "394",
+    "stars": 395,
+    "formatted_stars": "395",
     "forks": 25,
     "open_issues": 3,
     "license": {
@@ -9233,9 +9238,9 @@
     "html_url": "https://github.com/iFurySt/open-browser-use",
     "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
     "escaped_description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
-    "stars": 398,
-    "formatted_stars": "398",
-    "forks": 40,
+    "stars": 410,
+    "formatted_stars": "410",
+    "forks": 42,
     "open_issues": 11,
     "license": {
       "key": "mit",
@@ -9330,10 +9335,10 @@
     "html_url": "https://github.com/socai-io/socai",
     "description": "Agent that actually understands social platforms. Fast. Precise. Deep.",
     "escaped_description": "Agent that actually understands social platforms. Fast. Precise. Deep.",
-    "stars": 247,
-    "formatted_stars": "247",
-    "forks": 27,
-    "open_issues": 13,
+    "stars": 252,
+    "formatted_stars": "252",
+    "forks": 31,
+    "open_issues": 21,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -9370,7 +9375,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T01:23:43Z"
+    "updated_at": "2026-11-02T10:11:51Z"
   },
   {
     "id": 933816617,
@@ -9425,9 +9430,9 @@
     "html_url": "https://github.com/777genius/os-ai-computer-use",
     "description": "AI controls your OS. OS AI Computer Use, OS and API agnostic. For now on OpenAI and Anthropic API. Desktop app ready.",
     "escaped_description": "AI controls your OS. OS AI Computer Use, OS and API agnostic. For now on OpenAI and Anthropic API. Desktop app ready.",
-    "stars": 184,
-    "formatted_stars": "184",
-    "forks": 19,
+    "stars": 182,
+    "formatted_stars": "182",
+    "forks": 18,
     "open_issues": 3,
     "license": {
       "key": "apache-2.0",
@@ -9468,7 +9473,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-05-26T16:37:58Z"
+    "updated_at": "2026-10-26T22:04:57Z"
   },
   {
     "id": 1007185040,
@@ -9478,9 +9483,9 @@
     "html_url": "https://github.com/ai-naymul/BrowserPilot",
     "description": "Open‑source alternative to Perplexity Comet, director.ai and firecrawl combined",
     "escaped_description": "Open‑source alternative to Perplexity Comet, director.ai and firecrawl combined",
-    "stars": 179,
-    "formatted_stars": "179",
-    "forks": 31,
+    "stars": 180,
+    "formatted_stars": "180",
+    "forks": 32,
     "open_issues": 15,
     "license": {
       "key": "mit",
@@ -9581,8 +9586,8 @@
     "html_url": "https://github.com/savka777/jev-use",
     "description": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
     "escaped_description": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
-    "stars": 125,
-    "formatted_stars": "125",
+    "stars": 128,
+    "formatted_stars": "128",
     "forks": 19,
     "open_issues": 1,
     "license": {
@@ -9625,10 +9630,10 @@
     "html_url": "https://github.com/Tabbit-Browser/dsh-tabbit",
     "description": "Tabbit Browser plugins for Deepseek Harness",
     "escaped_description": "Tabbit Browser plugins for Deepseek Harness",
-    "stars": 112,
-    "formatted_stars": "112",
-    "forks": 12,
-    "open_issues": 3,
+    "stars": 121,
+    "formatted_stars": "121",
+    "forks": 13,
+    "open_issues": 6,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -9670,8 +9675,8 @@
     "html_url": "https://github.com/NakaokaRei/SwiftAutoGUI",
     "description": "A Swift library for macOS automation — mouse, keyboard, screenshots, image recognition, and AI-powered agents.",
     "escaped_description": "A Swift library for macOS automation — mouse, keyboard, screenshots, image recognition, and AI-powered agents.",
-    "stars": 95,
-    "formatted_stars": "95",
+    "stars": 94,
+    "formatted_stars": "94",
     "forks": 10,
     "open_issues": 18,
     "license": {
@@ -9717,10 +9722,10 @@
     "html_url": "https://github.com/clawbrowser/clawbrowser",
     "description": "Agent-native browser with fingerprint control and proxy support.",
     "escaped_description": "Agent-native browser with fingerprint control and proxy support.",
-    "stars": 129,
-    "formatted_stars": "129",
-    "forks": 8,
-    "open_issues": 0,
+    "stars": 136,
+    "formatted_stars": "136",
+    "forks": 10,
+    "open_issues": 1,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -9745,7 +9750,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-16T09:24:07Z"
+    "updated_at": "2026-10-23T08:39:50Z"
   },
   {
     "id": 1244155727,
@@ -9800,7 +9805,7 @@
     "stars": 48,
     "formatted_stars": "48",
     "forks": 18,
-    "open_issues": 5,
+    "open_issues": 6,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -9832,7 +9837,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-18T06:34:01Z"
+    "updated_at": "2026-11-01T06:38:46Z"
   },
   {
     "id": 936498063,
@@ -9844,7 +9849,7 @@
     "escaped_description": "Cappuccino is an GUI Agent based on desktop screen. It is a Manus-like AI Agent that can be deployed locally.",
     "stars": 45,
     "formatted_stars": "45",
-    "forks": 8,
+    "forks": 7,
     "open_issues": 0,
     "license": {
       "key": "apache-2.0",
@@ -9995,8 +10000,8 @@
     "html_url": "https://github.com/thuml/RLVR-World",
     "description": "Official repository for \"RLVR-World: Training World Models with Reinforcement Learning\" (NeurIPS 2025), https://arxiv.org/abs/2505.13934",
     "escaped_description": "Official repository for \"RLVR-World: Training World Models with Reinforcement Learning\" (NeurIPS 2025), https://arxiv.org/abs/2505.13934",
-    "stars": 281,
-    "formatted_stars": "281",
+    "stars": 283,
+    "formatted_stars": "283",
     "forks": 18,
     "open_issues": 1,
     "license": {
@@ -10041,10 +10046,10 @@
     "html_url": "https://github.com/affaan-m/ECC",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "escaped_description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Curs...",
-    "stars": 289106,
-    "formatted_stars": "289.1k",
-    "forks": 42849,
-    "open_issues": 237,
+    "stars": 295088,
+    "formatted_stars": "295.1k",
+    "forks": 43681,
+    "open_issues": 201,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10072,7 +10077,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T04:56:56Z"
+    "updated_at": "2026-11-02T04:56:08Z"
   },
   {
     "id": 1010681419,
@@ -10082,10 +10087,10 @@
     "html_url": "https://github.com/shareAI-lab/learn-claude-code",
     "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
     "escaped_description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
-    "stars": 79238,
-    "formatted_stars": "79.2k",
-    "forks": 12674,
-    "open_issues": 69,
+    "stars": 79741,
+    "formatted_stars": "79.7k",
+    "forks": 12756,
+    "open_issues": 52,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10115,7 +10120,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-09-28T13:49:16Z"
+    "updated_at": "2026-10-27T04:47:00Z"
   },
   {
     "id": 995029641,
@@ -10125,10 +10130,10 @@
     "html_url": "https://github.com/ruvnet/ruflo",
     "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
     "escaped_description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive...",
-    "stars": 79358,
-    "formatted_stars": "79.4k",
-    "forks": 9320,
-    "open_issues": 988,
+    "stars": 80585,
+    "formatted_stars": "80.6k",
+    "forks": 9457,
+    "open_issues": 987,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10168,7 +10173,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T06:36:48Z"
+    "updated_at": "2026-11-02T09:21:09Z"
   },
   {
     "id": 522158088,
@@ -10178,10 +10183,10 @@
     "html_url": "https://github.com/zhayujie/CowAgent",
     "description": "Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.",
     "escaped_description": "Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, mult...",
-    "stars": 47600,
-    "formatted_stars": "47.6k",
-    "forks": 10405,
-    "open_issues": 44,
+    "stars": 47751,
+    "formatted_stars": "47.8k",
+    "forks": 10412,
+    "open_issues": 41,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10218,7 +10223,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T02:44:27Z"
+    "updated_at": "2026-11-02T07:45:14Z"
   },
   {
     "id": 1161163182,
@@ -10228,10 +10233,10 @@
     "html_url": "https://github.com/tinyhumansai/openhuman",
     "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
     "escaped_description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
-    "stars": 42345,
-    "formatted_stars": "42.3k",
-    "forks": 4188,
-    "open_issues": 323,
+    "stars": 42498,
+    "formatted_stars": "42.5k",
+    "forks": 4208,
+    "open_issues": 369,
     "license": {
       "key": "gpl-3.0",
       "name": "GNU General Public License v3.0",
@@ -10263,7 +10268,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T07:52:34Z"
+    "updated_at": "2026-10-31T17:04:06Z"
   },
   {
     "id": 1027384981,
@@ -10273,10 +10278,10 @@
     "html_url": "https://github.com/langchain-ai/deepagents",
     "description": "The batteries-included agent harness.",
     "escaped_description": "The batteries-included agent harness.",
-    "stars": 30597,
-    "formatted_stars": "30.6k",
-    "forks": 4309,
-    "open_issues": 196,
+    "stars": 30892,
+    "formatted_stars": "30.9k",
+    "forks": 4343,
+    "open_issues": 270,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10304,7 +10309,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:21:27Z"
+    "updated_at": "2026-11-02T09:12:36Z"
   },
   {
     "id": 1300902838,
@@ -10314,9 +10319,9 @@
     "html_url": "https://github.com/xai-org/grok-build",
     "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
     "escaped_description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-    "stars": 27547,
-    "formatted_stars": "27.5k",
-    "forks": 5198,
+    "stars": 27658,
+    "formatted_stars": "27.7k",
+    "forks": 5229,
     "open_issues": 0,
     "license": {
       "key": "apache-2.0",
@@ -10341,10 +10346,10 @@
     "html_url": "https://github.com/1jehuang/jcode",
     "description": "High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows",
     "escaped_description": "High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows",
-    "stars": 21211,
-    "formatted_stars": "21.2k",
-    "forks": 2461,
-    "open_issues": 772,
+    "stars": 21411,
+    "formatted_stars": "21.4k",
+    "forks": 2498,
+    "open_issues": 813,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10376,7 +10381,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:25:04Z"
+    "updated_at": "2026-11-02T08:44:17Z"
   },
   {
     "id": 983246568,
@@ -10386,10 +10391,10 @@
     "html_url": "https://github.com/HKUDS/DeepCode",
     "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
     "escaped_description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "stars": 16754,
+    "stars": 16788,
     "formatted_stars": "16.8k",
-    "forks": 2178,
-    "open_issues": 34,
+    "forks": 2189,
+    "open_issues": 30,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10411,7 +10416,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T15:52:08Z"
+    "updated_at": "2026-11-02T08:25:57Z"
   },
   {
     "id": 1198616956,
@@ -10421,10 +10426,10 @@
     "html_url": "https://github.com/HKUDS/OpenHarness",
     "description": "\"OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!\"",
     "escaped_description": "\"OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!\"",
-    "stars": 16094,
-    "formatted_stars": "16.1k",
-    "forks": 2609,
-    "open_issues": 97,
+    "stars": 16157,
+    "formatted_stars": "16.2k",
+    "forks": 2607,
+    "open_issues": 98,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10448,10 +10453,10 @@
     "html_url": "https://github.com/yc-software/qm",
     "description": "Multiplayer agent harness for work.",
     "escaped_description": "Multiplayer agent harness for work.",
-    "stars": 15538,
-    "formatted_stars": "15.5k",
-    "forks": 1929,
-    "open_issues": 1070,
+    "stars": 15607,
+    "formatted_stars": "15.6k",
+    "forks": 1939,
+    "open_issues": 988,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10474,7 +10479,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:06:24Z"
+    "updated_at": "2026-11-02T09:13:19Z"
   },
   {
     "id": 1142423471,
@@ -10484,10 +10489,10 @@
     "html_url": "https://github.com/mindfold-ai/Trellis",
     "description": "The best agent harness.",
     "escaped_description": "The best agent harness.",
-    "stars": 15021,
-    "formatted_stars": "15.0k",
-    "forks": 871,
-    "open_issues": 88,
+    "stars": 15079,
+    "formatted_stars": "15.1k",
+    "forks": 879,
+    "open_issues": 90,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -10522,10 +10527,10 @@
     "html_url": "https://github.com/aden-hive/hive",
     "description": "Multi-Agent Harness for Production AI",
     "escaped_description": "Multi-Agent Harness for Production AI",
-    "stars": 11122,
+    "stars": 11131,
     "formatted_stars": "11.1k",
-    "forks": 5645,
-    "open_issues": 1093,
+    "forks": 5641,
+    "open_issues": 1091,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -10559,7 +10564,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T07:23:23Z"
+    "updated_at": "2026-11-02T10:07:20Z"
   },
   {
     "id": 983715534,
@@ -10569,10 +10574,10 @@
     "html_url": "https://github.com/strands-agents/harness-sdk",
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
     "escaped_description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-    "stars": 8952,
+    "stars": 9027,
     "formatted_stars": "9.0k",
-    "forks": 1431,
-    "open_issues": 1037,
+    "forks": 1460,
+    "open_issues": 1078,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -10612,7 +10617,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:00:24Z"
+    "updated_at": "2026-11-02T07:58:35Z"
   },
   {
     "id": 1378288598,
@@ -10622,9 +10627,9 @@
     "html_url": "https://github.com/zai-org/ZCode",
     "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
     "escaped_description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-    "stars": 8256,
-    "formatted_stars": "8.3k",
-    "forks": 2539,
+    "stars": 8425,
+    "formatted_stars": "8.4k",
+    "forks": 2625,
     "open_issues": 11,
     "license": {
       "key": "apache-2.0",
@@ -10639,7 +10644,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-20T06:23:09Z"
+    "updated_at": "2026-10-30T09:35:41Z"
   },
   {
     "id": 617502359,
@@ -10649,10 +10654,10 @@
     "html_url": "https://github.com/vastsa/PI-Desktop",
     "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
     "escaped_description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-    "stars": 7296,
-    "formatted_stars": "7.3k",
-    "forks": 707,
-    "open_issues": 225,
+    "stars": 7600,
+    "formatted_stars": "7.6k",
+    "forks": 742,
+    "open_issues": 260,
     "license": {
       "key": "lgpl-3.0",
       "name": "GNU Lesser General Public License v3.0",
@@ -10687,7 +10692,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T07:51:53Z"
+    "updated_at": "2026-11-02T08:09:35Z"
   },
   {
     "id": 1309751899,
@@ -10697,10 +10702,10 @@
     "html_url": "https://github.com/truefoundry/trueforge",
     "description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
     "escaped_description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
-    "stars": 6375,
+    "stars": 6417,
     "formatted_stars": "6.4k",
-    "forks": 544,
-    "open_issues": 98,
+    "forks": 553,
+    "open_issues": 105,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10724,7 +10729,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T07:47:56Z"
+    "updated_at": "2026-11-02T10:38:00Z"
   },
   {
     "id": 1269395331,
@@ -10734,10 +10739,10 @@
     "html_url": "https://github.com/Waishnav/devspace",
     "description": "Minimal Coding Agent Harness on MCP for ChatGPT, Claude, Hermes, Grok Bot, OpenClaw",
     "escaped_description": "Minimal Coding Agent Harness on MCP for ChatGPT, Claude, Hermes, Grok Bot, OpenClaw",
-    "stars": 5294,
-    "formatted_stars": "5.3k",
-    "forks": 600,
-    "open_issues": 66,
+    "stars": 5370,
+    "formatted_stars": "5.4k",
+    "forks": 605,
+    "open_issues": 27,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10764,7 +10769,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:11:39Z"
+    "updated_at": "2026-11-01T17:42:22Z"
   },
   {
     "id": 1248955957,
@@ -10774,10 +10779,10 @@
     "html_url": "https://github.com/code-yeongyu/lazycodex",
     "description": "The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.",
     "escaped_description": "The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.",
-    "stars": 3828,
-    "formatted_stars": "3.8k",
-    "forks": 247,
-    "open_issues": 17,
+    "stars": 3865,
+    "formatted_stars": "3.9k",
+    "forks": 249,
+    "open_issues": 18,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10811,7 +10816,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T15:23:22Z"
+    "updated_at": "2026-11-01T20:40:12Z"
   },
   {
     "id": 1175900220,
@@ -10821,10 +10826,10 @@
     "html_url": "https://github.com/onecli/onecli",
     "description": "Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.",
     "escaped_description": "Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.",
-    "stars": 3591,
+    "stars": 3613,
     "formatted_stars": "3.6k",
-    "forks": 257,
-    "open_issues": 180,
+    "forks": 260,
+    "open_issues": 186,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -10854,7 +10859,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-22T05:05:44Z"
+    "updated_at": "2026-10-31T19:01:56Z"
   },
   {
     "id": 1354887280,
@@ -10864,10 +10869,10 @@
     "html_url": "https://github.com/NVlabs/SoL-Pi",
     "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
     "escaped_description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
-    "stars": 3576,
+    "stars": 3621,
     "formatted_stars": "3.6k",
-    "forks": 294,
-    "open_issues": 85,
+    "forks": 296,
+    "open_issues": 87,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10881,7 +10886,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T07:45:11Z"
+    "updated_at": "2026-11-02T10:20:52Z"
   },
   {
     "id": 1315929647,
@@ -10891,10 +10896,10 @@
     "html_url": "https://github.com/QwenLM/Qwen-MM-Plugins",
     "description": "Make any agent harness multimodal-native.",
     "escaped_description": "Make any agent harness multimodal-native.",
-    "stars": 3151,
+    "stars": 3173,
     "formatted_stars": "3.2k",
-    "forks": 215,
-    "open_issues": 15,
+    "forks": 219,
+    "open_issues": 16,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -10908,7 +10913,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T08:05:51Z"
+    "updated_at": "2026-11-01T18:56:57Z"
   },
   {
     "id": 1240191065,
@@ -10918,9 +10923,9 @@
     "html_url": "https://github.com/DenisSergeevitch/agents-best-practices",
     "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
     "escaped_description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-    "stars": 2396,
+    "stars": 2408,
     "formatted_stars": "2.4k",
-    "forks": 216,
+    "forks": 217,
     "open_issues": 7,
     "license": {
       "key": "mit",
@@ -10963,10 +10968,10 @@
     "html_url": "https://github.com/unreallabsai/unreal-agent",
     "description": "Async-first agent harness",
     "escaped_description": "Async-first agent harness",
-    "stars": 2213,
+    "stars": 2221,
     "formatted_stars": "2.2k",
-    "forks": 133,
-    "open_issues": 16,
+    "forks": 134,
+    "open_issues": 18,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -10980,7 +10985,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T06:35:52Z"
+    "updated_at": "2026-11-01T16:14:08Z"
   },
   {
     "id": 1166050402,
@@ -10990,7 +10995,7 @@
     "html_url": "https://github.com/peteromallet/dataclaw",
     "description": "Agent harness to publish your agent chat history as Huggingface datasets. ",
     "escaped_description": "Agent harness to publish your agent chat history as Huggingface datasets.",
-    "stars": 2119,
+    "stars": 2120,
     "formatted_stars": "2.1k",
     "forks": 228,
     "open_issues": 8,
@@ -11017,10 +11022,10 @@
     "html_url": "https://github.com/AntigmaLabs/ante",
     "description": "Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. ",
     "escaped_description": "Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies...",
-    "stars": 2009,
+    "stars": 2013,
     "formatted_stars": "2.0k",
-    "forks": 75,
-    "open_issues": 16,
+    "forks": 79,
+    "open_issues": 15,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -11046,7 +11051,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T06:11:27Z"
+    "updated_at": "2026-11-01T18:33:34Z"
   },
   {
     "id": 1296471449,
@@ -11056,10 +11061,10 @@
     "html_url": "https://github.com/ShenSeanChen/waku-agent",
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.",
     "escaped_description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.",
-    "stars": 2104,
+    "stars": 2126,
     "formatted_stars": "2.1k",
-    "forks": 414,
-    "open_issues": 58,
+    "forks": 417,
+    "open_issues": 63,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -11101,10 +11106,10 @@
     "html_url": "https://github.com/langchain-ai/deepagentsjs",
     "description": "The batteries included agent harness.",
     "escaped_description": "The batteries included agent harness.",
-    "stars": 1619,
+    "stars": 1629,
     "formatted_stars": "1.6k",
-    "forks": 289,
-    "open_issues": 118,
+    "forks": 293,
+    "open_issues": 121,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -11127,7 +11132,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T15:21:05Z"
+    "updated_at": "2026-11-02T04:39:04Z"
   },
   {
     "id": 1244296820,
@@ -11137,10 +11142,10 @@
     "html_url": "https://github.com/exoharness/exo",
     "description": "Exo is an agent + harness architecture that is fully recursive, able to safely edit all aspects of itself at runtime to get better at your tasks.",
     "escaped_description": "Exo is an agent + harness architecture that is fully recursive, able to safely edit all aspects of itself at runtime to get better at your tasks.",
-    "stars": 1524,
-    "formatted_stars": "1.5k",
-    "forks": 120,
-    "open_issues": 117,
+    "stars": 1562,
+    "formatted_stars": "1.6k",
+    "forks": 123,
+    "open_issues": 116,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -11161,7 +11166,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T06:39:26Z"
+    "updated_at": "2026-10-31T23:25:52Z"
   },
   {
     "id": 1199057215,
@@ -11171,9 +11176,9 @@
     "html_url": "https://github.com/rasbt/mini-coding-agent",
     "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
     "escaped_description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
-    "stars": 1212,
+    "stars": 1221,
     "formatted_stars": "1.2k",
-    "forks": 220,
+    "forks": 222,
     "open_issues": 8,
     "license": {
       "key": "apache-2.0",
@@ -11254,10 +11259,10 @@
     "html_url": "https://github.com/context-labs/whip",
     "description": "A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
     "escaped_description": "A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One...",
-    "stars": 1095,
+    "stars": 1104,
     "formatted_stars": "1.1k",
-    "forks": 156,
-    "open_issues": 24,
+    "forks": 158,
+    "open_issues": 28,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -11271,7 +11276,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T06:41:01Z"
+    "updated_at": "2026-11-02T07:31:10Z"
   },
   {
     "id": 1365776373,
@@ -11281,10 +11286,10 @@
     "html_url": "https://github.com/qiz029/dscode",
     "description": "A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry",
     "escaped_description": "A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry",
-    "stars": 997,
-    "formatted_stars": "997",
-    "forks": 5,
-    "open_issues": 1,
+    "stars": 999,
+    "formatted_stars": "999",
+    "forks": 6,
+    "open_issues": 3,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -11319,7 +11324,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T04:12:56Z"
+    "updated_at": "2026-10-28T22:40:45Z"
   },
   {
     "id": 1218737406,
@@ -11329,10 +11334,10 @@
     "html_url": "https://github.com/china-qijizhifeng/agentic-harness-engineering",
     "description": "Official AHE code — Agentic Harness Engineering: observability-driven automatic evolution of coding-agent harnesses (concurrent w/ meta-harness). NexAU-AHE reaches 84.7% ± 2.1 pass@1 on Terminal-Bench 2 (GPT-5.5). Lifts GPT-5.4 69.7→77.0% over 10 iters, beats Codex/ACE/Training-Free GRPO; frozen harness transfers to SWE-bench-Verified.",
     "escaped_description": "Official AHE code — Agentic Harness Engineering: observability-driven automatic evolution of coding-agent harnesses (concurrent w/ meta-harness). NexAU-AHE r...",
-    "stars": 939,
-    "formatted_stars": "939",
-    "forks": 103,
-    "open_issues": 10,
+    "stars": 959,
+    "formatted_stars": "959",
+    "forks": 104,
+    "open_issues": 9,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -11346,7 +11351,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-08-03T03:54:33Z"
+    "updated_at": "2026-10-30T15:21:26Z"
   },
   {
     "id": 1198604352,
@@ -11489,7 +11494,7 @@
     "escaped_description": "A framework for the evaluation of autoregressive code generation language models.",
     "stars": 1063,
     "formatted_stars": "1.1k",
-    "forks": 263,
+    "forks": 262,
     "open_issues": 100,
     "license": {
       "key": "apache-2.0",
@@ -11514,10 +11519,10 @@
     "html_url": "https://github.com/allenai/vla-evaluation-harness",
     "description": "One framework to evaluate any VLA model on any robot simulation benchmark.",
     "escaped_description": "One framework to evaluate any VLA model on any robot simulation benchmark.",
-    "stars": 656,
-    "formatted_stars": "656",
-    "forks": 63,
-    "open_issues": 8,
+    "stars": 667,
+    "formatted_stars": "667",
+    "forks": 67,
+    "open_issues": 9,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -11531,7 +11536,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T02:17:43Z"
+    "updated_at": "2026-11-02T10:26:05Z"
   },
   {
     "id": 750216699,
@@ -11568,10 +11573,10 @@
     "html_url": "https://github.com/Blackwellboy/model-serving-minefield",
     "description": "Community registry of LLM serving-path traps that produce confidently wrong measurements: templates, tool parsers, reasoning fields, quant kernel paths, CUDA toolchains, KV allocation, eval harnesses, versioning. Symptom-first, with the check that catches each.",
     "escaped_description": "Community registry of LLM serving-path traps that produce confidently wrong measurements: templates, tool parsers, reasoning fields, quant kernel paths, CUDA...",
-    "stars": 141,
-    "formatted_stars": "141",
+    "stars": 167,
+    "formatted_stars": "167",
     "forks": 17,
-    "open_issues": 21,
+    "open_issues": 20,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -11605,7 +11610,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T05:08:16Z"
+    "updated_at": "2026-11-02T08:07:25Z"
   },
   {
     "id": 670187986,
@@ -11642,10 +11647,10 @@
     "html_url": "https://github.com/adewale/skill-eval-harness",
     "description": "Agent Skill evaluation harness for paired variants, trace artifacts, and runner adapters",
     "escaped_description": "Agent Skill evaluation harness for paired variants, trace artifacts, and runner adapters",
-    "stars": 77,
-    "formatted_stars": "77",
+    "stars": 79,
+    "formatted_stars": "79",
     "forks": 8,
-    "open_issues": 19,
+    "open_issues": 20,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -11668,7 +11673,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-09T07:41:21Z"
+    "updated_at": "2026-11-01T00:56:48Z"
   },
   {
     "id": 1267052097,
@@ -12033,8 +12038,8 @@
     "html_url": "https://github.com/nano-step/eval-harness",
     "description": "Typed evaluation for OpenCode skills and AI agents: capability, regression and product checks; provider-neutral evidence grading, provenance, and CI reports.",
     "escaped_description": "Typed evaluation for OpenCode skills and AI agents: capability, regression and product checks; provider-neutral evidence grading, provenance, and CI reports.",
-    "stars": 13,
-    "formatted_stars": "13",
+    "stars": 14,
+    "formatted_stars": "14",
     "forks": 6,
     "open_issues": 29,
     "license": {
@@ -12177,10 +12182,10 @@
     "name": "memory_and_context_eval_harness",
     "owner": "maximem-ai",
     "html_url": "https://github.com/maximem-ai/memory_and_context_eval_harness",
-    "description": "Open evaluation harness for AI agent memory systems. Runs LoCoMo and LongMemEval against Synap, Mem0, Zep and Supermemory with pluggable provider adapters.",
-    "escaped_description": "Open evaluation harness for AI agent memory systems. Runs LoCoMo and LongMemEval against Synap, Mem0, Zep and Supermemory with pluggable provider adapters.",
-    "stars": 12,
-    "formatted_stars": "12",
+    "description": "Open evaluation harness for AI agent memory systems. Runs LongMemEval and LoCoMo against Synap, Mem0, Zep and Supermemory with pluggable provider adapters. Synap: 95.6% LongMemEval (gemini-3.8-flash), 98.1% Recall@20, 93.2% LoCoMo (gpt-5-mini).",
+    "escaped_description": "Open evaluation harness for AI agent memory systems. Runs LongMemEval and LoCoMo against Synap, Mem0, Zep and Supermemory with pluggable provider adapters. S...",
+    "stars": 14,
+    "formatted_stars": "14",
     "forks": 0,
     "open_issues": 0,
     "license": {
@@ -12210,7 +12215,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-09-09T12:11:09Z"
+    "updated_at": "2026-10-29T05:33:11Z"
   },
   {
     "id": 1036546909,
@@ -12223,7 +12228,7 @@
     "stars": 10,
     "formatted_stars": "10",
     "forks": 7,
-    "open_issues": 3,
+    "open_issues": 1,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -12237,7 +12242,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-15T18:12:28Z"
+    "updated_at": "2026-10-26T17:36:00Z"
   },
   {
     "id": 1124468287,
@@ -12328,9 +12333,9 @@
     "html_url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
     "description": "LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It achieves SOTA performance across coding, robotics, and medical agentic benchmarks.",
     "escaped_description": "LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It achieves SOTA pe...",
-    "stars": 3336,
+    "stars": 3343,
     "formatted_stars": "3.3k",
-    "forks": 278,
+    "forks": 280,
     "open_issues": 26,
     "license": {
       "key": "mit",
@@ -12355,10 +12360,10 @@
     "html_url": "https://github.com/Barca0412/Introduction-to-Quantitative-Finance",
     "description": "AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.",
     "escaped_description": "AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.",
-    "stars": 1822,
-    "formatted_stars": "1.8k",
-    "forks": 190,
-    "open_issues": 4,
+    "stars": 1855,
+    "formatted_stars": "1.9k",
+    "forks": 193,
+    "open_issues": 6,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -12389,7 +12394,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-18T23:02:15Z"
+    "updated_at": "2026-11-02T00:40:24Z"
   },
   {
     "id": 770272502,
@@ -12399,8 +12404,8 @@
     "html_url": "https://github.com/TheAgentCompany/TheAgentCompany",
     "description": "An agent benchmark with tasks in a simulated software company.",
     "escaped_description": "An agent benchmark with tasks in a simulated software company.",
-    "stars": 803,
-    "formatted_stars": "803",
+    "stars": 808,
+    "formatted_stars": "808",
     "forks": 127,
     "open_issues": 28,
     "license": {
@@ -12437,8 +12442,8 @@
     "html_url": "https://github.com/SamuelSchmidgall/AgentClinic",
     "description": "Agent benchmark for medical diagnosis",
     "escaped_description": "Agent benchmark for medical diagnosis",
-    "stars": 369,
-    "formatted_stars": "369",
+    "stars": 374,
+    "formatted_stars": "374",
     "forks": 61,
     "open_issues": 8,
     "license": {
@@ -12491,10 +12496,10 @@
     "html_url": "https://github.com/KaiWU5/Awesome-AI4AI",
     "description": "Updated weekly — until humanity achieves AI4AI. A survey-grounded catalog of 432 papers on long-horizon agents, benchmarks, harness design, and recursive self-improvement.",
     "escaped_description": "Updated weekly — until humanity achieves AI4AI. A survey-grounded catalog of 432 papers on long-horizon agents, benchmarks, harness design, and recursive sel...",
-    "stars": 174,
-    "formatted_stars": "174",
-    "forks": 5,
-    "open_issues": 5,
+    "stars": 190,
+    "formatted_stars": "190",
+    "forks": 6,
+    "open_issues": 6,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -12544,9 +12549,9 @@
     "html_url": "https://github.com/zhangxjohn/LLM-Agent-Benchmark-List",
     "description": "A banchmark list for evaluation of large language models.",
     "escaped_description": "A banchmark list for evaluation of large language models.",
-    "stars": 172,
-    "formatted_stars": "172",
-    "forks": 16,
+    "stars": 173,
+    "formatted_stars": "173",
+    "forks": 17,
     "open_issues": 5,
     "license": {
       "key": "apache-2.0",
@@ -12570,7 +12575,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-22T03:00:48Z"
+    "updated_at": "2026-10-27T06:19:17Z"
   },
   {
     "id": 1204210218,
@@ -12607,8 +12612,8 @@
     "html_url": "https://github.com/agentrebench/AgentRE-Bench",
     "description": "AgentRE-Bench is an agentic benchmark that evaluates state-of-the-art models on long-horizon reverse engineering tasks, measuring their ability to analyze binaries, use tooling effectively, and reason over multi-step execution artifacts",
     "escaped_description": "AgentRE-Bench is an agentic benchmark that evaluates state-of-the-art models on long-horizon reverse engineering tasks, measuring their ability to analyze bi...",
-    "stars": 134,
-    "formatted_stars": "134",
+    "stars": 138,
+    "formatted_stars": "138",
     "forks": 14,
     "open_issues": 8,
     "license": {
@@ -12634,8 +12639,8 @@
     "html_url": "https://github.com/cornell-zhang/heurigym",
     "description": "Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization (ICLR'26)",
     "escaped_description": "Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization (ICLR'26)",
-    "stars": 97,
-    "formatted_stars": "97",
+    "stars": 96,
+    "formatted_stars": "96",
     "forks": 11,
     "open_issues": 6,
     "license": {
@@ -12698,10 +12703,10 @@
     "html_url": "https://github.com/rails/lemans",
     "description": "A Ruby harness for running agent benchmarks",
     "escaped_description": "A Ruby harness for running agent benchmarks",
-    "stars": 84,
-    "formatted_stars": "84",
+    "stars": 86,
+    "formatted_stars": "86",
     "forks": 7,
-    "open_issues": 4,
+    "open_issues": 1,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -12723,7 +12728,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T21:32:54Z"
+    "updated_at": "2026-10-27T22:17:39Z"
   },
   {
     "id": 1167825815,
@@ -12795,8 +12800,8 @@
     "html_url": "https://github.com/SKYLENAGE-AI/QwenClawBench",
     "description": "General Agent Benchmark for OpenClaw, made by Qwen Team, Alibaba Group.",
     "escaped_description": "General Agent Benchmark for OpenClaw, made by Qwen Team, Alibaba Group.",
-    "stars": 62,
-    "formatted_stars": "62",
+    "stars": 61,
+    "formatted_stars": "61",
     "forks": 6,
     "open_issues": 2,
     "license": {
@@ -12863,10 +12868,10 @@
     "html_url": "https://github.com/Solirinai/GeoBenchX",
     "description": "LLM-agents benchmark set of geospatial tasks requiring multi-step tool use; and LLM-as-Judge based evaluation framework.",
     "escaped_description": "LLM-agents benchmark set of geospatial tasks requiring multi-step tool use; and LLM-as-Judge based evaluation framework.",
-    "stars": 34,
-    "formatted_stars": "34",
-    "forks": 7,
-    "open_issues": 2,
+    "stars": 35,
+    "formatted_stars": "35",
+    "forks": 9,
+    "open_issues": 3,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -13102,8 +13107,8 @@
     "html_url": "https://github.com/lexmount/browseruse-agent-bench",
     "description": "Real-world browser-agent benchmark: 210 tasks across 107 websites, multi-agent/multi-browser evaluation, reproducible leaderboard and result submissions.",
     "escaped_description": "Real-world browser-agent benchmark: 210 tasks across 107 websites, multi-agent/multi-browser evaluation, reproducible leaderboard and result submissions.",
-    "stars": 20,
-    "formatted_stars": "20",
+    "stars": 21,
+    "formatted_stars": "21",
     "forks": 5,
     "open_issues": 11,
     "license": {
@@ -13204,7 +13209,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-20T04:54:56Z"
+    "updated_at": "2026-10-27T11:36:45Z"
   },
   {
     "id": 1346768255,
@@ -13241,8 +13246,8 @@
     "html_url": "https://github.com/NVIDIA/swe-serve",
     "description": "SWE-Serve: an agentic benchmark of 53 production inference-engineering tasks derived from merged SGLang pull requests, run with Harbor.",
     "escaped_description": "SWE-Serve: an agentic benchmark of 53 production inference-engineering tasks derived from merged SGLang pull requests, run with Harbor.",
-    "stars": 20,
-    "formatted_stars": "20",
+    "stars": 22,
+    "formatted_stars": "22",
     "forks": 1,
     "open_issues": 0,
     "license": {
@@ -13306,8 +13311,8 @@
     "html_url": "https://github.com/DeveloperMindset123/PHMForge-A-Scenario-Driven-Agentic-Benchmark-for-Industrial-Asset-Lifecycle-Maintenance",
     "description": "Agentic approach to predicting RUL, cost while adhering to safety standards.",
     "escaped_description": "Agentic approach to predicting RUL, cost while adhering to safety standards.",
-    "stars": 15,
-    "formatted_stars": "15",
+    "stars": 16,
+    "formatted_stars": "16",
     "forks": 4,
     "open_issues": 0,
     "license": {
@@ -13474,8 +13479,8 @@
     "html_url": "https://github.com/microsoft/ACESEvals",
     "description": "Security Agent Benchmarking and Evaluation Research",
     "escaped_description": "Security Agent Benchmarking and Evaluation Research",
-    "stars": 19,
-    "formatted_stars": "19",
+    "stars": 20,
+    "formatted_stars": "20",
     "forks": 3,
     "open_issues": 11,
     "license": {
@@ -13511,10 +13516,10 @@
     "html_url": "https://github.com/Orkas-AI/Orkas",
     "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
     "escaped_description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents pl...",
-    "stars": 2172,
-    "formatted_stars": "2.2k",
-    "forks": 96,
-    "open_issues": 10,
+    "stars": 7700,
+    "formatted_stars": "7.7k",
+    "forks": 479,
+    "open_issues": 9,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -13554,7 +13559,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T03:01:50Z"
+    "updated_at": "2026-11-02T04:09:53Z"
   },
   {
     "id": 1407005540,
@@ -13564,10 +13569,10 @@
     "html_url": "https://github.com/deeplethe/fde-gym",
     "description": "The online judge for the LLM era. Every case is a real customer delivery: you work it with a coding agent, and your system is judged once it is live.",
     "escaped_description": "The online judge for the LLM era. Every case is a real customer delivery: you work it with a coding agent, and your system is judged once it is live.",
-    "stars": 111,
-    "formatted_stars": "111",
+    "stars": 112,
+    "formatted_stars": "112",
     "forks": 3,
-    "open_issues": 2,
+    "open_issues": 3,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -13600,7 +13605,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-18T03:42:58Z"
+    "updated_at": "2026-10-29T11:25:01Z"
   },
   {
     "id": 1405570714,
@@ -13656,10 +13661,10 @@
     "html_url": "https://github.com/openma-ai/open-managed-agents",
     "description": "OpenMA handles sessions, execution and recovery, so you can build and run agents with any model, any harness, any sandbox, on any cloud. An open-source, self-hostable alternative to Claude Managed Agents and OpenAI Agents API.",
     "escaped_description": "OpenMA handles sessions, execution and recovery, so you can build and run agents with any model, any harness, any sandbox, on any cloud. An open-source, self...",
-    "stars": 337,
-    "formatted_stars": "337",
-    "forks": 49,
-    "open_issues": 43,
+    "stars": 346,
+    "formatted_stars": "346",
+    "forks": 52,
+    "open_issues": 54,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -13699,7 +13704,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T11:25:53Z"
+    "updated_at": "2026-11-02T10:36:31Z"
   },
   {
     "id": 1386406717,
@@ -13750,10 +13755,10 @@
     "html_url": "https://github.com/clearcotelabs/clearcote-browser",
     "description": "Open-source stealth Chromium with engine-level fingerprint spoofing - de-Googled, drop-in Playwright, fully buildable and verifiable from source.",
     "escaped_description": "Open-source stealth Chromium with engine-level fingerprint spoofing - de-Googled, drop-in Playwright, fully buildable and verifiable from source.",
-    "stars": 210,
-    "formatted_stars": "210",
-    "forks": 30,
-    "open_issues": 8,
+    "stars": 238,
+    "formatted_stars": "238",
+    "forks": 33,
+    "open_issues": 4,
     "license": {
       "key": "bsd-3-clause",
       "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -13793,7 +13798,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-18T15:03:08Z"
+    "updated_at": "2026-11-02T10:05:26Z"
   },
   {
     "id": 921776950,
@@ -13843,10 +13848,10 @@
     "html_url": "https://github.com/TencentCloud/octop-browser",
     "description": "Agent-first lightweight browser automation — direct CDP, no Playwright, more accurate and more reliable.",
     "escaped_description": "Agent-first lightweight browser automation — direct CDP, no Playwright, more accurate and more reliable.",
-    "stars": 65,
-    "formatted_stars": "65",
-    "forks": 27,
-    "open_issues": 5,
+    "stars": 68,
+    "formatted_stars": "68",
+    "forks": 31,
+    "open_issues": 6,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -13868,7 +13873,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-08T07:21:26Z"
+    "updated_at": "2026-11-01T06:12:27Z"
   },
   {
     "id": 1369633229,
@@ -13878,8 +13883,8 @@
     "html_url": "https://github.com/timegravity/tamil-lm",
     "description": "Tamil continued pretraining and instruction tuning of Qwen3.5-2B-Base: serving stack, eval harness, training recipe and knowledge base build scripts (Timegravity Labs)",
     "escaped_description": "Tamil continued pretraining and instruction tuning of Qwen3.5-2B-Base: serving stack, eval harness, training recipe and knowledge base build scripts (Timegra...",
-    "stars": 18,
-    "formatted_stars": "18",
+    "stars": 20,
+    "formatted_stars": "20",
     "forks": 4,
     "open_issues": 0,
     "license": {
@@ -13943,10 +13948,10 @@
     "html_url": "https://github.com/OpenAdaptAI/OpenAdapt",
     "description": "For EHRs, payer portals, and any app your team clicks through. A person or an agent shows the task; OpenAdapt turns it into a local program that repeats the steps with no model calls, checks each save, and stops when something doesn't match.",
     "escaped_description": "For EHRs, payer portals, and any app your team clicks through. A person or an agent shows the task; OpenAdapt turns it into a local program that repeats the ...",
-    "stars": 1826,
-    "formatted_stars": "1.8k",
-    "forks": 275,
-    "open_issues": 77,
+    "stars": 1860,
+    "formatted_stars": "1.9k",
+    "forks": 278,
+    "open_issues": 87,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -13986,7 +13991,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T16:14:19Z"
+    "updated_at": "2026-10-31T18:54:04Z"
   },
   {
     "id": 1340676550,
@@ -14047,10 +14052,10 @@
     "html_url": "https://github.com/lemma-work/lemma-platform",
     "description": "Multiplayer harness that shapes around your work. Agents, apps and workflows your team shares, used from Slack, Telegram, WhatsApp, Teams, Email, Web or your own AI agent.",
     "escaped_description": "Multiplayer harness that shapes around your work. Agents, apps and workflows your team shares, used from Slack, Telegram, WhatsApp, Teams, Email, Web or your...",
-    "stars": 635,
-    "formatted_stars": "635",
-    "forks": 83,
-    "open_issues": 27,
+    "stars": 637,
+    "formatted_stars": "637",
+    "forks": 85,
+    "open_issues": 58,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -14085,7 +14090,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:32:33Z"
+    "updated_at": "2026-11-02T09:54:29Z"
   },
   {
     "id": 1213667879,
@@ -14139,8 +14144,8 @@
     "html_url": "https://github.com/thetahealth/mirobody-env",
     "description": "HAEnv — synthetic longitudinal patients with code-derived gold, for evaluating health agents over time",
     "escaped_description": "HAEnv — synthetic longitudinal patients with code-derived gold, for evaluating health agents over time",
-    "stars": 100,
-    "formatted_stars": "100",
+    "stars": 155,
+    "formatted_stars": "155",
     "forks": 0,
     "open_issues": 0,
     "license": {
@@ -14176,7 +14181,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-22T13:50:54Z"
+    "updated_at": "2026-11-01T06:54:53Z"
   },
   {
     "id": 969794000,
@@ -14186,8 +14191,8 @@
     "html_url": "https://github.com/BichengWang/multi-agents",
     "description": "Multi-agent teams for real work: run teams of coding agents (Claude Code, Codex, any model) in isolated git worktrees, and measure whether the team beats a solo agent on cost and results.",
     "escaped_description": "Multi-agent teams for real work: run teams of coding agents (Claude Code, Codex, any model) in isolated git worktrees, and measure whether the team beats a s...",
-    "stars": 131,
-    "formatted_stars": "131",
+    "stars": 158,
+    "formatted_stars": "158",
     "forks": 12,
     "open_issues": 0,
     "license": {
@@ -14221,7 +14226,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T00:55:34Z"
+    "updated_at": "2026-11-02T06:59:48Z"
   },
   {
     "id": 1370012016,
@@ -14231,10 +14236,10 @@
     "html_url": "https://github.com/Tokha233/deepseek-v4.1-flash-a100-turbo",
     "description": "DeepSeek-V4.1-Flash inference on NVIDIA Ampere with vLLM, SM80 patches, reproducible throughput and coding-agent benchmarks. Tested on 8x A800 80GB.",
     "escaped_description": "DeepSeek-V4.1-Flash inference on NVIDIA Ampere with vLLM, SM80 patches, reproducible throughput and coding-agent benchmarks. Tested on 8x A800 80GB.",
-    "stars": 16,
-    "formatted_stars": "16",
+    "stars": 20,
+    "formatted_stars": "20",
     "forks": 2,
-    "open_issues": 1,
+    "open_issues": 2,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -14274,10 +14279,10 @@
     "html_url": "https://github.com/La5u/Parsimony",
     "description": "Measures how much code AI coding agents add, from patches benchmarks already publish",
     "escaped_description": "Measures how much code AI coding agents add, from patches benchmarks already publish",
-    "stars": 12,
-    "formatted_stars": "12",
+    "stars": 13,
+    "formatted_stars": "13",
     "forks": 3,
-    "open_issues": 2,
+    "open_issues": 0,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -14305,7 +14310,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-22T23:03:31Z"
+    "updated_at": "2026-11-01T22:09:01Z"
   },
   {
     "id": 1414493071,
@@ -14315,9 +14320,9 @@
     "html_url": "https://github.com/jwuthri-cloud/Tracely-ai",
     "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
     "escaped_description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-h...",
-    "stars": 1180,
+    "stars": 1213,
     "formatted_stars": "1.2k",
-    "forks": 140,
+    "forks": 141,
     "open_issues": 21,
     "license": {
       "key": "mit",
@@ -14353,7 +14358,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T09:09:13Z"
+    "updated_at": "2026-10-26T18:09:41Z"
   },
   {
     "id": 1400009846,
@@ -14363,9 +14368,9 @@
     "html_url": "https://github.com/zgcagi/Harness-RSI",
     "description": "Harness self-evolution: update targets, theory, evaluation, and reported evidence. Bilingual reading list and project website.",
     "escaped_description": "Harness self-evolution: update targets, theory, evaluation, and reported evidence. Bilingual reading list and project website.",
-    "stars": 417,
-    "formatted_stars": "417",
-    "forks": 10,
+    "stars": 433,
+    "formatted_stars": "433",
+    "forks": 11,
     "open_issues": 1,
     "license": {
       "key": "cc-by-4.0",
@@ -14399,7 +14404,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T15:06:23Z"
+    "updated_at": "2026-11-01T13:37:47Z"
   },
   {
     "id": 1212040616,
@@ -14409,8 +14414,8 @@
     "html_url": "https://github.com/Calibre-Labs/reforge-ai-evals",
     "description": "Open-source AI evals toolkit: skills that guide AI coding agents to write eval rubrics, eval datasets (User Input Grid), trace codes, code evaluators and LLM-as-a-judge prompts. From the Reforge AI Evals course by Calibre.",
     "escaped_description": "Open-source AI evals toolkit: skills that guide AI coding agents to write eval rubrics, eval datasets (User Input Grid), trace codes, code evaluators and LLM...",
-    "stars": 85,
-    "formatted_stars": "85",
+    "stars": 95,
+    "formatted_stars": "95",
     "forks": 9,
     "open_issues": 0,
     "license": {
@@ -14447,7 +14452,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-22T20:02:54Z"
+    "updated_at": "2026-10-30T18:25:36Z"
   },
   {
     "id": 1410693441,
@@ -14457,8 +14462,8 @@
     "html_url": "https://github.com/VectorSpaceLab/AgentSWE",
     "description": "Can coding agents build the agent you actually want? A benchmark of 25 agent software engineering tasks across creation, editing and optimization.",
     "escaped_description": "Can coding agents build the agent you actually want? A benchmark of 25 agent software engineering tasks across creation, editing and optimization.",
-    "stars": 44,
-    "formatted_stars": "44",
+    "stars": 45,
+    "formatted_stars": "45",
     "forks": 0,
     "open_issues": 1,
     "license": {
@@ -14495,10 +14500,10 @@
     "html_url": "https://github.com/delta-box/deltabox-lite",
     "description": "Lightweight, agent-native sandboxing with diff, commit and abort",
     "escaped_description": "Lightweight, agent-native sandboxing with diff, commit and abort",
-    "stars": 149,
-    "formatted_stars": "149",
-    "forks": 5,
-    "open_issues": 10,
+    "stars": 300,
+    "formatted_stars": "300",
+    "forks": 19,
+    "open_issues": 8,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -14523,7 +14528,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-21T13:33:10Z"
+    "updated_at": "2026-10-31T18:45:19Z"
   },
   {
     "id": 1410960439,
@@ -14531,12 +14536,12 @@
     "name": "AutoCua",
     "owner": "ComputerUseAgent",
     "html_url": "https://github.com/ComputerUseAgent/AutoCua",
-    "description": "One Computer Use agent for everything (macOS, Windows, Linux, Browser, iOS & Code).",
-    "escaped_description": "One Computer Use agent for everything (macOS, Windows, Linux, Browser, iOS & Code).",
-    "stars": 664,
-    "formatted_stars": "664",
-    "forks": 33,
-    "open_issues": 3,
+    "description": "Automate with computer-use agent (ComputerUse / CUA) for macOS, Windows, Linux, Browser, iOS & Android. It sees the screen, clicks, types, browses and writes the code too. One agent, every computer.",
+    "escaped_description": "Automate with computer-use agent (ComputerUse / CUA) for macOS, Windows, Linux, Browser, iOS & Android. It sees the screen, clicks, types, browses and writes...",
+    "stars": 1086,
+    "formatted_stars": "1.1k",
+    "forks": 45,
+    "open_issues": 2,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -14557,11 +14562,12 @@
       "computer-use-linux",
       "computer-use-preview",
       "computer-use-windows",
+      "computeruse",
+      "computeruseagents",
       "cua",
       "cua-agent",
       "ios-automation",
       "linux-ai",
-      "linux-ai-agent",
       "linux-ai-automations",
       "macos-use",
       "web-use",
@@ -14575,7 +14581,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T23:26:17Z"
+    "updated_at": "2026-11-02T00:51:15Z"
   },
   {
     "id": 1410338898,
@@ -14585,8 +14591,8 @@
     "html_url": "https://github.com/tony3liu/eido",
     "description": "AI coding agent workspace for macOS, built on Zed and pi. Native code editing and review, browser use, computer use, and global agent access controls.",
     "escaped_description": "AI coding agent workspace for macOS, built on Zed and pi. Native code editing and review, browser use, computer use, and global agent access controls.",
-    "stars": 93,
-    "formatted_stars": "93",
+    "stars": 215,
+    "formatted_stars": "215",
     "forks": 0,
     "open_issues": 0,
     "license": {
@@ -14632,8 +14638,8 @@
     "html_url": "https://github.com/chy4pro/jev-for-chrome",
     "description": "Jev for Chrome: drives the tab you are looking at with TypeSafe Jev, a sub-second decision model. Community port of browser-use/jev-ultrafast, not affiliated with TypeSafe.",
     "escaped_description": "Jev for Chrome: drives the tab you are looking at with TypeSafe Jev, a sub-second decision model. Community port of browser-use/jev-ultrafast, not affiliated...",
-    "stars": 42,
-    "formatted_stars": "42",
+    "stars": 46,
+    "formatted_stars": "46",
     "forks": 12,
     "open_issues": 0,
     "license": {
@@ -14675,10 +14681,10 @@
     "html_url": "https://github.com/cuga-project/cuga-agent",
     "description": "CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features.",
     "escaped_description": "CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable a...",
-    "stars": 1049,
-    "formatted_stars": "1.0k",
-    "forks": 192,
-    "open_issues": 287,
+    "stars": 1060,
+    "formatted_stars": "1.1k",
+    "forks": 202,
+    "open_issues": 237,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -14718,7 +14724,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T23:18:16Z"
+    "updated_at": "2026-11-02T10:27:49Z"
   },
   {
     "id": 1382019778,
@@ -14728,9 +14734,9 @@
     "html_url": "https://github.com/AgnesAI-Labs/agnes-harness",
     "description": "Agnes Harness: A pluggable agent harness for Forward Deployed Engineering (FDE). Built for trust. Made for the real world.",
     "escaped_description": "Agnes Harness: A pluggable agent harness for Forward Deployed Engineering (FDE). Built for trust. Made for the real world.",
-    "stars": 1296,
-    "formatted_stars": "1.3k",
-    "forks": 49,
+    "stars": 1551,
+    "formatted_stars": "1.6k",
+    "forks": 75,
     "open_issues": 6,
     "license": {
       "key": "apache-2.0",
@@ -14745,7 +14751,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:27:26Z"
+    "updated_at": "2026-11-02T10:10:32Z"
   },
   {
     "id": 1199743538,
@@ -14755,10 +14761,10 @@
     "html_url": "https://github.com/fullsend-ai/agent-eval-harness",
     "description": "No description provided.",
     "escaped_description": "No description provided.",
-    "stars": 44,
-    "formatted_stars": "44",
-    "forks": 51,
-    "open_issues": 42,
+    "stars": 48,
+    "formatted_stars": "48",
+    "forks": 53,
+    "open_issues": 40,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -14772,7 +14778,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T12:10:56Z"
+    "updated_at": "2026-11-02T10:35:45Z"
   },
   {
     "id": 1359743220,
@@ -14784,7 +14790,7 @@
     "escaped_description": "Multi-agent engine for running a job search — guardrails, human approval gates, and an eval harness. Built while laid off; open-sourced after the offer.",
     "stars": 11,
     "formatted_stars": "11",
-    "forks": 2,
+    "forks": 3,
     "open_issues": 0,
     "license": {
       "key": "apache-2.0",
@@ -14850,9 +14856,9 @@
     "html_url": "https://github.com/Danielxu0208/rsi_eval",
     "description": "A lightweight Python SDK and CLI for evaluating recursive self-improvement (RSI) methods across agent benchmarks.",
     "escaped_description": "A lightweight Python SDK and CLI for evaluating recursive self-improvement (RSI) methods across agent benchmarks.",
-    "stars": 177,
-    "formatted_stars": "177",
-    "forks": 8,
+    "stars": 305,
+    "formatted_stars": "305",
+    "forks": 14,
     "open_issues": 0,
     "license": {
       "key": "apache-2.0",
@@ -14879,7 +14885,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-12T14:23:59Z"
+    "updated_at": "2026-10-30T13:22:18Z"
   },
   {
     "id": 1122489951,
@@ -14889,8 +14895,8 @@
     "html_url": "https://github.com/murataslan1/ai-agent-benchmark",
     "description": "AI coding agents comparison - 80+ agents, SWE-Bench leaderboard, pricing. Devin, Cursor, Claude Code, Copilot, and more. December 2025.",
     "escaped_description": "AI coding agents comparison - 80+ agents, SWE-Bench leaderboard, pricing. Devin, Cursor, Claude Code, Copilot, and more. December 2025.",
-    "stars": 28,
-    "formatted_stars": "28",
+    "stars": 29,
+    "formatted_stars": "29",
     "forks": 4,
     "open_issues": 0,
     "license": {
@@ -14916,10 +14922,10 @@
     "html_url": "https://github.com/the-open-engine/zeroshot",
     "description": "Open-source meta-harness for coding agents. Define your own workflows, reviewers and repair loops. zeroshot enforces the process you configure.",
     "escaped_description": "Open-source meta-harness for coding agents. Define your own workflows, reviewers and repair loops. zeroshot enforces the process you configure.",
-    "stars": 2042,
-    "formatted_stars": "2.0k",
-    "forks": 195,
-    "open_issues": 12,
+    "stars": 2087,
+    "formatted_stars": "2.1k",
+    "forks": 198,
+    "open_issues": 6,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -14959,7 +14965,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T21:33:30Z"
+    "updated_at": "2026-11-02T09:56:34Z"
   },
   {
     "id": 1211648517,
@@ -14969,8 +14975,8 @@
     "html_url": "https://github.com/vieval-dev/vieval",
     "description": "🧪💥 Evaluation framework based on Vitest, the testing framework you familiar with, for agents, models, and more.",
     "escaped_description": "🧪💥 Evaluation framework based on Vitest, the testing framework you familiar with, for agents, models, and more.",
-    "stars": 65,
-    "formatted_stars": "65",
+    "stars": 71,
+    "formatted_stars": "71",
     "forks": 0,
     "open_issues": 1,
     "license": {
@@ -15059,10 +15065,10 @@
     "name": "BAGEN",
     "owner": "mll-lab-nu",
     "html_url": "https://github.com/mll-lab-nu/BAGEN",
-    "description": "BAGEN is a framework for evaluating, training, and understanding budget-aware agents.",
-    "escaped_description": "BAGEN is a framework for evaluating, training, and understanding budget-aware agents.",
-    "stars": 18,
-    "formatted_stars": "18",
+    "description": "BAGEN (Budget-Aware Agent): benchmark and training code for budget-aware LLM agents that estimate token, time, and money cost mid-task.",
+    "escaped_description": "BAGEN (Budget-Aware Agent): benchmark and training code for budget-aware LLM agents that estimate token, time, and money cost mid-task.",
+    "stars": 19,
+    "formatted_stars": "19",
     "forks": 2,
     "open_issues": 1,
     "license": {
@@ -15076,6 +15082,7 @@
     "language": "Python",
     "topics": [
       "agent-benchmark",
+      "budget-aware-agent",
       "budget-aware-agents",
       "budget-awareness",
       "cost-estimation",
@@ -15086,13 +15093,13 @@
     ],
     "top_topics": [
       "agent-benchmark",
+      "budget-aware-agent",
       "budget-aware-agents",
-      "budget-awareness",
-      "cost-estimation"
+      "budget-awareness"
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-23T12:43:25Z"
+    "updated_at": "2026-10-30T07:15:56Z"
   },
   {
     "id": 1338600136,
@@ -15102,10 +15109,10 @@
     "html_url": "https://github.com/keli-wen/agy-staff",
     "description": "Hire Google's Antigravity CLI (agy) as a fast Gemini staffer for Claude Code and OpenAI Codex.",
     "escaped_description": "Hire Google's Antigravity CLI (agy) as a fast Gemini staffer for Claude Code and OpenAI Codex.",
-    "stars": 791,
-    "formatted_stars": "791",
-    "forks": 52,
-    "open_issues": 2,
+    "stars": 810,
+    "formatted_stars": "810",
+    "forks": 56,
+    "open_issues": 3,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -15145,7 +15152,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T06:22:20Z"
+    "updated_at": "2026-11-02T09:37:02Z"
   },
   {
     "id": 1239104861,
@@ -15155,10 +15162,10 @@
     "html_url": "https://github.com/NVIDIA-NeMo/nemo-helix",
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "escaped_description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "stars": 128,
-    "formatted_stars": "128",
-    "forks": 43,
-    "open_issues": 186,
+    "stars": 134,
+    "formatted_stars": "134",
+    "forks": 47,
+    "open_issues": 174,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -15188,7 +15195,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T08:26:44Z"
+    "updated_at": "2026-11-02T06:53:48Z"
   },
   {
     "id": 1425436631,
@@ -15198,9 +15205,9 @@
     "html_url": "https://github.com/kling01/human-value-allocation",
     "description": "Evidence-linked analysis of human contributions in human–AI conversations. Research preview.",
     "escaped_description": "Evidence-linked analysis of human contributions in human–AI conversations. Research preview.",
-    "stars": 49,
-    "formatted_stars": "49",
-    "forks": 9,
+    "stars": 71,
+    "formatted_stars": "71",
+    "forks": 12,
     "open_issues": 0,
     "license": {
       "key": "mit",
@@ -15237,8 +15244,8 @@
     "html_url": "https://github.com/kling01/RubricLoop",
     "description": "Rubric-driven evaluation for AI agents. Executable criteria, code and model judges, and inspectable trace reports.",
     "escaped_description": "Rubric-driven evaluation for AI agents. Executable criteria, code and model judges, and inspectable trace reports.",
-    "stars": 37,
-    "formatted_stars": "37",
+    "stars": 43,
+    "formatted_stars": "43",
     "forks": 9,
     "open_issues": 0,
     "license": {
@@ -15276,8 +15283,8 @@
     "html_url": "https://github.com/Bogzx/bg3-agent-harness",
     "description": "An AI agent plays Baldur's Gate 3 on Linux through a Lua mod and an MCP server, seeing only what a player sees. Includes a model benchmark and a playthrough app.",
     "escaped_description": "An AI agent plays Baldur's Gate 3 on Linux through a Lua mod and an MCP server, seeing only what a player sees. Includes a model benchmark and a playthrough ...",
-    "stars": 30,
-    "formatted_stars": "30",
+    "stars": 31,
+    "formatted_stars": "31",
     "forks": 3,
     "open_issues": 0,
     "license": {
@@ -15314,7 +15321,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T20:09:58Z"
+    "updated_at": "2026-11-02T10:02:56Z"
   },
   {
     "id": 1311496151,
@@ -15324,10 +15331,10 @@
     "html_url": "https://github.com/imshaikot/browsentic",
     "description": "An agentic browser harness: an AI side panel & orb in your own logged-in Chrome, Edge, Arc, Brave or even Firefox run by the agent/subscription you already use (Claude Code, Codex, Antigravity). Free, open source, no API key. Also an MCP server.",
     "escaped_description": "An agentic browser harness: an AI side panel & orb in your own logged-in Chrome, Edge, Arc, Brave or even Firefox run by the agent/subscription you already u...",
-    "stars": 110,
-    "formatted_stars": "110",
-    "forks": 10,
-    "open_issues": 7,
+    "stars": 267,
+    "formatted_stars": "267",
+    "forks": 41,
+    "open_issues": 9,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -15367,7 +15374,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-25T13:09:31Z"
+    "updated_at": "2026-10-27T01:40:57Z"
   },
   {
     "id": 1422597771,
@@ -15377,10 +15384,10 @@
     "html_url": "https://github.com/amosblomqvist/learnharness",
     "description": "Agent harness for learning difficult things.",
     "escaped_description": "Agent harness for learning difficult things.",
-    "stars": 1858,
-    "formatted_stars": "1.9k",
-    "forks": 327,
-    "open_issues": 131,
+    "stars": 4805,
+    "formatted_stars": "4.8k",
+    "forks": 749,
+    "open_issues": 350,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -15394,7 +15401,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-26T04:16:39Z"
+    "updated_at": "2026-10-31T09:30:58Z"
   },
   {
     "id": 989917360,
@@ -15404,10 +15411,10 @@
     "html_url": "https://github.com/ZHangZHengEric/Sage",
     "description": "An RSI Agent Harness for running, evaluating, and evolving agents—with tools, skills, MCP, stateful execution, and multi-agent workflows.",
     "escaped_description": "An RSI Agent Harness for running, evaluating, and evolving agents—with tools, skills, MCP, stateful execution, and multi-agent workflows.",
-    "stars": 1214,
+    "stars": 1220,
     "formatted_stars": "1.2k",
     "forks": 113,
-    "open_issues": 7,
+    "open_issues": 9,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -15438,7 +15445,7 @@
     ],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T10:46:16Z"
+    "updated_at": "2026-11-02T09:41:18Z"
   },
   {
     "id": 1071224636,
@@ -15448,10 +15455,10 @@
     "html_url": "https://github.com/torchgeo/geo-eval-harness",
     "description": "Benchmark harness/toolkit for evaluating Geospatial Foundation Models (GFM). Independently developed with long-term updates and maintenance.",
     "escaped_description": "Benchmark harness/toolkit for evaluating Geospatial Foundation Models (GFM). Independently developed with long-term updates and maintenance.",
-    "stars": 34,
-    "formatted_stars": "34",
+    "stars": 35,
+    "formatted_stars": "35",
     "forks": 11,
-    "open_issues": 72,
+    "open_issues": 84,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -15465,7 +15472,7 @@
     "top_topics": [],
     "fork": false,
     "archived": false,
-    "updated_at": "2026-10-24T07:07:54Z"
+    "updated_at": "2026-11-02T10:14:08Z"
   },
   {
     "id": 1226784438,
@@ -15493,5 +15500,620 @@
     "fork": false,
     "archived": false,
     "updated_at": "2026-09-12T18:54:00Z"
+  },
+  {
+    "id": 1115851080,
+    "full_name": "limecloud/lime",
+    "name": "lime",
+    "owner": "limecloud",
+    "html_url": "https://github.com/limecloud/lime",
+    "description": "Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.",
+    "escaped_description": "Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.",
+    "stars": 1493,
+    "formatted_stars": "1.5k",
+    "forks": 209,
+    "open_issues": 14,
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "license_name": "GPL-3.0",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agent-collaboration",
+      "agent-harness",
+      "agentic-ai",
+      "ai",
+      "claw",
+      "content-creation",
+      "creators",
+      "deepseek",
+      "desktop-app",
+      "knowledge-base",
+      "mcp",
+      "research-tool",
+      "skills",
+      "workflow",
+      "writing-tool"
+    ],
+    "top_topics": [
+      "agent-collaboration",
+      "agent-harness",
+      "agentic-ai",
+      "claw"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-11-01T10:10:32Z"
+  },
+  {
+    "id": 1442056769,
+    "full_name": "Balanov/uncut",
+    "name": "uncut",
+    "owner": "Balanov",
+    "html_url": "https://github.com/Balanov/uncut",
+    "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+    "escaped_description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+    "stars": 473,
+    "formatted_stars": "473",
+    "forks": 3,
+    "open_issues": 1,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "license_name": "MIT",
+    "language": "Go",
+    "topics": [
+      "agent-harness",
+      "cli",
+      "coding-agent",
+      "go",
+      "headless",
+      "llm",
+      "local-models"
+    ],
+    "top_topics": [
+      "agent-harness",
+      "cli",
+      "coding-agent",
+      "go"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-11-02T00:34:07Z"
+  },
+  {
+    "id": 1338013911,
+    "full_name": "rsi-gear/gear",
+    "name": "gear",
+    "owner": "rsi-gear",
+    "html_url": "https://github.com/rsi-gear/gear",
+    "description": "Scikit-learn for Recursive Self-improvement (RSI). A modular framework for recursive harness evolution.",
+    "escaped_description": "Scikit-learn for Recursive Self-improvement (RSI). A modular framework for recursive harness evolution.",
+    "stars": 391,
+    "formatted_stars": "391",
+    "forks": 35,
+    "open_issues": 28,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "license_name": "MIT",
+    "language": "TypeScript",
+    "topics": [
+      "agent-harness",
+      "ai-agents",
+      "continual-learning",
+      "harness-optimization",
+      "infrastructure",
+      "llm-training",
+      "meta-learning",
+      "recursive-self-improvement",
+      "reinforcement-learning",
+      "rsi",
+      "rsi-gear",
+      "rsigear"
+    ],
+    "top_topics": [
+      "agent-harness",
+      "ai-agents",
+      "continual-learning",
+      "harness-optimization"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-11-02T09:41:26Z"
+  },
+  {
+    "id": 1383351011,
+    "full_name": "bodepudimuneendra-netizen/ConsciousDB",
+    "name": "ConsciousDB",
+    "owner": "bodepudimuneendra-netizen",
+    "html_url": "https://github.com/bodepudimuneendra-netizen/ConsciousDB",
+    "description": "A database-agnostic Agentic GraphRAG framework using swappable System One models (local Laya / cloud Jev). A plug-and-play intelligence layer featuring a complete 4-phase pipeline, continuous evaluation and custom A* traversal for any graph database.",
+    "escaped_description": "A database-agnostic Agentic GraphRAG framework using swappable System One models (local Laya / cloud Jev). A plug-and-play intelligence layer featuring a com...",
+    "stars": 53,
+    "formatted_stars": "53",
+    "forks": 3,
+    "open_issues": 0,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "license_name": "Apache-2.0",
+    "language": "Python",
+    "topics": [
+      "astar-algorithm",
+      "eval-harness",
+      "fine-tuning",
+      "graphdatabase",
+      "graprag",
+      "jev",
+      "laya",
+      "neo4j",
+      "rag",
+      "typesafe-ai"
+    ],
+    "top_topics": [
+      "astar-algorithm",
+      "eval-harness",
+      "fine-tuning",
+      "graphdatabase"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-11-02T10:01:03Z"
+  },
+  {
+    "id": 1392097033,
+    "full_name": "kaithoughtarchitect/titration",
+    "name": "titration",
+    "owner": "kaithoughtarchitect",
+    "html_url": "https://github.com/kaithoughtarchitect/titration",
+    "description": "Let your coding agent fix a prompt until it actually works, and prove it did. A self-hosted MCP server: cross-vendor judges, frozen baselines and memory.",
+    "escaped_description": "Let your coding agent fix a prompt until it actually works, and prove it did. A self-hosted MCP server: cross-vendor judges, frozen baselines and memory.",
+    "stars": 10,
+    "formatted_stars": "10",
+    "forks": 0,
+    "open_issues": 0,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "license_name": "Apache-2.0",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "eval-harness",
+      "evals",
+      "llm-as-a-judge",
+      "llm-evaluation",
+      "mcp",
+      "model-context-protocol",
+      "pgvector",
+      "prompt-engineering",
+      "typescript"
+    ],
+    "top_topics": [
+      "ai-agents",
+      "eval-harness",
+      "evals",
+      "llm-as-a-judge"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-10-12T12:44:56Z"
+  },
+  {
+    "id": 1347116040,
+    "full_name": "dwsmart32/HEAR",
+    "name": "HEAR",
+    "owner": "dwsmart32",
+    "html_url": "https://github.com/dwsmart32/HEAR",
+    "description": "Run 23 speech language models on your own audio task through one interface: vLLM, transformers, and API backends behind a single JSONL contract. Ships HEAR, the speaker-attribution benchmark from our EMNLP 2026 paper.",
+    "escaped_description": "Run 23 speech language models on your own audio task through one interface: vLLM, transformers, and API backends behind a single JSONL contract. Ships HEAR, ...",
+    "stars": 10,
+    "formatted_stars": "10",
+    "forks": 0,
+    "open_issues": 0,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "license_name": "MIT",
+    "language": "Python",
+    "topics": [
+      "audio",
+      "audio-language-model",
+      "benchmark",
+      "emnlp2026",
+      "evaluation-harness",
+      "inference",
+      "multimodal-llm",
+      "qwen",
+      "speaker-attribution",
+      "speech",
+      "speech-language-model",
+      "speech-recognition",
+      "vllm"
+    ],
+    "top_topics": [
+      "audio",
+      "audio-language-model",
+      "benchmark",
+      "emnlp2026"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-09-06T12:40:46Z"
+  },
+  {
+    "id": 1411694919,
+    "full_name": "reason-machines/reason-agent",
+    "name": "reason-agent",
+    "owner": "reason-machines",
+    "html_url": "https://github.com/reason-machines/reason-agent",
+    "description": "Reason Agent, the autonomous software engineer: how to use it, releases and benchmark results.",
+    "escaped_description": "Reason Agent, the autonomous software engineer: how to use it, releases and benchmark results.",
+    "stars": 10,
+    "formatted_stars": "10",
+    "forks": 3,
+    "open_issues": 1,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "license_name": "MIT",
+    "language": "Multi",
+    "topics": [
+      "ai-software-engineer",
+      "autonomous-agents",
+      "benchmarks",
+      "coding-agent",
+      "reason",
+      "swe-bench"
+    ],
+    "top_topics": [
+      "ai-software-engineer",
+      "autonomous-agents",
+      "benchmarks",
+      "coding-agent"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-10-09T10:54:53Z"
+  },
+  {
+    "id": 1433872170,
+    "full_name": "HuangShengZeBlueSky/dsh-harness-evolution",
+    "name": "dsh-harness-evolution",
+    "owner": "HuangShengZeBlueSky",
+    "html_url": "https://github.com/HuangShengZeBlueSky/dsh-harness-evolution",
+    "description": "Evolved DSH plugin harnesses for five agent benchmarks, with versioned artifacts, evolution curves and Life-Harness comparisons",
+    "escaped_description": "Evolved DSH plugin harnesses for five agent benchmarks, with versioned artifacts, evolution curves and Life-Harness comparisons",
+    "stars": 102,
+    "formatted_stars": "102",
+    "forks": 0,
+    "open_issues": 0,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "license_name": "MIT",
+    "language": "HTML",
+    "topics": [
+      "agent-benchmark",
+      "dsh",
+      "harness",
+      "leaderboard",
+      "plugin-evolution"
+    ],
+    "top_topics": [
+      "agent-benchmark",
+      "dsh",
+      "harness",
+      "leaderboard"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-11-02T10:38:05Z"
+  },
+  {
+    "id": 1427215886,
+    "full_name": "Ta0p1/ResolveLab",
+    "name": "ResolveLab",
+    "owner": "Ta0p1",
+    "html_url": "https://github.com/Ta0p1/ResolveLab",
+    "description": "Fault-injected tool environments with side-effect grading for evaluating and post-training LLM agents",
+    "escaped_description": "Fault-injected tool environments with side-effect grading for evaluating and post-training LLM agents",
+    "stars": 106,
+    "formatted_stars": "106",
+    "forks": 1,
+    "open_issues": 0,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "license_name": "MIT",
+    "language": "Python",
+    "topics": [
+      "agent-evaluation",
+      "ai-agents",
+      "dagger",
+      "fastapi",
+      "fault-injection",
+      "llm-agents",
+      "ollama",
+      "post-training",
+      "sqlite",
+      "tool-calling"
+    ],
+    "top_topics": [
+      "agent-evaluation",
+      "ai-agents",
+      "dagger",
+      "fastapi"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-10-31T18:09:58Z"
+  },
+  {
+    "id": 1405570714,
+    "full_name": "okgrit/done-is-a-claim",
+    "name": "done-is-a-claim",
+    "owner": "okgrit",
+    "html_url": "https://github.com/okgrit/done-is-a-claim",
+    "description": "Your coding agent says done. Show the receipt. Evidence-first workflows, practical skills, and plugins for Claude Code and Codex.",
+    "escaped_description": "Your coding agent says done. Show the receipt. Evidence-first workflows, practical skills, and plugins for Claude Code and Codex.",
+    "stars": 33,
+    "formatted_stars": "33",
+    "forks": 4,
+    "open_issues": 3,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "license_name": "Apache-2.0",
+    "language": "Python",
+    "topics": [
+      "agent-evaluation",
+      "agent-reliability",
+      "agent-skills",
+      "agents-md",
+      "ai-agents",
+      "claude-code",
+      "claude-md",
+      "claude-skills",
+      "codex",
+      "coding-agents",
+      "llm",
+      "testing",
+      "verification"
+    ],
+    "top_topics": [
+      "agent-evaluation",
+      "agent-reliability",
+      "agent-skills",
+      "agents-md"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-10-25T20:25:30Z"
+  },
+  {
+    "id": 1435329777,
+    "full_name": "rudderlabs/devbox",
+    "name": "devbox",
+    "owner": "rudderlabs",
+    "html_url": "https://github.com/rudderlabs/devbox",
+    "description": "Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.",
+    "escaped_description": "Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.",
+    "stars": 270,
+    "formatted_stars": "270",
+    "forks": 16,
+    "open_issues": 11,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "license_name": "MIT",
+    "language": "TypeScript",
+    "topics": [
+      "agent-harness",
+      "agent-sandbox",
+      "agent-security",
+      "agentic-coding",
+      "autonomous-agents",
+      "background-agents",
+      "coding-agents",
+      "harness-engineering"
+    ],
+    "top_topics": [
+      "agent-harness",
+      "agent-sandbox",
+      "agent-security",
+      "agentic-coding"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-10-31T06:54:23Z"
+  },
+  {
+    "id": 1377746756,
+    "full_name": "DeepLink-org/pvisor",
+    "name": "pvisor",
+    "owner": "DeepLink-org",
+    "html_url": "https://github.com/DeepLink-org/pvisor",
+    "description": "Run a coding agent in a staged workspace, review its file changes, and apply only what you keep.",
+    "escaped_description": "Run a coding agent in a staged workspace, review its file changes, and apply only what you keep.",
+    "stars": 22,
+    "formatted_stars": "22",
+    "forks": 6,
+    "open_issues": 13,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "license_name": "Apache-2.0",
+    "language": "Rust",
+    "topics": [
+      "agent-sandbox",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex-cli",
+      "coding-agents",
+      "copy-on-write",
+      "e2b",
+      "kvm",
+      "opensandbox",
+      "overlayfs",
+      "rust",
+      "sandbox",
+      "sandboxing",
+      "virtual-machine"
+    ],
+    "top_topics": [
+      "agent-sandbox",
+      "ai-agents",
+      "claude-code",
+      "cli"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-11-02T08:13:06Z"
+  },
+  {
+    "id": 745546184,
+    "full_name": "ai-boost/awesome-prompts",
+    "name": "awesome-prompts",
+    "owner": "ai-boost",
+    "html_url": "https://github.com/ai-boost/awesome-prompts",
+    "description": "Curated prompts, frameworks and papers for LLMs and agents, with an engineering bias. Prompt engineering, context engineering, agent harnesses, red teaming.",
+    "escaped_description": "Curated prompts, frameworks and papers for LLMs and agents, with an engineering bias. Prompt engineering, context engineering, agent harnesses, red teaming.",
+    "stars": 9169,
+    "formatted_stars": "9.2k",
+    "forks": 892,
+    "open_issues": 0,
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "license_name": "GPL-3.0",
+    "language": "Python",
+    "topics": [
+      "agents",
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "context-engineering",
+      "llm",
+      "papers",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "top_topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "context-engineering"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-11-02T08:40:25Z"
+  },
+  {
+    "id": 1150205195,
+    "full_name": "pardnchiu/Agenvoy",
+    "name": "Agenvoy",
+    "owner": "pardnchiu",
+    "html_url": "https://github.com/pardnchiu/Agenvoy",
+    "description": "A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ollama",
+    "escaped_description": "A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ollama",
+    "stars": 893,
+    "formatted_stars": "893",
+    "forks": 58,
+    "open_issues": 2,
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "license_name": "AGPL-3.0",
+    "language": "Go",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "claude-code",
+      "go",
+      "golang",
+      "harness",
+      "llm",
+      "local-ai",
+      "local-first",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "multi-agent",
+      "pardnchiu",
+      "personal-assistant",
+      "self-hosted"
+    ],
+    "top_topics": [
+      "agentic-ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant"
+    ],
+    "fork": false,
+    "archived": false,
+    "updated_at": "2026-11-01T22:48:15Z"
   }
 ]
